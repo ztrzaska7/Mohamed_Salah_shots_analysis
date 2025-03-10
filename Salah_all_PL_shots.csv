@@ -1,0 +1,1190 @@
+minute,result,X,Y,xG,player,h_a,situation,season,shotType,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+92,MissedShots,0.823000031,0.369000015,0.062364601,Mohamed Salah,h,OpenPlay,2014,LeftFoot,Chelsea,Swansea,4,2,2014-09-13 15:00:00,Eden Hazard,Pass
+84,SavedShot,0.92,0.532000008,0.439938009,Mohamed Salah,a,OpenPlay,2014,LeftFoot,Tottenham,Chelsea,5,3,2015-01-01 17:30:00,Eden Hazard,Pass
+87,BlockedShot,0.885999985,0.565999985,0.096759997,Mohamed Salah,h,OpenPlay,2014,LeftFoot,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Mario Gomez,BallTouch
+0,SavedShot,0.964000015,0.688000031,0.049131401,Mohamed Salah,a,OpenPlay,2014,LeftFoot,Sassuolo,Fiorentina,1,3,2015-02-14 17:00:00,David Pizarro,Chipped
+16,MissedShots,0.9,0.676999969,0.060320199,Mohamed Salah,a,OpenPlay,2014,LeftFoot,Sassuolo,Fiorentina,1,3,2015-02-14 17:00:00,Khouma Babacar,Pass
+29,Goal,0.855,0.474000015,0.349265993,Mohamed Salah,a,OpenPlay,2014,LeftFoot,Sassuolo,Fiorentina,1,3,2015-02-14 17:00:00,Khouma Babacar,Throughball
+84,Goal,0.87,0.44,0.108186997,Mohamed Salah,h,OpenPlay,2014,RightFoot,Fiorentina,Torino,1,1,2015-02-22 19:45:00,Alberto Gilardino,Pass
+54,Goal,0.885,0.552999992,0.387299001,Mohamed Salah,a,OpenPlay,2014,LeftFoot,Inter,Fiorentina,0,1,2015-03-01 17:00:00,,None
+92,BlockedShot,0.879000015,0.38,0.075346597,Mohamed Salah,a,OpenPlay,2014,LeftFoot,Udinese,Fiorentina,2,2,2015-03-22 19:45:00,,BallTouch
+41,BlockedShot,0.891999969,0.344000015,0.092607498,Mohamed Salah,h,OpenPlay,2014,LeftFoot,Fiorentina,Sampdoria,2,0,2015-04-04 17:30:00,,TakeOn
+49,MissedShots,0.891999969,0.302000008,0.044689201,Mohamed Salah,h,OpenPlay,2014,LeftFoot,Fiorentina,Sampdoria,2,0,2015-04-04 17:30:00,Micah Richards,Pass
+63,Goal,0.905,0.352000008,0.379179001,Mohamed Salah,h,OpenPlay,2014,RightFoot,Fiorentina,Sampdoria,2,0,2015-04-04 17:30:00,Mario Gomez,TakeOn
+71,BlockedShot,0.859000015,0.467000008,0.069182403,Mohamed Salah,h,OpenPlay,2014,LeftFoot,Fiorentina,Verona,0,1,2015-04-20 19:45:00,Alessandro Diamanti,Cross
+22,MissedShots,0.98,0.407999992,0.160688996,Mohamed Salah,h,OpenPlay,2014,Head,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Manuel Pasqual,Cross
+75,MissedShots,0.790999985,0.329000015,0.0229601,Mohamed Salah,h,OpenPlay,2014,LeftFoot,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Stefan Savic,Pass
+79,BlockedShot,0.810999985,0.440999985,0.042316601,Mohamed Salah,h,OpenPlay,2014,LeftFoot,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Alberto Gilardino,BallTouch
+39,MissedShots,0.795,0.422999992,0.040460099,Mohamed Salah,a,OpenPlay,2014,LeftFoot,Juventus,Fiorentina,3,2,2015-04-29 19:45:00,Mario Gomez,Pass
+49,MissedShots,0.830999985,0.512999992,0.073823802,Mohamed Salah,a,OpenPlay,2014,LeftFoot,Juventus,Fiorentina,3,2,2015-04-29 19:45:00,Mario Gomez,LayOff
+17,MissedShots,0.849000015,0.539000015,0.0652503,Mohamed Salah,h,FromCorner,2014,LeftFoot,Fiorentina,Cesena,3,1,2015-05-03 14:00:00,,Rebound
+17,BlockedShot,0.884000015,0.455999985,0.053420201,Mohamed Salah,h,FromCorner,2014,LeftFoot,Fiorentina,Cesena,3,1,2015-05-03 14:00:00,Josip Ilicic,Cross
+39,MissedShots,0.853000031,0.517999992,0.438753009,Mohamed Salah,h,OpenPlay,2014,LeftFoot,Fiorentina,Cesena,3,1,2015-05-03 14:00:00,,None
+42,MissedShots,0.88,0.552999992,0.0293913,Mohamed Salah,h,OpenPlay,2014,Head,Fiorentina,Cesena,3,1,2015-05-03 14:00:00,Juan Vargas,Cross
+44,SavedShot,0.765,0.504000015,0.032761101,Mohamed Salah,h,OpenPlay,2014,LeftFoot,Fiorentina,Cesena,3,1,2015-05-03 14:00:00,,Dispossessed
+49,SavedShot,0.869000015,0.330999985,0.102370001,Mohamed Salah,h,OpenPlay,2014,LeftFoot,Fiorentina,Cesena,3,1,2015-05-03 14:00:00,Neto,Pass
+56,Goal,0.896999969,0.565,0.268530011,Mohamed Salah,a,OpenPlay,2014,LeftFoot,Empoli,Fiorentina,2,3,2015-05-10 17:00:00,Josip Ilicic,TakeOn
+62,SavedShot,0.794000015,0.502000008,0.0519052,Mohamed Salah,a,OpenPlay,2014,LeftFoot,Empoli,Fiorentina,2,3,2015-05-10 17:00:00,Josip Ilicic,Pass
+67,BlockedShot,0.905,0.462999992,0.438537002,Mohamed Salah,a,OpenPlay,2014,RightFoot,Empoli,Fiorentina,2,3,2015-05-10 17:00:00,Mat√≠as Fern√°nd,Pass
+91,BlockedShot,0.820999985,0.676999969,0.034508701,Mohamed Salah,a,OpenPlay,2014,LeftFoot,Empoli,Fiorentina,2,3,2015-05-10 17:00:00,Mat√≠as Fern√°nd,Pass
+15,MissedShots,0.82,0.504000015,0.079266801,Mohamed Salah,h,OpenPlay,2014,LeftFoot,Fiorentina,Parma,3,0,2015-05-18 18:00:00,Alberto Gilardino,LayOff
+51,BlockedShot,0.87,0.46,0.049455501,Mohamed Salah,h,FromCorner,2014,LeftFoot,Fiorentina,Parma,3,0,2015-05-18 18:00:00,Mat√≠as Fern√°nd,Cross
+55,Goal,0.855,0.544000015,0.118499003,Mohamed Salah,h,OpenPlay,2014,RightFoot,Fiorentina,Parma,3,0,2015-05-18 18:00:00,Manuel Pasqual,TakeOn
+87,MissedShots,0.79,0.407000008,0.0364835,Mohamed Salah,a,OpenPlay,2015,LeftFoot,Frosinone,Roma,0,2,2015-09-12 20:00:00,Seydou Keita,TakeOn
+26,SavedShot,0.855,0.355,0.320919991,Mohamed Salah,h,OpenPlay,2015,LeftFoot,Roma,Sassuolo,2,2,2015-09-20 17:00:00,Miralem Pjanic,Throughball
+41,SavedShot,0.913000031,0.327999992,0.108326003,Mohamed Salah,h,OpenPlay,2015,RightFoot,Roma,Sassuolo,2,2,2015-09-20 17:00:00,Juan Iturbe,BallRecovery
+43,MissedShots,0.901999969,0.357000008,0.065308496,Mohamed Salah,h,OpenPlay,2015,RightFoot,Roma,Sassuolo,2,2,2015-09-20 17:00:00,Francesco Totti,Chipped
+48,Goal,0.766999969,0.432999992,0.0191222,Mohamed Salah,h,FromCorner,2015,LeftFoot,Roma,Sassuolo,2,2,2015-09-20 17:00:00,,None
+77,BlockedShot,0.800999985,0.71,0.043000501,Mohamed Salah,h,FromCorner,2015,LeftFoot,Roma,Sassuolo,2,2,2015-09-20 17:00:00,,TakeOn
+82,SavedShot,0.801999969,0.317000008,0.023129901,Mohamed Salah,h,OpenPlay,2015,LeftFoot,Roma,Sassuolo,2,2,2015-09-20 17:00:00,Alessandro Florenzi,Pass
+52,MissedShots,0.851999969,0.275,0.050254699,Mohamed Salah,a,OpenPlay,2015,LeftFoot,Sampdoria,Roma,2,1,2015-09-23 22:45:00,Miralem Pjanic,LayOff
+68,Goal,0.896999969,0.545999985,0.428534001,Mohamed Salah,a,OpenPlay,2015,LeftFoot,Sampdoria,Roma,2,1,2015-09-23 22:45:00,Miralem Pjanic,Pass
+69,BlockedShot,0.861999969,0.372000008,0.076427802,Mohamed Salah,a,OpenPlay,2015,LeftFoot,Sampdoria,Roma,2,1,2015-09-23 22:45:00,Miralem Pjanic,TakeOn
+74,SavedShot,0.849000015,0.291000004,0.037368901,Mohamed Salah,a,OpenPlay,2015,LeftFoot,Sampdoria,Roma,2,1,2015-09-23 22:45:00,Miralem Pjanic,Pass
+50,Goal,0.974000015,0.467999992,0.879567027,Mohamed Salah,h,OpenPlay,2015,RightFoot,Roma,Carpi,5,1,2015-09-26 20:00:00,,Rebound
+58,MissedShots,0.889000015,0.266000004,0.0514029,Mohamed Salah,h,OpenPlay,2015,LeftFoot,Roma,Carpi,5,1,2015-09-26 20:00:00,Maicon,Pass
+72,MissedShots,0.936999969,0.69,0.153771996,Mohamed Salah,h,OpenPlay,2015,LeftFoot,Roma,Carpi,5,1,2015-09-26 20:00:00,Miralem Pjanic,TakeOn
+18,MissedShots,0.856999969,0.320999985,0.045680799,Mohamed Salah,h,OpenPlay,2015,LeftFoot,Roma,Empoli,3,1,2015-10-17 20:00:00,Iago Falque,Chipped
+68,Goal,0.908000031,0.542000008,0.522469997,Mohamed Salah,h,OpenPlay,2015,LeftFoot,Roma,Empoli,3,1,2015-10-17 20:00:00,Gervinho,Pass
+5,Goal,0.839000015,0.31,0.0293242,Mohamed Salah,a,OpenPlay,2015,LeftFoot,Fiorentina,Roma,1,2,2015-10-25 21:00:00,Miralem Pjanic,Pass
+7,MissedShots,0.885999985,0.329000015,0.015208,Mohamed Salah,a,OpenPlay,2015,Head,Inter,Roma,1,0,2015-10-31 23:45:00,,None
+27,MissedShots,0.926999969,0.29,0.0464678,Mohamed Salah,a,OpenPlay,2015,RightFoot,Inter,Roma,1,0,2015-10-31 23:45:00,Miralem Pjanic,Pass
+60,SavedShot,0.965,0.399000015,0.030233899,Mohamed Salah,a,OpenPlay,2015,Head,Inter,Roma,1,0,2015-10-31 23:45:00,,Rebound
+60,SavedShot,0.918000031,0.374000015,0.333532006,Mohamed Salah,a,OpenPlay,2015,RightFoot,Inter,Roma,1,0,2015-10-31 23:45:00,,Rebound
+60,SavedShot,0.900999985,0.395999985,0.356216997,Mohamed Salah,a,OpenPlay,2015,LeftFoot,Inter,Roma,1,0,2015-10-31 23:45:00,Miralem Pjanic,TakeOn
+24,MissedShots,0.775,0.345,0.0152545,Mohamed Salah,h,SetPiece,2015,LeftFoot,Roma,Lazio,2,0,2015-11-08 18:00:00,,Rebound
+4,MissedShots,0.9,0.655,0.063270196,Mohamed Salah,a,OpenPlay,2015,LeftFoot,Napoli,Roma,0,0,2015-12-13 21:00:00,Iago Falque,HeadPass
+45,MissedShots,0.915,0.332000008,0.0748301,Mohamed Salah,h,OpenPlay,2015,LeftFoot,Roma,Genoa,2,0,2015-12-20 18:00:00,Alessandro Florenzi,Chipped
+18,BlockedShot,0.875999985,0.592000008,0.106407002,Mohamed Salah,a,OpenPlay,2015,LeftFoot,Chievo,Roma,3,3,2016-01-06 18:00:00,Gervinho,Pass
+46,MissedShots,0.855,0.66,0.042109199,Mohamed Salah,a,SetPiece,2015,LeftFoot,Chievo,Roma,3,3,2016-01-06 18:00:00,,None
+54,SavedShot,0.911999969,0.527999992,0.484813005,Mohamed Salah,a,OpenPlay,2015,LeftFoot,Chievo,Roma,3,3,2016-01-06 18:00:00,Alessandro Florenzi,None
+43,MissedShots,0.916999969,0.555,0.079603001,Mohamed Salah,h,FromCorner,2015,Head,Roma,Verona,1,1,2016-01-17 18:00:00,Alessandro Florenzi,Cross
+54,SavedShot,0.865999985,0.625,0.050152,Mohamed Salah,h,FromCorner,2015,LeftFoot,Roma,Verona,1,1,2016-01-17 18:00:00,,None
+57,SavedShot,0.915999985,0.360999985,0.304217011,Mohamed Salah,h,OpenPlay,2015,LeftFoot,Roma,Verona,1,1,2016-01-17 18:00:00,Alessandro Florenzi,Chipped
+69,BlockedShot,0.815,0.542000008,0.0795056,Mohamed Salah,h,OpenPlay,2015,LeftFoot,Roma,Frosinone,3,1,2016-01-30 23:45:00,Radja Nainggolan,Pass
+10,Goal,0.793000031,0.312999992,0.025580101,Mohamed Salah,a,OpenPlay,2015,LeftFoot,Sassuolo,Roma,0,2,2016-02-02 23:45:00,Miralem Pjanic,Pass
+35,BlockedShot,0.85,0.352000008,0.087118603,Mohamed Salah,a,OpenPlay,2015,LeftFoot,Sassuolo,Roma,0,2,2016-02-02 23:45:00,,TakeOn
+40,BlockedShot,0.761999969,0.417999992,0.017894801,Mohamed Salah,a,FromCorner,2015,LeftFoot,Sassuolo,Roma,0,2,2016-02-02 23:45:00,,None
+54,SavedShot,0.919000015,0.362999992,0.371477991,Mohamed Salah,a,OpenPlay,2015,LeftFoot,Sassuolo,Roma,0,2,2016-02-02 23:45:00,Miralem Pjanic,TakeOn
+43,ShotOnPost,0.910999985,0.447999992,0.364843994,Mohamed Salah,a,OpenPlay,2015,LeftFoot,Carpi,Roma,1,3,2016-02-12 23:45:00,Edin Dzeko,HeadPass
+84,Goal,0.906999969,0.397999992,0.391012013,Mohamed Salah,a,OpenPlay,2015,LeftFoot,Carpi,Roma,1,3,2016-02-12 23:45:00,,None
+11,MissedShots,0.825,0.320999985,0.034954902,Mohamed Salah,h,OpenPlay,2015,LeftFoot,Roma,Palermo,5,0,2016-02-21 23:45:00,Edin Dzeko,Pass
+34,MissedShots,0.815999985,0.432999992,0.063409798,Mohamed Salah,h,FromCorner,2015,LeftFoot,Roma,Palermo,5,0,2016-02-21 23:45:00,Radja Nainggolan,TakeOn
+54,BlockedShot,0.811999969,0.630999985,0.042826001,Mohamed Salah,h,OpenPlay,2015,LeftFoot,Roma,Palermo,5,0,2016-02-21 23:45:00,Radja Nainggolan,BallRecovery
+59,Goal,0.9,0.661999969,0.093199298,Mohamed Salah,h,OpenPlay,2015,LeftFoot,Roma,Palermo,5,0,2016-02-21 23:45:00,Edin Dzeko,Pass
+61,Goal,0.995999985,0.298999996,0.128090993,Mohamed Salah,h,OpenPlay,2015,LeftFoot,Roma,Palermo,5,0,2016-02-21 23:45:00,,TakeOn
+73,SavedShot,0.819000015,0.703000031,0.034393199,Mohamed Salah,a,OpenPlay,2015,LeftFoot,Empoli,Roma,1,3,2016-02-27 21:00:00,Stephan El Shaarawy,Pass
+83,MissedShots,0.789000015,0.372000008,0.045245402,Mohamed Salah,a,OpenPlay,2015,LeftFoot,Empoli,Roma,1,3,2016-02-27 21:00:00,Edin Dzeko,Pass
+94,MissedShots,0.753000031,0.286000004,0.0148004,Mohamed Salah,a,SetPiece,2015,LeftFoot,Empoli,Roma,1,3,2016-02-27 21:00:00,Miralem Pjanic,Pass
+24,Goal,0.771999969,0.267999992,0.0165399,Mohamed Salah,h,OpenPlay,2015,LeftFoot,Roma,Fiorentina,4,1,2016-03-04 23:45:00,Diego Perotti,LayOff
+57,Goal,0.911999969,0.334000015,0.305088997,Mohamed Salah,h,OpenPlay,2015,LeftFoot,Roma,Fiorentina,4,1,2016-03-04 23:45:00,Miralem Pjanic,Chipped
+37,BlockedShot,0.871999969,0.604000015,0.103685997,Mohamed Salah,a,OpenPlay,2015,LeftFoot,Udinese,Roma,1,2,2016-03-13 18:00:00,Diego Perotti,Pass
+11,BlockedShot,0.715,0.425,0.0141021,Mohamed Salah,h,OpenPlay,2015,LeftFoot,Roma,Inter,1,1,2016-03-19 23:45:00,,Tackle
+80,SavedShot,0.895999985,0.658000031,0.066313401,Mohamed Salah,h,OpenPlay,2015,LeftFoot,Roma,Inter,1,1,2016-03-19 23:45:00,Radja Nainggolan,Pass
+89,BlockedShot,0.875999985,0.359000015,0.051153999,Mohamed Salah,h,FromCorner,2015,LeftFoot,Roma,Inter,1,1,2016-03-19 23:45:00,Miralem Pjanic,Pass
+39,BlockedShot,0.739000015,0.277000008,0.018501,Mohamed Salah,a,OpenPlay,2015,LeftFoot,Lazio,Roma,1,4,2016-04-03 17:00:00,Radja Nainggolan,Pass
+49,MissedShots,0.830999985,0.34,0.027388399,Mohamed Salah,a,FromCorner,2015,LeftFoot,Lazio,Roma,1,4,2016-04-03 17:00:00,,None
+52,MissedShots,0.913000031,0.442999992,0.142912999,Mohamed Salah,a,OpenPlay,2015,LeftFoot,Lazio,Roma,1,4,2016-04-03 17:00:00,Alessandro Florenzi,Pass
+15,ShotOnPost,0.881999969,0.569000015,0.0303856,Mohamed Salah,h,OpenPlay,2015,Head,Roma,Bologna,1,1,2016-04-11 22:45:00,Lucas Digne,Cross
+22,SavedShot,0.893000031,0.31,0.305207998,Mohamed Salah,h,OpenPlay,2015,LeftFoot,Roma,Bologna,1,1,2016-04-11 22:45:00,Diego Perotti,Throughball
+30,MissedShots,0.905,0.419000015,0.039893299,Mohamed Salah,h,OpenPlay,2015,Head,Roma,Bologna,1,1,2016-04-11 22:45:00,,None
+45,ShotOnPost,0.810999985,0.394000015,0.037141401,Mohamed Salah,h,OpenPlay,2015,LeftFoot,Roma,Bologna,1,1,2016-04-11 22:45:00,Alessandro Florenzi,Pass
+49,Goal,0.865,0.452000008,0.171565995,Mohamed Salah,h,OpenPlay,2015,LeftFoot,Roma,Bologna,1,1,2016-04-11 22:45:00,Francesco Totti,BallRecovery
+82,MissedShots,0.761999969,0.392999992,0.023465199,Mohamed Salah,h,OpenPlay,2015,LeftFoot,Roma,Bologna,1,1,2016-04-11 22:45:00,Francesco Totti,Pass
+10,MissedShots,0.835999985,0.311000004,0.033325199,Mohamed Salah,h,OpenPlay,2015,LeftFoot,Roma,Torino,3,2,2016-04-20 22:45:00,Radja Nainggolan,Pass
+11,MissedShots,0.900999985,0.464000015,0.123681001,Mohamed Salah,h,OpenPlay,2015,RightFoot,Roma,Torino,3,2,2016-04-20 22:45:00,Alessandro Florenzi,Rebound
+15,SavedShot,0.754000015,0.564000015,0.030512501,Mohamed Salah,h,OpenPlay,2015,LeftFoot,Roma,Torino,3,2,2016-04-20 22:45:00,Stephan El Shaarawy,TakeOn
+0,MissedShots,0.783000031,0.404000015,0.0288684,Mohamed Salah,h,OpenPlay,2015,LeftFoot,Roma,Napoli,1,0,2016-04-25 17:00:00,,None
+31,SavedShot,0.815,0.56,0.0588766,Mohamed Salah,h,OpenPlay,2015,LeftFoot,Roma,Napoli,1,0,2016-04-25 17:00:00,Stephan El Shaarawy,Pass
+5,Goal,0.913000031,0.48,0.524293005,Mohamed Salah,a,OpenPlay,2015,LeftFoot,Genoa,Roma,2,3,2016-05-02 21:00:00,Diego Perotti,Pass
+9,BlockedShot,0.828000031,0.308999996,0.0113043,Mohamed Salah,h,FromCorner,2015,LeftFoot,Roma,Chievo,3,0,2016-05-08 14:30:00,Miralem Pjanic,Chipped
+21,MissedShots,0.781999969,0.238999996,0.0161437,Mohamed Salah,h,OpenPlay,2015,LeftFoot,Roma,Chievo,3,0,2016-05-08 14:30:00,Miralem Pjanic,Pass
+16,MissedShots,0.875999985,0.645,0.065940097,Mohamed Salah,a,OpenPlay,2015,LeftFoot,AC Milan,Roma,1,3,2016-05-14 22:45:00,,BallRecovery
+18,Goal,0.883000031,0.407999992,0.33801201,Mohamed Salah,a,OpenPlay,2015,LeftFoot,AC Milan,Roma,1,3,2016-05-14 22:45:00,Kevin Strootman,Throughball
+81,SavedShot,0.878000031,0.375,0.105052002,Mohamed Salah,a,OpenPlay,2015,LeftFoot,AC Milan,Roma,1,3,2016-05-14 22:45:00,Francesco Totti,Pass
+41,BlockedShot,0.761999969,0.375999985,0.022682499,Mohamed Salah,h,OpenPlay,2016,LeftFoot,Roma,Udinese,4,0,2016-08-20 20:00:00,Edin Dzeko,Pass
+60,MissedShots,0.85,0.342999992,0.041921798,Mohamed Salah,h,OpenPlay,2016,LeftFoot,Roma,Udinese,4,0,2016-08-20 20:00:00,,Rebound
+83,Goal,0.979000015,0.525999985,0.953745008,Mohamed Salah,h,OpenPlay,2016,LeftFoot,Roma,Udinese,4,0,2016-08-20 20:00:00,,Rebound
+83,SavedShot,0.954000015,0.457999992,0.520735025,Mohamed Salah,h,OpenPlay,2016,Head,Roma,Udinese,4,0,2016-08-20 20:00:00,Diego Perotti,Cross
+84,MissedShots,0.785999985,0.355,0.034336101,Mohamed Salah,h,OpenPlay,2016,LeftFoot,Roma,Udinese,4,0,2016-08-20 20:00:00,,BallRecovery
+11,MissedShots,0.865,0.370999985,0.091750897,Mohamed Salah,a,OpenPlay,2016,LeftFoot,Cagliari,Roma,2,2,2016-08-28 22:45:00,Kevin Strootman,Pass
+37,SavedShot,0.745,0.487000008,0.029601799,Mohamed Salah,a,OpenPlay,2016,LeftFoot,Cagliari,Roma,2,2,2016-08-28 22:45:00,Kevin Strootman,Pass
+80,MissedShots,0.92,0.301000004,0.053274699,Mohamed Salah,a,OpenPlay,2016,RightFoot,Cagliari,Roma,2,2,2016-08-28 22:45:00,Alessandro Florenzi,Pass
+7,Goal,0.949000015,0.405999985,0.285293013,Mohamed Salah,h,OpenPlay,2016,Head,Roma,Sampdoria,3,2,2016-09-11 17:00:00,Diego Perotti,Cross
+65,MissedShots,0.946999969,0.412000008,0.049204201,Mohamed Salah,h,OpenPlay,2016,Head,Roma,Sampdoria,3,2,2016-09-11 17:00:00,,None
+66,SavedShot,0.915999985,0.33,0.119232997,Mohamed Salah,h,OpenPlay,2016,RightFoot,Roma,Sampdoria,3,2,2016-09-11 17:00:00,Juan Jesus,Throughball
+72,SavedShot,0.889000015,0.412000008,0.345501006,Mohamed Salah,h,OpenPlay,2016,RightFoot,Roma,Sampdoria,3,2,2016-09-11 17:00:00,Francesco Totti,Throughball
+43,MissedShots,0.810999985,0.520999985,0.0511811,Mohamed Salah,a,OpenPlay,2016,LeftFoot,Fiorentina,Roma,1,0,2016-09-18 22:45:00,Kevin Strootman,Pass
+36,Goal,0.908000031,0.666999969,0.302783996,Mohamed Salah,h,OpenPlay,2016,LeftFoot,Roma,Crotone,4,0,2016-09-21 22:45:00,Stephan El Shaarawy,Pass
+9,BlockedShot,0.853000031,0.47,0.082076997,Mohamed Salah,a,OpenPlay,2016,RightFoot,Torino,Roma,3,1,2016-09-25 14:30:00,Edin Dzeko,Pass
+83,MissedShots,0.795,0.273999996,0.017987,Mohamed Salah,a,OpenPlay,2016,LeftFoot,Torino,Roma,3,1,2016-09-25 14:30:00,Kevin Strootman,Pass
+91,MissedShots,0.959000015,0.337000008,0.045308098,Mohamed Salah,a,OpenPlay,2016,RightFoot,Torino,Roma,3,1,2016-09-25 14:30:00,Federico Fazio,HeadPass
+20,SavedShot,0.925,0.347999992,0.306383014,Mohamed Salah,h,OpenPlay,2016,LeftFoot,Roma,Inter,2,1,2016-10-02 22:45:00,Daniele De Rossi,TakeOn
+20,ShotOnPost,0.895999985,0.385,0.341605008,Mohamed Salah,h,OpenPlay,2016,LeftFoot,Roma,Inter,2,1,2016-10-02 22:45:00,Edin Dzeko,Throughball
+59,BlockedShot,0.871999969,0.337999992,0.075819999,Mohamed Salah,h,OpenPlay,2016,LeftFoot,Roma,Inter,2,1,2016-10-02 22:45:00,Edin Dzeko,HeadPass
+62,MissedShots,0.905,0.382000008,0.0710271,Mohamed Salah,a,OpenPlay,2016,LeftFoot,Napoli,Roma,1,3,2016-10-15 17:00:00,Diego Perotti,Cross
+84,Goal,0.905,0.407000008,0.374743015,Mohamed Salah,a,OpenPlay,2016,LeftFoot,Napoli,Roma,1,3,2016-10-15 17:00:00,Daniele De Rossi,Throughball
+30,Goal,0.905999985,0.594000015,0.375606,Mohamed Salah,h,OpenPlay,2016,LeftFoot,Roma,Palermo,4,1,2016-10-23 22:45:00,Edin Dzeko,Pass
+61,BlockedShot,0.848000031,0.467000008,0.324649006,Mohamed Salah,a,OpenPlay,2016,LeftFoot,Sassuolo,Roma,1,3,2016-10-26 22:45:00,,TakeOn
+4,SavedShot,0.898000031,0.555,0.082394697,Mohamed Salah,a,OpenPlay,2016,LeftFoot,Empoli,Roma,0,0,2016-10-30 18:00:00,Radja Nainggolan,HeadPass
+12,Goal,0.885999985,0.45,0.122997999,Mohamed Salah,h,OpenPlay,2016,LeftFoot,Roma,Bologna,3,0,2016-11-06 23:45:00,Diego Perotti,TakeOn
+54,BlockedShot,0.954000015,0.572999992,0.150181994,Mohamed Salah,h,OpenPlay,2016,LeftFoot,Roma,Bologna,3,0,2016-11-06 23:45:00,Diego Perotti,Pass
+59,SavedShot,0.960999985,0.405999985,0.423305005,Mohamed Salah,h,OpenPlay,2016,LeftFoot,Roma,Bologna,3,0,2016-11-06 23:45:00,Edin Dzeko,Pass
+61,Goal,0.903000031,0.402000008,0.383657992,Mohamed Salah,h,OpenPlay,2016,LeftFoot,Roma,Bologna,3,0,2016-11-06 23:45:00,Kevin Strootman,Throughball
+70,Goal,0.954000015,0.445,0.627300978,Mohamed Salah,h,OpenPlay,2016,RightFoot,Roma,Bologna,3,0,2016-11-06 23:45:00,,Rebound
+81,MissedShots,0.958000031,0.44,0.608456016,Mohamed Salah,h,OpenPlay,2016,LeftFoot,Roma,Bologna,3,0,2016-11-06 23:45:00,Radja Nainggolan,Pass
+25,SavedShot,0.866999969,0.312000008,0.050773501,Mohamed Salah,a,OpenPlay,2016,RightFoot,Atalanta,Roma,2,1,2016-11-20 18:00:00,Edin Dzeko,Chipped
+29,SavedShot,0.865,0.422999992,0.339080006,Mohamed Salah,a,OpenPlay,2016,LeftFoot,Atalanta,Roma,2,1,2016-11-20 18:00:00,Radja Nainggolan,Throughball
+38,BlockedShot,0.953000031,0.445,0.150989994,Mohamed Salah,a,OpenPlay,2016,LeftFoot,Atalanta,Roma,2,1,2016-11-20 18:00:00,Edin Dzeko,Pass
+5,MissedShots,0.823000031,0.439000015,0.318875998,Mohamed Salah,h,OpenPlay,2016,LeftFoot,Roma,Pescara,3,2,2016-11-27 23:45:00,Edin Dzeko,Throughball
+27,BlockedShot,0.803000031,0.507000008,0.061472099,Mohamed Salah,h,OpenPlay,2016,LeftFoot,Roma,Pescara,3,2,2016-11-27 23:45:00,Radja Nainggolan,Pass
+82,SavedShot,0.905,0.345,0.0940153,Mohamed Salah,h,OpenPlay,2016,RightFoot,Roma,Pescara,3,2,2016-11-27 23:45:00,Francesco Totti,Pass
+14,MissedShots,0.861999969,0.630999985,0.062581398,Mohamed Salah,h,OpenPlay,2016,LeftFoot,Roma,Chievo,3,1,2016-12-22 19:45:00,Emerson,Pass
+17,MissedShots,0.906999969,0.39,0.033157501,Mohamed Salah,h,OpenPlay,2016,Head,Roma,Chievo,3,1,2016-12-22 19:45:00,Bruno Peres,Cross
+69,BlockedShot,0.879000015,0.322000008,0.055186398,Mohamed Salah,h,OpenPlay,2016,LeftFoot,Roma,Chievo,3,1,2016-12-22 19:45:00,Stephan El Shaarawy,Pass
+19,MissedShots,0.919000015,0.515999985,0.330789,Mohamed Salah,a,OpenPlay,2016,Head,Crotone,Roma,0,2,2017-02-12 11:30:00,Emerson,Cross
+46,SavedShot,0.913000031,0.357000008,0.055711601,Mohamed Salah,a,OpenPlay,2016,RightFoot,Crotone,Roma,0,2,2017-02-12 11:30:00,Kevin Strootman,Cross
+51,BlockedShot,0.878000031,0.272999992,0.047003999,Mohamed Salah,a,OpenPlay,2016,LeftFoot,Crotone,Roma,0,2,2017-02-12 11:30:00,Radja Nainggolan,Chipped
+16,Goal,0.869000015,0.324000015,0.025638601,Mohamed Salah,h,OpenPlay,2016,LeftFoot,Roma,Torino,4,1,2017-02-19 17:00:00,,Aerial
+19,ShotOnPost,0.82,0.337000008,0.050767198,Mohamed Salah,h,OpenPlay,2016,LeftFoot,Roma,Torino,4,1,2017-02-19 17:00:00,Wojciech Szczesny,TakeOn
+59,BlockedShot,0.806999969,0.439000015,0.0680435,Mohamed Salah,h,OpenPlay,2016,LeftFoot,Roma,Torino,4,1,2017-02-19 17:00:00,Bruno Peres,Pass
+6,BlockedShot,0.749000015,0.402000008,0.0141413,Mohamed Salah,a,SetPiece,2016,LeftFoot,Inter,Roma,1,3,2017-02-26 19:45:00,Antonio R√ºdige,Rebound
+6,MissedShots,0.799000015,0.312999992,0.0165281,Mohamed Salah,a,SetPiece,2016,RightFoot,Inter,Roma,1,3,2017-02-26 19:45:00,,None
+7,SavedShot,0.82,0.479000015,0.0546772,Mohamed Salah,a,OpenPlay,2016,LeftFoot,Inter,Roma,1,3,2017-02-26 19:45:00,,None
+27,MissedShots,0.781999969,0.17,0.0147327,Mohamed Salah,a,OpenPlay,2016,RightFoot,Inter,Roma,1,3,2017-02-26 19:45:00,Kevin Strootman,Chipped
+55,BlockedShot,0.895,0.352999992,0.045051601,Mohamed Salah,h,OpenPlay,2016,LeftFoot,Roma,Napoli,1,2,2017-03-04 14:00:00,,Rebound
+77,MissedShots,0.845,0.535999985,0.088767499,Mohamed Salah,h,OpenPlay,2016,LeftFoot,Roma,Napoli,1,2,2017-03-04 14:00:00,Edin Dzeko,Pass
+84,ShotOnPost,0.880999985,0.395,0.30250901,Mohamed Salah,h,OpenPlay,2016,RightFoot,Roma,Napoli,1,2,2017-03-04 14:00:00,Radja Nainggolan,Throughball
+1,SavedShot,0.861999969,0.584000015,0.069896601,Mohamed Salah,h,OpenPlay,2016,LeftFoot,Roma,Sassuolo,3,1,2017-03-19 19:45:00,,None
+2,MissedShots,0.958000031,0.684000015,0.045784,Mohamed Salah,h,OpenPlay,2016,LeftFoot,Roma,Sassuolo,3,1,2017-03-19 19:45:00,,Rebound
+46,Goal,0.971999969,0.534000015,0.781216025,Mohamed Salah,h,OpenPlay,2016,LeftFoot,Roma,Sassuolo,3,1,2017-03-19 19:45:00,,Rebound
+50,MissedShots,0.864000015,0.339000015,0.093544297,Mohamed Salah,h,OpenPlay,2016,RightFoot,Roma,Sassuolo,3,1,2017-03-19 19:45:00,Kevin Strootman,Pass
+67,SavedShot,0.858000031,0.293999996,0.0579268,Mohamed Salah,h,OpenPlay,2016,RightFoot,Roma,Empoli,2,0,2017-04-01 19:45:00,Cl√©ment Grenie,Pass
+69,ShotOnPost,0.963000031,0.392000008,0.0393706,Mohamed Salah,h,FromCorner,2016,Head,Roma,Empoli,2,0,2017-04-01 19:45:00,Cl√©ment Grenie,Cross
+79,MissedShots,0.850999985,0.405999985,0.0845946,Mohamed Salah,h,OpenPlay,2016,LeftFoot,Roma,Empoli,2,0,2017-04-01 19:45:00,Francesco Totti,Pass
+40,Goal,0.898000031,0.4,0.357755989,Mohamed Salah,a,OpenPlay,2016,RightFoot,Bologna,Roma,0,3,2017-04-09 14:00:00,Edin Dzeko,Throughball
+37,BlockedShot,0.806999969,0.484000015,0.0407212,Mohamed Salah,h,SetPiece,2016,LeftFoot,Roma,Atalanta,1,1,2017-04-15 14:00:00,,None
+90,BlockedShot,0.875999985,0.337000008,0.036357202,Mohamed Salah,h,FromCorner,2016,LeftFoot,Roma,Atalanta,1,1,2017-04-15 14:00:00,Francesco Totti,Cross
+1,BlockedShot,0.791999969,0.342000008,0.034676701,Mohamed Salah,a,FromCorner,2016,LeftFoot,Pescara,Roma,1,4,2017-04-24 19:45:00,Radja Nainggolan,Pass
+10,BlockedShot,0.839000015,0.33,0.0418237,Mohamed Salah,a,OpenPlay,2016,LeftFoot,Pescara,Roma,1,4,2017-04-24 19:45:00,Leandro Paredes,Pass
+33,MissedShots,0.839000015,0.372999992,0.050409898,Mohamed Salah,a,OpenPlay,2016,LeftFoot,Pescara,Roma,1,4,2017-04-24 19:45:00,,None
+47,Goal,0.810999985,0.47,0.073323801,Mohamed Salah,a,OpenPlay,2016,LeftFoot,Pescara,Roma,1,4,2017-04-24 19:45:00,Stephan El Shaarawy,Pass
+59,Goal,0.879000015,0.462000008,0.362161994,Mohamed Salah,a,OpenPlay,2016,RightFoot,Pescara,Roma,1,4,2017-04-24 19:45:00,Stephan El Shaarawy,Pass
+7,SavedShot,0.893000031,0.287000008,0.051311199,Mohamed Salah,h,OpenPlay,2016,LeftFoot,Roma,Lazio,1,3,2017-04-30 11:30:00,Kevin Strootman,TakeOn
+11,MissedShots,0.860999985,0.374000015,0.049753498,Mohamed Salah,a,OpenPlay,2016,LeftFoot,AC Milan,Roma,1,4,2017-05-07 19:45:00,Diego Perotti,Cross
+36,MissedShots,0.851999969,0.330999985,0.075517997,Mohamed Salah,a,OpenPlay,2016,LeftFoot,AC Milan,Roma,1,4,2017-05-07 19:45:00,Diego Perotti,Chipped
+37,MissedShots,0.915,0.412000008,0.414712995,Mohamed Salah,a,OpenPlay,2016,LeftFoot,AC Milan,Roma,1,4,2017-05-07 19:45:00,,Rebound
+81,BlockedShot,0.875,0.367000008,0.101149999,Mohamed Salah,a,OpenPlay,2016,LeftFoot,AC Milan,Roma,1,4,2017-05-07 19:45:00,Cl√©ment Grenie,Pass
+41,SavedShot,0.915,0.527999992,0.305725008,Mohamed Salah,h,OpenPlay,2016,Head,Roma,Juventus,3,1,2017-05-14 19:45:00,Radja Nainggolan,Chipped
+7,SavedShot,0.753000031,0.327000008,0.0146487,Mohamed Salah,a,OpenPlay,2016,LeftFoot,Chievo,Roma,3,5,2017-05-20 17:00:00,Kevin Strootman,LayOff
+40,SavedShot,0.946999969,0.442999992,0.347404003,Mohamed Salah,a,OpenPlay,2016,Head,Chievo,Roma,3,5,2017-05-20 17:00:00,,Rebound
+41,Goal,0.846999969,0.276000004,0.0282708,Mohamed Salah,a,OpenPlay,2016,LeftFoot,Chievo,Roma,3,5,2017-05-20 17:00:00,Kevin Strootman,Pass
+52,MissedShots,0.785999985,0.439000015,0.043108799,Mohamed Salah,a,OpenPlay,2016,LeftFoot,Chievo,Roma,3,5,2017-05-20 17:00:00,Edin Dzeko,LayOff
+75,Goal,0.820999985,0.542999992,0.081466801,Mohamed Salah,a,OpenPlay,2016,LeftFoot,Chievo,Roma,3,5,2017-05-20 17:00:00,Edin Dzeko,Pass
+79,MissedShots,0.956999969,0.565999985,0.133755997,Mohamed Salah,a,OpenPlay,2016,Head,Chievo,Roma,3,5,2017-05-20 17:00:00,Kevin Strootman,Cross
+37,MissedShots,0.920999985,0.339000015,0.055975799,Mohamed Salah,a,OpenPlay,2017,LeftFoot,Watford,Liverpool,3,3,2017-08-12 12:30:00,,None
+48,MissedShots,0.854000015,0.337000008,0.051162198,Mohamed Salah,a,OpenPlay,2017,LeftFoot,Watford,Liverpool,3,3,2017-08-12 12:30:00,Georginio Wijnaldum,Pass
+56,Goal,0.986999969,0.46,0.936432004,Mohamed Salah,a,OpenPlay,2017,LeftFoot,Watford,Liverpool,3,3,2017-08-12 12:30:00,Roberto Firmino,Rebound
+70,MissedShots,0.841999969,0.313999996,0.038231701,Mohamed Salah,a,OpenPlay,2017,LeftFoot,Watford,Liverpool,3,3,2017-08-12 12:30:00,Alberto Moreno,Chipped
+76,MissedShots,0.914000015,0.317999992,0.0802029,Mohamed Salah,a,OpenPlay,2017,RightFoot,Watford,Liverpool,3,3,2017-08-12 12:30:00,Sadio Man√,Pass
+81,SavedShot,0.903000031,0.602999992,0.025692901,Mohamed Salah,h,OpenPlay,2017,Head,Liverpool,Crystal Palace,1,0,2017-08-19 15:00:00,Joseph Gomez,Aerial
+90,SavedShot,0.821999969,0.36,0.035961099,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Crystal Palace,1,0,2017-08-19 15:00:00,Joel Matip,TakeOn
+9,SavedShot,0.963000031,0.462000008,0.609571993,Mohamed Salah,h,OpenPlay,2017,RightFoot,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,Emre Can,Cross
+24,SavedShot,0.878000031,0.355,0.074935101,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,Georginio Wijnaldum,Chipped
+53,SavedShot,0.913000031,0.34,0.368956,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,,BallRecovery
+56,Goal,0.865,0.569000015,0.46628499,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,,BallRecovery
+90,SavedShot,0.954000015,0.709000015,0.087686002,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,James Milner,Chipped
+30,SavedShot,0.891999969,0.320999985,0.305673003,Mohamed Salah,a,OpenPlay,2017,LeftFoot,Manchester City,Liverpool,5,0,2017-09-09 12:30:00,Sadio Man√,Throughball
+20,MissedShots,0.973000031,0.382000008,0.0261855,Mohamed Salah,h,OpenPlay,2017,Head,Liverpool,Burnley,1,1,2017-09-16 15:00:00,Daniel Sturridge,Chipped
+29,Goal,0.883000031,0.605999985,0.067148097,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Burnley,1,1,2017-09-16 15:00:00,Emre Can,Chipped
+36,SavedShot,0.899000015,0.377000008,0.083209001,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Burnley,1,1,2017-09-16 15:00:00,Roberto Firmino,BallTouch
+36,BlockedShot,0.765999985,0.325999985,0.021746799,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Burnley,1,1,2017-09-16 15:00:00,James Milner,Pass
+43,SavedShot,0.783000031,0.288999996,0.0202091,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Burnley,1,1,2017-09-16 15:00:00,Roberto Firmino,Pass
+89,SavedShot,0.875,0.316000004,0.051895998,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Burnley,1,1,2017-09-16 15:00:00,Daniel Sturridge,Pass
+12,MissedShots,0.896999969,0.500999985,0.391885996,Mohamed Salah,a,OpenPlay,2017,LeftFoot,Leicester,Liverpool,2,3,2017-09-23 17:30:00,,Rebound
+14,Goal,0.97,0.405999985,0.093166798,Mohamed Salah,a,OpenPlay,2017,Head,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Philippe Coutinho,Cross
+65,BlockedShot,0.875,0.417999992,0.109497003,Mohamed Salah,a,OpenPlay,2017,RightFoot,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Philippe Coutinho,Pass
+66,BlockedShot,0.905999985,0.587999992,0.130230993,Mohamed Salah,a,OpenPlay,2017,LeftFoot,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Alberto Moreno,Pass
+49,MissedShots,0.865,0.545999985,0.322254002,Mohamed Salah,a,OpenPlay,2017,LeftFoot,Newcastle United,Liverpool,1,1,2017-10-01 16:30:00,,Rebound
+33,MissedShots,0.885,0.447999992,0.090761997,Mohamed Salah,h,FromCorner,2017,LeftFoot,Liverpool,Manchester United,0,0,2017-10-14 12:30:00,,Rebound
+40,SavedShot,0.85,0.417000008,0.0845071,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Manchester United,0,0,2017-10-14 12:30:00,Roberto Firmino,Pass
+66,MissedShots,0.810999985,0.430999985,0.061280299,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Manchester United,0,0,2017-10-14 12:30:00,Jordan Henderson,TakeOn
+75,MissedShots,0.718000031,0.457999992,0.0175649,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Manchester United,0,0,2017-10-14 12:30:00,Jordan Henderson,Pass
+23,Goal,0.889000015,0.362999992,0.27068001,Mohamed Salah,a,OpenPlay,2017,RightFoot,Tottenham,Liverpool,4,1,2017-10-22 16:00:00,Jordan Henderson,Chipped
+27,SavedShot,0.959000015,0.315,0.0170273,Mohamed Salah,a,OpenPlay,2017,Head,Tottenham,Liverpool,4,1,2017-10-22 16:00:00,Philippe Coutinho,Chipped
+77,SavedShot,0.906999969,0.435999985,0.117766999,Mohamed Salah,a,OpenPlay,2017,LeftFoot,Tottenham,Liverpool,4,1,2017-10-22 16:00:00,Alex Oxlade-Chamberlain,Pass
+26,SavedShot,0.859000015,0.415999985,0.085980803,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Huddersfield,3,0,2017-10-28 15:00:00,Roberto Firmino,Pass
+41,SavedShot,0.885,0.5,0.761169016,Mohamed Salah,h,Penalty,2017,LeftFoot,Liverpool,Huddersfield,3,0,2017-10-28 15:00:00,,Standard
+62,SavedShot,0.855999985,0.520999985,0.113851003,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Huddersfield,3,0,2017-10-28 15:00:00,Roberto Firmino,Pass
+20,Goal,0.891999969,0.429000015,0.474151999,Mohamed Salah,a,OpenPlay,2017,LeftFoot,West Ham,Liverpool,1,4,2017-11-04 17:30:00,Sadio Man√,Pass
+75,Goal,0.880999985,0.679000015,0.078967199,Mohamed Salah,a,OpenPlay,2017,LeftFoot,West Ham,Liverpool,1,4,2017-11-04 17:30:00,Sadio Man√,Pass
+80,SavedShot,0.855,0.472000008,0.121258996,Mohamed Salah,a,OpenPlay,2017,LeftFoot,West Ham,Liverpool,1,4,2017-11-04 17:30:00,Alex Oxlade-Chamberlain,Pass
+8,BlockedShot,0.899000015,0.360999985,0.063930899,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Southampton,3,0,2017-11-18 15:00:00,,Rebound
+9,MissedShots,0.901999969,0.482000008,0.111722998,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Southampton,3,0,2017-11-18 15:00:00,Sadio Man√,Cross
+30,Goal,0.809000015,0.292999992,0.024756899,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Southampton,3,0,2017-11-18 15:00:00,Georginio Wijnaldum,Pass
+40,Goal,0.915,0.579000015,0.410335988,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Southampton,3,0,2017-11-18 15:00:00,Philippe Coutinho,Throughball
+51,BlockedShot,0.85,0.643000031,0.037565399,Mohamed Salah,h,FromCorner,2017,LeftFoot,Liverpool,Southampton,3,0,2017-11-18 15:00:00,,None
+1,BlockedShot,0.795999985,0.327000008,0.026797401,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Chelsea,1,1,2017-11-25 17:30:00,Daniel Sturridge,Pass
+9,MissedShots,0.758000031,0.445999985,0.0219422,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Chelsea,1,1,2017-11-25 17:30:00,Daniel Sturridge,Pass
+26,BlockedShot,0.916999969,0.38,0.113325998,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Chelsea,1,1,2017-11-25 17:30:00,,TakeOn
+40,MissedShots,0.790999985,0.347999992,0.0284603,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Chelsea,1,1,2017-11-25 17:30:00,James Milner,Pass
+49,BlockedShot,0.913000031,0.710999985,0.022450199,Mohamed Salah,h,FromCorner,2017,LeftFoot,Liverpool,Chelsea,1,1,2017-11-25 17:30:00,Joel Matip,HeadPass
+64,Goal,0.9,0.454000015,0.449708998,Mohamed Salah,h,OpenPlay,2017,RightFoot,Liverpool,Chelsea,1,1,2017-11-25 17:30:00,Alex Oxlade-Chamberlain,Pass
+90,SavedShot,0.811999969,0.479000015,0.039821301,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Chelsea,1,1,2017-11-25 17:30:00,James Milner,HeadPass
+76,Goal,0.93,0.617999992,0.310907006,Mohamed Salah,a,OpenPlay,2017,LeftFoot,Stoke,Liverpool,0,3,2017-11-29 20:00:00,Sadio Man√,Chipped
+82,Goal,0.906999969,0.474000015,0.567673981,Mohamed Salah,a,OpenPlay,2017,LeftFoot,Stoke,Liverpool,0,3,2017-11-29 20:00:00,,None
+0,MissedShots,0.821999969,0.327999992,0.0353297,Mohamed Salah,a,OpenPlay,2017,LeftFoot,Brighton,Liverpool,1,5,2017-12-02 15:00:00,Trent Alexander-Arnold,Pass
+3,BlockedShot,0.969000015,0.639000015,0.067161202,Mohamed Salah,a,OpenPlay,2017,LeftFoot,Brighton,Liverpool,1,5,2017-12-02 15:00:00,,None
+64,SavedShot,0.88,0.447000008,0.104566999,Mohamed Salah,a,OpenPlay,2017,LeftFoot,Brighton,Liverpool,1,5,2017-12-02 15:00:00,,None
+12,BlockedShot,0.859000015,0.34,0.0591725,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Everton,1,1,2017-12-10 14:15:00,Sadio Man√,Pass
+14,BlockedShot,0.865999985,0.297000008,0.041687202,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Everton,1,1,2017-12-10 14:15:00,Sadio Man√,Pass
+37,BlockedShot,0.745999985,0.544000015,0.019257899,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Everton,1,1,2017-12-10 14:15:00,Sadio Man√,LayOff
+41,Goal,0.91,0.307000008,0.063469499,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Everton,1,1,2017-12-10 14:15:00,Joseph Gomez,TakeOn
+44,BlockedShot,0.769000015,0.266000004,0.0207926,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Everton,1,1,2017-12-10 14:15:00,Sadio Man√,Pass
+48,MissedShots,0.939000015,0.560999985,0.363070995,Mohamed Salah,h,OpenPlay,2017,Head,Liverpool,Everton,1,1,2017-12-10 14:15:00,James Milner,Cross
+54,MissedShots,0.818000031,0.432999992,0.033435501,Mohamed Salah,h,FromCorner,2017,LeftFoot,Liverpool,Everton,1,1,2017-12-10 14:15:00,Sadio Man√,Pass
+41,BlockedShot,0.911999969,0.452000008,0.131828994,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,West Bromwich Albion,0,0,2017-12-13 20:00:00,,Rebound
+56,MissedShots,0.925,0.519000015,0.448583007,Mohamed Salah,h,OpenPlay,2017,Head,Liverpool,West Bromwich Albion,0,0,2017-12-13 20:00:00,,None
+11,MissedShots,0.875,0.395999985,0.070403203,Mohamed Salah,a,OpenPlay,2017,LeftFoot,Bournemouth,Liverpool,0,4,2017-12-17 16:30:00,Jordan Henderson,Chipped
+21,MissedShots,0.833000031,0.312000008,0.040865101,Mohamed Salah,a,OpenPlay,2017,LeftFoot,Bournemouth,Liverpool,0,4,2017-12-17 16:30:00,Alex Oxlade-Chamberlain,Pass
+42,SavedShot,0.909000015,0.465999985,0.563421011,Mohamed Salah,a,OpenPlay,2017,RightFoot,Bournemouth,Liverpool,0,4,2017-12-17 16:30:00,Philippe Coutinho,Throughball
+43,Goal,0.915,0.425,0.229174003,Mohamed Salah,a,OpenPlay,2017,LeftFoot,Bournemouth,Liverpool,0,4,2017-12-17 16:30:00,Alex Oxlade-Chamberlain,TakeOn
+43,SavedShot,0.86,0.415,0.350474,Mohamed Salah,a,OpenPlay,2017,LeftFoot,Arsenal,Liverpool,3,3,2017-12-22 19:45:00,,None
+47,SavedShot,0.875999985,0.382999992,0.121533997,Mohamed Salah,a,OpenPlay,2017,RightFoot,Arsenal,Liverpool,3,3,2017-12-22 19:45:00,Sadio Man√,Pass
+51,Goal,0.819000015,0.427999992,0.073205203,Mohamed Salah,a,OpenPlay,2017,LeftFoot,Arsenal,Liverpool,3,3,2017-12-22 19:45:00,Roberto Firmino,Pass
+88,MissedShots,0.895999985,0.612000008,0.175126001,Mohamed Salah,a,OpenPlay,2017,LeftFoot,Arsenal,Liverpool,3,3,2017-12-22 19:45:00,Georginio Wijnaldum,TakeOn
+25,BlockedShot,0.873000031,0.347000008,0.095678903,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Swansea,5,0,2017-12-26 17:30:00,Georginio Wijnaldum,TakeOn
+49,SavedShot,0.875999985,0.402000008,0.107871003,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Swansea,5,0,2017-12-26 17:30:00,Roberto Firmino,Pass
+55,MissedShots,0.869000015,0.47,0.100849003,Mohamed Salah,h,SetPiece,2017,LeftFoot,Liverpool,Swansea,5,0,2017-12-26 17:30:00,Philippe Coutinho,Pass
+56,SavedShot,0.946999969,0.349000015,0.302037001,Mohamed Salah,h,OpenPlay,2017,RightFoot,Liverpool,Swansea,5,0,2017-12-26 17:30:00,Andrew Robertson,Throughball
+6,MissedShots,0.913000031,0.534000015,0.444570988,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Leicester,2,1,2017-12-30 15:00:00,Sadio Man√,Pass
+10,BlockedShot,0.913000031,0.669000015,0.100954004,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Leicester,2,1,2017-12-30 15:00:00,James Milner,Throughball
+19,MissedShots,0.941999969,0.384000015,0.356667012,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Leicester,2,1,2017-12-30 15:00:00,Roberto Firmino,Pass
+51,Goal,0.88,0.504000015,0.430584013,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Leicester,2,1,2017-12-30 15:00:00,Sadio Man√,TakeOn
+58,MissedShots,0.906999969,0.347000008,0.311729014,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Leicester,2,1,2017-12-30 15:00:00,Philippe Coutinho,Throughball
+75,Goal,0.881999969,0.45,0.438389987,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Leicester,2,1,2017-12-30 15:00:00,James Milner,TakeOn
+3,BlockedShot,0.834000015,0.527000008,0.084096499,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Sadio Man√,Pass
+14,MissedShots,0.951999969,0.374000015,0.275810003,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Roberto Firmino,TakeOn
+38,SavedShot,0.815999985,0.273999996,0.031323601,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Georginio Wijnaldum,Pass
+43,BlockedShot,0.800999985,0.320999985,0.026739299,Mohamed Salah,h,FromCorner,2017,LeftFoot,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Alex Oxlade-Chamberlain,Pass
+55,SavedShot,0.851999969,0.33,0.031569101,Mohamed Salah,h,FromCorner,2017,LeftFoot,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,,None
+67,Goal,0.664000015,0.643000031,0.0115121,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,,None
+29,MissedShots,0.899000015,0.524000015,0.312128007,Mohamed Salah,a,OpenPlay,2017,LeftFoot,Swansea,Liverpool,1,0,2018-01-22 20:00:00,Virgil van Dijk,Chipped
+53,MissedShots,0.790999985,0.555,0.035067301,Mohamed Salah,a,OpenPlay,2017,RightFoot,Swansea,Liverpool,1,0,2018-01-22 20:00:00,Georginio Wijnaldum,Pass
+57,BlockedShot,0.851999969,0.337000008,0.0428342,Mohamed Salah,a,OpenPlay,2017,LeftFoot,Swansea,Liverpool,1,0,2018-01-22 20:00:00,,Rebound
+59,SavedShot,0.776999969,0.610999985,0.0762017,Mohamed Salah,a,DirectFreekick,2017,LeftFoot,Swansea,Liverpool,1,0,2018-01-22 20:00:00,,Standard
+92,MissedShots,0.949000015,0.32,0.060070802,Mohamed Salah,a,OpenPlay,2017,RightFoot,Swansea,Liverpool,1,0,2018-01-22 20:00:00,Adam Lallana,Pass
+72,MissedShots,0.963000031,0.297000008,0.327746004,Mohamed Salah,a,OpenPlay,2017,LeftFoot,Huddersfield,Liverpool,0,3,2018-01-30 20:00:00,,None
+76,BlockedShot,0.805,0.45,0.0714764,Mohamed Salah,a,OpenPlay,2017,LeftFoot,Huddersfield,Liverpool,0,3,2018-01-30 20:00:00,Emre Can,TakeOn
+77,Goal,0.885,0.5,0.761169016,Mohamed Salah,a,Penalty,2017,LeftFoot,Huddersfield,Liverpool,0,3,2018-01-30 20:00:00,,Standard
+2,Goal,0.903000031,0.544000015,0.405027002,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Tottenham,2,2,2018-02-04 16:30:00,,TakeOn
+17,MissedShots,0.895,0.532000008,0.0956126,Mohamed Salah,h,FromCorner,2017,LeftFoot,Liverpool,Tottenham,2,2,2018-02-04 16:30:00,,None
+70,BlockedShot,0.791999969,0.532000008,0.054788399,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Tottenham,2,2,2018-02-04 16:30:00,Alex Oxlade-Chamberlain,LayOff
+90,Goal,0.965999985,0.397999992,0.390502006,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Tottenham,2,2,2018-02-04 16:30:00,,None
+41,Goal,0.865,0.507000008,0.384288013,Mohamed Salah,a,OpenPlay,2017,LeftFoot,Southampton,Liverpool,0,2,2018-02-11 16:30:00,Roberto Firmino,Throughball
+49,MissedShots,0.858000031,0.482000008,0.076356098,Mohamed Salah,a,OpenPlay,2017,LeftFoot,Southampton,Liverpool,0,2,2018-02-11 16:30:00,Sadio Man√,Rebound
+70,MissedShots,0.909000015,0.382999992,0.364591986,Mohamed Salah,a,OpenPlay,2017,LeftFoot,Southampton,Liverpool,0,2,2018-02-11 16:30:00,,Rebound
+2,SavedShot,0.865999985,0.622999992,0.071882397,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,West Ham,4,1,2018-02-24 15:00:00,Roberto Firmino,Pass
+31,MissedShots,0.970999985,0.412999992,0.291433007,Mohamed Salah,h,OpenPlay,2017,Head,Liverpool,West Ham,4,1,2018-02-24 15:00:00,Andrew Robertson,Cross
+45,BlockedShot,0.793000031,0.678000031,0.069828503,Mohamed Salah,h,DirectFreekick,2017,LeftFoot,Liverpool,West Ham,4,1,2018-02-24 15:00:00,,Standard
+50,Goal,0.905,0.597999992,0.128774002,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,West Ham,4,1,2018-02-24 15:00:00,Alex Oxlade-Chamberlain,Pass
+60,SavedShot,0.898000031,0.430999985,0.136300996,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,West Ham,4,1,2018-02-24 15:00:00,Alex Oxlade-Chamberlain,Pass
+11,BlockedShot,0.85,0.457000008,0.063580498,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Newcastle United,2,0,2018-03-03 17:30:00,Roberto Firmino,HeadPass
+15,MissedShots,0.920999985,0.759000015,0.034549799,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Newcastle United,2,0,2018-03-03 17:30:00,Emre Can,Chipped
+27,BlockedShot,0.850999985,0.445999985,0.092812702,Mohamed Salah,h,OpenPlay,2017,RightFoot,Liverpool,Newcastle United,2,0,2018-03-03 17:30:00,Roberto Firmino,Pass
+39,Goal,0.901999969,0.415,0.376013011,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Newcastle United,2,0,2018-03-03 17:30:00,Alex Oxlade-Chamberlain,Pass
+51,BlockedShot,0.849000015,0.577999992,0.091669403,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Newcastle United,2,0,2018-03-03 17:30:00,Andrew Robertson,Pass
+95,MissedShots,0.883000031,0.427000008,0.0758802,Mohamed Salah,a,FromCorner,2017,LeftFoot,Manchester United,Liverpool,2,1,2018-03-10 12:30:00,,None
+3,Goal,0.930999985,0.36,0.184970006,Mohamed Salah,h,OpenPlay,2017,RightFoot,Liverpool,Watford,5,0,2018-03-17 17:30:00,Sadio Man√,TakeOn
+42,Goal,0.961999969,0.47,0.625950992,Mohamed Salah,h,OpenPlay,2017,RightFoot,Liverpool,Watford,5,0,2018-03-17 17:30:00,Andrew Robertson,Cross
+76,Goal,0.904000015,0.44,0.139383003,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Watford,5,0,2018-03-17 17:30:00,Sadio Man√,TakeOn
+84,Goal,0.933000031,0.487000008,0.153708994,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Watford,5,0,2018-03-17 17:30:00,,Rebound
+27,SavedShot,0.885,0.332000008,0.0538036,Mohamed Salah,a,OpenPlay,2017,LeftFoot,Crystal Palace,Liverpool,1,2,2018-03-31 12:30:00,Trent Alexander-Arnold,Pass
+40,SavedShot,0.816999969,0.261000004,0.023464801,Mohamed Salah,a,OpenPlay,2017,LeftFoot,Crystal Palace,Liverpool,1,2,2018-03-31 12:30:00,Trent Alexander-Arnold,Pass
+50,MissedShots,0.858000031,0.359000015,0.051424399,Mohamed Salah,a,OpenPlay,2017,LeftFoot,Crystal Palace,Liverpool,1,2,2018-03-31 12:30:00,James Milner,HeadPass
+83,Goal,0.93,0.46,0.527895987,Mohamed Salah,a,OpenPlay,2017,RightFoot,Crystal Palace,Liverpool,1,2,2018-03-31 12:30:00,Andrew Robertson,Pass
+2,MissedShots,0.933000031,0.479000015,0.450480998,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Bournemouth,3,0,2018-04-14 16:30:00,Trent Alexander-Arnold,Cross
+17,SavedShot,0.810999985,0.434000015,0.057236899,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Bournemouth,3,0,2018-04-14 16:30:00,Trent Alexander-Arnold,Pass
+25,MissedShots,0.809000015,0.502999992,0.066581301,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Bournemouth,3,0,2018-04-14 16:30:00,,BallRecovery
+61,SavedShot,0.81,0.51,0.070447303,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Bournemouth,3,0,2018-04-14 16:30:00,Trent Alexander-Arnold,Pass
+63,BlockedShot,0.825999985,0.377000008,0.063561,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Bournemouth,3,0,2018-04-14 16:30:00,Roberto Firmino,Pass
+68,Goal,0.920999985,0.472999992,0.092575498,Mohamed Salah,h,OpenPlay,2017,Head,Liverpool,Bournemouth,3,0,2018-04-14 16:30:00,Trent Alexander-Arnold,Chipped
+10,BlockedShot,0.923000031,0.325999985,0.075825602,Mohamed Salah,a,OpenPlay,2017,LeftFoot,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,Joseph Gomez,TakeOn
+25,MissedShots,0.74,0.374000015,0.049115401,Mohamed Salah,a,DirectFreekick,2017,LeftFoot,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,,Standard
+62,BlockedShot,0.809000015,0.53,0.066719897,Mohamed Salah,a,OpenPlay,2017,LeftFoot,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,James Milner,Pass
+71,Goal,0.9,0.605999985,0.356954008,Mohamed Salah,a,OpenPlay,2017,LeftFoot,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,Alex Oxlade-Chamberlain,Pass
+5,MissedShots,0.89,0.442999992,0.564639986,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Stoke,0,0,2018-04-28 11:30:00,Jordan Henderson,Throughball
+10,BlockedShot,0.895,0.322000008,0.056028198,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Stoke,0,0,2018-04-28 11:30:00,Alberto Moreno,Pass
+33,MissedShots,0.81,0.24,0.0538591,Mohamed Salah,h,DirectFreekick,2017,LeftFoot,Liverpool,Stoke,0,0,2018-04-28 11:30:00,,Standard
+49,MissedShots,0.849000015,0.738000031,0.0197712,Mohamed Salah,h,FromCorner,2017,LeftFoot,Liverpool,Stoke,0,0,2018-04-28 11:30:00,,None
+61,BlockedShot,0.863000031,0.394000015,0.076989599,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Stoke,0,0,2018-04-28 11:30:00,Joseph Gomez,Pass
+65,BlockedShot,0.864000015,0.57,0.063648097,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Stoke,0,0,2018-04-28 11:30:00,Alberto Moreno,Cross
+88,BlockedShot,0.893000031,0.545999985,0.124925002,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Stoke,0,0,2018-04-28 11:30:00,Alberto Moreno,Pass
+45,MissedShots,0.809000015,0.505999985,0.0383095,Mohamed Salah,a,OpenPlay,2017,LeftFoot,Chelsea,Liverpool,1,0,2018-05-06 16:30:00,Roberto Firmino,Pass
+25,Goal,0.890999985,0.475,0.096147202,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Brighton,4,0,2018-05-13 15:00:00,,None
+26,BlockedShot,0.880999985,0.362999992,0.081105702,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Brighton,4,0,2018-05-13 15:00:00,,None
+29,BlockedShot,0.916999969,0.430999985,0.399648994,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Brighton,4,0,2018-05-13 15:00:00,,Rebound
+29,SavedShot,0.909000015,0.424000015,0.419241011,Mohamed Salah,h,OpenPlay,2017,LeftFoot,Liverpool,Brighton,4,0,2018-05-13 15:00:00,Sadio Man√,Pass
+18,Goal,0.965,0.487999992,0.773699999,Mohamed Salah,h,OpenPlay,2018,RightFoot,Liverpool,West Ham,4,0,2018-08-12 15:30:00,Andrew Robertson,Pass
+35,SavedShot,0.891999969,0.484000015,0.098326601,Mohamed Salah,h,OpenPlay,2018,Head,Liverpool,West Ham,4,0,2018-08-12 15:30:00,Sadio Man√,Cross
+36,SavedShot,0.956999969,0.447000008,0.636152029,Mohamed Salah,h,OpenPlay,2018,RightFoot,Liverpool,West Ham,4,0,2018-08-12 15:30:00,Roberto Firmino,Pass
+64,MissedShots,0.819000015,0.515,0.041760899,Mohamed Salah,h,SetPiece,2018,LeftFoot,Liverpool,West Ham,4,0,2018-08-12 15:30:00,,Rebound
+2,BlockedShot,0.879000015,0.355,0.0593822,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Crystal Palace,Liverpool,0,2,2018-08-20 22:00:00,Sadio Man√,Chipped
+22,MissedShots,0.859000015,0.509000015,0.324694008,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Crystal Palace,Liverpool,0,2,2018-08-20 22:00:00,Naby Keita,Throughball
+26,BlockedShot,0.819000015,0.559000015,0.091910198,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Crystal Palace,Liverpool,0,2,2018-08-20 22:00:00,Roberto Firmino,TakeOn
+59,BlockedShot,0.784000015,0.490999985,0.0151385,Mohamed Salah,a,FromCorner,2018,LeftFoot,Crystal Palace,Liverpool,0,2,2018-08-20 22:00:00,Joseph Gomez,Aerial
+76,BlockedShot,0.818000031,0.5,0.171494007,Mohamed Salah,a,DirectFreekick,2018,LeftFoot,Crystal Palace,Liverpool,0,2,2018-08-20 22:00:00,,Standard
+83,SavedShot,0.91,0.485,0.070219003,Mohamed Salah,a,OpenPlay,2018,Head,Crystal Palace,Liverpool,0,2,2018-08-20 22:00:00,Sadio Man√,Chipped
+18,SavedShot,0.979000015,0.705999985,0.0451409,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Brighton,1,0,2018-08-25 19:30:00,Naby Keita,Chipped
+22,Goal,0.860999985,0.385,0.080940403,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Brighton,1,0,2018-08-25 19:30:00,Roberto Firmino,Pass
+57,BlockedShot,0.874000015,0.51,0.109906003,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Brighton,1,0,2018-08-25 19:30:00,,Rebound
+71,BlockedShot,0.733000031,0.452000008,0.022294801,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Brighton,1,0,2018-08-25 19:30:00,Jordan Henderson,Pass
+86,MissedShots,0.859000015,0.276000004,0.046380401,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Brighton,1,0,2018-08-25 19:30:00,Trent Alexander-Arnold,Chipped
+92,MissedShots,0.844000015,0.44,0.0775038,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Brighton,1,0,2018-08-25 19:30:00,Georginio Wijnaldum,Pass
+3,MissedShots,0.893000031,0.464000015,0.379429996,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Leicester,Liverpool,1,2,2018-09-01 11:30:00,,Rebound
+42,SavedShot,0.765,0.440999985,0.033575799,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Leicester,Liverpool,1,2,2018-09-01 11:30:00,Joseph Gomez,Pass
+53,BlockedShot,0.781999969,0.599000015,0.033797901,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Leicester,Liverpool,1,2,2018-09-01 11:30:00,Roberto Firmino,Pass
+21,SavedShot,0.896999969,0.629000015,0.332103014,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Tottenham,Liverpool,1,2,2018-09-15 11:30:00,,BallRecovery
+80,SavedShot,0.85,0.379000015,0.085780703,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Tottenham,Liverpool,1,2,2018-09-15 11:30:00,James Milner,Pass
+83,BlockedShot,0.883000031,0.447999992,0.175629005,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Tottenham,Liverpool,1,2,2018-09-15 11:30:00,Sadio Man√,TakeOn
+83,BlockedShot,0.909000015,0.365,0.196678996,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Tottenham,Liverpool,1,2,2018-09-15 11:30:00,Andrew Robertson,TakeOn
+42,MissedShots,0.970999985,0.592999992,0.219552994,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Southampton,3,0,2018-09-22 14:00:00,Roberto Firmino,TakeOn
+47,Goal,0.990999985,0.482000008,0.973721981,Mohamed Salah,h,SetPiece,2018,LeftFoot,Liverpool,Southampton,3,0,2018-09-22 14:00:00,,Rebound
+4,SavedShot,0.803000031,0.37,0.037174501,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Chelsea,Liverpool,1,1,2018-09-29 16:30:00,,BallRecovery
+10,MissedShots,0.810999985,0.387999992,0.044477299,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Chelsea,Liverpool,1,1,2018-09-29 16:30:00,Trent Alexander-Arnold,Pass
+31,BlockedShot,0.965999985,0.354000015,0.521097004,Mohamed Salah,a,OpenPlay,2018,RightFoot,Chelsea,Liverpool,1,1,2018-09-29 16:30:00,Roberto Firmino,TakeOn
+58,MissedShots,0.855,0.622999992,0.045257501,Mohamed Salah,a,FromCorner,2018,LeftFoot,Chelsea,Liverpool,1,1,2018-09-29 16:30:00,,None
+3,MissedShots,0.86,0.352999992,0.062094402,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Manchester City,0,0,2018-10-07 15:30:00,Joseph Gomez,HeadPass
+61,SavedShot,0.86,0.367000008,0.069212101,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Manchester City,0,0,2018-10-07 15:30:00,Joseph Gomez,Pass
+68,MissedShots,0.865,0.695,0.039435301,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Manchester City,0,0,2018-10-07 15:30:00,Andrew Robertson,Chipped
+23,Goal,0.915999985,0.362999992,0.094008803,Mohamed Salah,a,OpenPlay,2018,RightFoot,Huddersfield,Liverpool,0,1,2018-10-20 16:30:00,Xherdan Shaqiri,Pass
+59,BlockedShot,0.766999969,0.572999992,0.025779899,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Huddersfield,Liverpool,0,1,2018-10-20 16:30:00,Georginio Wijnaldum,Pass
+63,MissedShots,0.841999969,0.602000008,0.126086995,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Huddersfield,Liverpool,0,1,2018-10-20 16:30:00,Daniel Sturridge,Chipped
+87,SavedShot,0.984000015,0.39,0.108457997,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Huddersfield,Liverpool,0,1,2018-10-20 16:30:00,Joseph Gomez,TakeOn
+9,Goal,0.965,0.592999992,0.397879004,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Cardiff,4,1,2018-10-27 14:00:00,,Rebound
+17,BlockedShot,0.815,0.454000015,0.072556198,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Cardiff,4,1,2018-10-27 14:00:00,Alberto Moreno,Pass
+81,SavedShot,0.798000031,0.182000008,0.034990799,Mohamed Salah,h,OpenPlay,2018,RightFoot,Liverpool,Cardiff,4,1,2018-10-27 14:00:00,Xherdan Shaqiri,Pass
+90,MissedShots,0.454000015,0.357000008,0.00897981,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Cardiff,4,1,2018-10-27 14:00:00,Georginio Wijnaldum,Pass
+23,BlockedShot,0.835,0.266000004,0.024620401,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Arsenal,Liverpool,1,1,2018-11-03 17:30:00,Fabinho,Pass
+49,BlockedShot,0.841999969,0.440999985,0.083718702,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Arsenal,Liverpool,1,1,2018-11-03 17:30:00,Trent Alexander-Arnold,Pass
+83,MissedShots,0.785,0.395,0.027696401,Mohamed Salah,a,FromCorner,2018,LeftFoot,Arsenal,Liverpool,1,1,2018-11-03 17:30:00,James Milner,Pass
+15,SavedShot,0.925999985,0.565,0.477355003,Mohamed Salah,h,OpenPlay,2018,RightFoot,Liverpool,Fulham,2,0,2018-11-11 12:00:00,Roberto Firmino,TakeOn
+21,SavedShot,0.92,0.347999992,0.072885796,Mohamed Salah,h,OpenPlay,2018,RightFoot,Liverpool,Fulham,2,0,2018-11-11 12:00:00,Xherdan Shaqiri,Chipped
+29,BlockedShot,0.775,0.193999996,0.0111908,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Fulham,2,0,2018-11-11 12:00:00,Andrew Robertson,TakeOn
+40,Goal,0.871999969,0.385999985,0.235609993,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Fulham,2,0,2018-11-11 12:00:00,Trent Alexander-Arnold,Pass
+89,BlockedShot,0.891999969,0.34,0.080720998,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Fulham,2,0,2018-11-11 12:00:00,Sadio Man√,Pass
+41,SavedShot,0.908000031,0.564000015,0.219454005,Mohamed Salah,a,FromCorner,2018,Head,Watford,Liverpool,0,3,2018-11-24 15:00:00,Xherdan Shaqiri,Cross
+66,Goal,0.915999985,0.580999985,0.128186002,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Watford,Liverpool,0,3,2018-11-24 15:00:00,Sadio Man√,Pass
+47,MissedShots,0.765999985,0.475999985,0.027798001,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Everton,1,0,2018-12-02 16:15:00,Georginio Wijnaldum,Pass
+81,SavedShot,0.97,0.377000008,0.094416998,Mohamed Salah,a,OpenPlay,2018,RightFoot,Burnley,Liverpool,1,3,2018-12-05 19:45:00,,Rebound
+85,SavedShot,0.893000031,0.320999985,0.097115502,Mohamed Salah,a,OpenPlay,2018,RightFoot,Burnley,Liverpool,1,3,2018-12-05 19:45:00,Roberto Firmino,Pass
+13,MissedShots,0.958000031,0.352000008,0.068260603,Mohamed Salah,a,OpenPlay,2018,RightFoot,Bournemouth,Liverpool,0,4,2018-12-08 12:30:00,Xherdan Shaqiri,Chipped
+24,Goal,0.9,0.47,0.401549995,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Bournemouth,Liverpool,0,4,2018-12-08 12:30:00,,Rebound
+47,Goal,0.874000015,0.620999985,0.125696003,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Bournemouth,Liverpool,0,4,2018-12-08 12:30:00,Roberto Firmino,Pass
+76,Goal,0.944000015,0.532000008,0.946578979,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Bournemouth,Liverpool,0,4,2018-12-08 12:30:00,,TakeOn
+10,BlockedShot,0.796999969,0.389000015,0.028157899,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Manchester United,3,1,2018-12-16 16:00:00,Sadio Man√,Pass
+47,BlockedShot,0.82,0.482000008,0.072066002,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Manchester United,3,1,2018-12-16 16:00:00,Andrew Robertson,Pass
+92,MissedShots,0.786999969,0.54,0.044834498,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Manchester United,3,1,2018-12-16 16:00:00,Andrew Robertson,Pass
+17,Goal,0.925999985,0.442999992,0.132962003,Mohamed Salah,a,SetPiece,2018,LeftFoot,Wolverhampton Wanderers,Liverpool,0,2,2018-12-21 20:00:00,Fabinho,Pass
+47,MissedShots,0.84,0.579000015,0.037657801,Mohamed Salah,a,FromCorner,2018,LeftFoot,Wolverhampton Wanderers,Liverpool,0,2,2018-12-21 20:00:00,James Milner,Cross
+83,SavedShot,0.955999985,0.370999985,0.424337,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Wolverhampton Wanderers,Liverpool,0,2,2018-12-21 20:00:00,Sadio Man√,Throughball
+90,SavedShot,0.97,0.385,0.239113003,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Wolverhampton Wanderers,Liverpool,0,2,2018-12-21 20:00:00,Virgil van Dijk,TakeOn
+47,Goal,0.885,0.5,0.761169016,Mohamed Salah,h,Penalty,2018,LeftFoot,Liverpool,Newcastle United,4,0,2018-12-26 15:00:00,,Standard
+5,MissedShots,0.955999985,0.579000015,0.139563993,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Arsenal,5,1,2018-12-29 17:30:00,Roberto Firmino,Rebound
+46,Goal,0.885,0.5,0.761169016,Mohamed Salah,h,Penalty,2018,LeftFoot,Liverpool,Arsenal,5,1,2018-12-29 17:30:00,,Standard
+90,SavedShot,0.955999985,0.312999992,0.137620002,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Arsenal,5,1,2018-12-29 17:30:00,Adam Lallana,Chipped
+83,SavedShot,0.905,0.669000015,0.0974975,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Manchester City,Liverpool,2,1,2019-01-03 20:00:00,Jordan Henderson,Throughball
+47,SavedShot,0.89,0.715,0.042450801,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Brighton,Liverpool,0,1,2019-01-12 15:00:00,Sadio Man√,Pass
+49,Goal,0.885,0.5,0.761169016,Mohamed Salah,a,Penalty,2018,LeftFoot,Brighton,Liverpool,0,1,2019-01-12 15:00:00,,Standard
+87,MissedShots,0.925,0.469000015,0.536732972,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Brighton,Liverpool,0,1,2019-01-12 15:00:00,James Milner,Pass
+45,Goal,0.925999985,0.462999992,0.503086984,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Crystal Palace,4,3,2019-01-19 15:00:00,,Rebound
+74,Goal,0.99,0.485,0.964401007,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Crystal Palace,4,3,2019-01-19 15:00:00,,None
+35,BlockedShot,0.830999985,0.425,0.084587902,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Leicester,1,1,2019-01-30 20:00:00,Sadio Man√,Pass
+81,BlockedShot,0.775,0.741999969,0.045236502,Mohamed Salah,h,DirectFreekick,2018,LeftFoot,Liverpool,Leicester,1,1,2019-01-30 20:00:00,,Standard
+50,SavedShot,0.81,0.464000015,0.059252799,Mohamed Salah,a,OpenPlay,2018,LeftFoot,West Ham,Liverpool,1,1,2019-02-04 20:00:00,Adam Lallana,Pass
+60,SavedShot,0.915999985,0.32,0.057780199,Mohamed Salah,a,OpenPlay,2018,LeftFoot,West Ham,Liverpool,1,1,2019-02-04 20:00:00,James Milner,TakeOn
+62,MissedShots,0.853000031,0.342000008,0.055672001,Mohamed Salah,a,OpenPlay,2018,LeftFoot,West Ham,Liverpool,1,1,2019-02-04 20:00:00,James Milner,Pass
+80,BlockedShot,0.773000031,0.442999992,0.0203059,Mohamed Salah,a,SetPiece,2018,LeftFoot,West Ham,Liverpool,1,1,2019-02-04 20:00:00,,None
+9,MissedShots,0.843000031,0.325,0.039346099,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Bournemouth,3,0,2019-02-09 15:00:00,Fabinho,Pass
+12,SavedShot,0.786999969,0.312000008,0.023496199,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Bournemouth,3,0,2019-02-09 15:00:00,Georginio Wijnaldum,Pass
+28,MissedShots,0.940999985,0.695999985,0.033062201,Mohamed Salah,h,FromCorner,2018,LeftFoot,Liverpool,Bournemouth,3,0,2019-02-09 15:00:00,Fabinho,Cross
+44,SavedShot,0.815,0.53,0.057969902,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Bournemouth,3,0,2019-02-09 15:00:00,,None
+47,Goal,0.875,0.420999985,0.420731992,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Bournemouth,3,0,2019-02-09 15:00:00,Roberto Firmino,Pass
+59,BlockedShot,0.805,0.360999985,0.028314499,Mohamed Salah,h,SetPiece,2018,LeftFoot,Liverpool,Bournemouth,3,0,2019-02-09 15:00:00,James Milner,Pass
+75,ShotOnPost,0.909000015,0.349000015,0.112034,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Bournemouth,3,0,2019-02-09 15:00:00,Roberto Firmino,Pass
+15,MissedShots,0.808000031,0.477999992,0.145043999,Mohamed Salah,a,DirectFreekick,2018,LeftFoot,Manchester United,Liverpool,0,0,2019-02-24 14:05:00,,Standard
+22,MissedShots,0.810999985,0.337999992,0.0550345,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Watford,5,0,2019-02-27 20:00:00,James Milner,Pass
+27,SavedShot,0.8,0.404000015,0.0730206,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Watford,5,0,2019-02-27 20:00:00,,TakeOn
+36,SavedShot,0.941999969,0.303999996,0.094369397,Mohamed Salah,h,OpenPlay,2018,RightFoot,Liverpool,Watford,5,0,2019-02-27 20:00:00,Trent Alexander-Arnold,Chipped
+48,BlockedShot,0.851999969,0.354000015,0.055586498,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Watford,5,0,2019-02-27 20:00:00,,None
+14,SavedShot,0.851999969,0.365999985,0.067423403,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Everton,Liverpool,0,0,2019-03-03 16:15:00,Trent Alexander-Arnold,Pass
+27,SavedShot,0.935999985,0.360999985,0.355603993,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Everton,Liverpool,0,0,2019-03-03 16:15:00,Fabinho,Pass
+30,MissedShots,0.861999969,0.370999985,0.077910699,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Burnley,4,2,2019-03-10 12:00:00,Trent Alexander-Arnold,Chipped
+50,MissedShots,0.791999969,0.342000008,0.028465001,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Burnley,4,2,2019-03-10 12:00:00,Adam Lallana,Pass
+54,BlockedShot,0.780999985,0.47,0.0102087,Mohamed Salah,h,FromCorner,2018,LeftFoot,Liverpool,Burnley,4,2,2019-03-10 12:00:00,Virgil van Dijk,Chipped
+75,BlockedShot,0.750999985,0.384000015,0.019525601,Mohamed Salah,h,FromCorner,2018,LeftFoot,Liverpool,Burnley,4,2,2019-03-10 12:00:00,Adam Lallana,Pass
+87,SavedShot,0.890999985,0.542999992,0.141019002,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Burnley,4,2,2019-03-10 12:00:00,Sadio Man√,Pass
+3,MissedShots,0.924000015,0.330999985,0.061786801,Mohamed Salah,a,OpenPlay,2018,RightFoot,Fulham,Liverpool,1,2,2019-03-17 14:15:00,,None
+27,SavedShot,0.743000031,0.330999985,0.019809,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Fulham,Liverpool,1,2,2019-03-17 14:15:00,Fabinho,Chipped
+79,SavedShot,0.92,0.31,0.050393298,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Fulham,Liverpool,1,2,2019-03-17 14:15:00,James Milner,Chipped
+86,SavedShot,0.878000031,0.595999985,0.430402994,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Fulham,Liverpool,1,2,2019-03-17 14:15:00,Sadio Man√,Pass
+88,MissedShots,0.799000015,0.350999985,0.042646099,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Fulham,Liverpool,1,2,2019-03-17 14:15:00,,None
+3,MissedShots,0.803000031,0.355,0.033115499,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,Sadio Man√,Pass
+58,BlockedShot,0.846999969,0.522000008,0.122227997,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,Roberto Firmino,Pass
+68,MissedShots,0.768000031,0.382999992,0.030186599,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,Trent Alexander-Arnold,Pass
+71,MissedShots,0.92,0.449000015,0.057730298,Mohamed Salah,h,OpenPlay,2018,Head,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,Georginio Wijnaldum,Aerial
+89,SavedShot,0.963000031,0.390999985,0.046032701,Mohamed Salah,h,FromCorner,2018,Head,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,Trent Alexander-Arnold,Cross
+22,BlockedShot,0.889000015,0.62,0.0433334,Mohamed Salah,a,FromCorner,2018,LeftFoot,Southampton,Liverpool,1,3,2019-04-05 20:00:00,Andrew Robertson,Cross
+79,Goal,0.844000015,0.530999985,0.117270999,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Southampton,Liverpool,1,3,2019-04-05 20:00:00,Jordan Henderson,BallRecovery
+5,SavedShot,0.904000015,0.450999985,0.107891001,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Chelsea,2,0,2019-04-14 16:30:00,Sadio Man√,Cross
+16,BlockedShot,0.859000015,0.357000008,0.053167202,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Chelsea,2,0,2019-04-14 16:30:00,Roberto Firmino,Pass
+52,Goal,0.776999969,0.282999992,0.0222244,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Chelsea,2,0,2019-04-14 16:30:00,Virgil van Dijk,Chipped
+64,SavedShot,0.86,0.288999996,0.052776098,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Chelsea,2,0,2019-04-14 16:30:00,Sadio Man√,Pass
+70,BlockedShot,0.86,0.412000008,0.045373101,Mohamed Salah,h,FromCorner,2018,LeftFoot,Liverpool,Chelsea,2,0,2019-04-14 16:30:00,Roberto Firmino,Pass
+33,SavedShot,0.889000015,0.369000015,0.339203,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Cardiff,Liverpool,0,2,2019-04-21 16:00:00,Jordan Henderson,TakeOn
+49,SavedShot,0.743000031,0.47,0.0191152,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Cardiff,Liverpool,0,2,2019-04-21 16:00:00,Sadio Man√,Pass
+65,MissedShots,0.850999985,0.532999992,0.101016998,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Cardiff,Liverpool,0,2,2019-04-21 16:00:00,Sadio Man√,Pass
+89,SavedShot,0.909000015,0.445999985,0.138528004,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Cardiff,Liverpool,0,2,2019-04-21 16:00:00,Roberto Firmino,Pass
+1,SavedShot,0.875,0.288999996,0.0423689,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Huddersfield,5,0,2019-04-26 20:00:00,Jordan Henderson,Pass
+14,MissedShots,0.9,0.372999992,0.089572698,Mohamed Salah,h,OpenPlay,2018,RightFoot,Liverpool,Huddersfield,5,0,2019-04-26 20:00:00,,None
+27,MissedShots,0.784000015,0.272999992,0.0304363,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Huddersfield,5,0,2019-04-26 20:00:00,Daniel Sturridge,Pass
+45,Goal,0.855,0.402000008,0.310090005,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Huddersfield,5,0,2019-04-26 20:00:00,Trent Alexander-Arnold,Chipped
+61,MissedShots,0.745999985,0.710999985,0.024782499,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Huddersfield,5,0,2019-04-26 20:00:00,Andrew Robertson,TakeOn
+73,BlockedShot,0.753000031,0.522000008,0.0233922,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Huddersfield,5,0,2019-04-26 20:00:00,,None
+82,Goal,0.955999985,0.497000008,0.751802981,Mohamed Salah,h,OpenPlay,2018,RightFoot,Liverpool,Huddersfield,5,0,2019-04-26 20:00:00,Andrew Robertson,Pass
+90,MissedShots,0.895999985,0.307000008,0.115881003,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Huddersfield,5,0,2019-04-26 20:00:00,Alex Oxlade-Chamberlain,TakeOn
+10,MissedShots,0.954000015,0.362999992,0.048714001,Mohamed Salah,a,OpenPlay,2018,LeftFoot,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,Andrew Robertson,Cross
+12,BlockedShot,0.91,0.384000015,0.0729554,Mohamed Salah,a,OpenPlay,2018,RightFoot,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,Sadio Man√,Cross
+27,Goal,0.896999969,0.472000008,0.0947522,Mohamed Salah,a,OpenPlay,2018,RightFoot,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,Trent Alexander-Arnold,Cross
+47,MissedShots,0.849000015,0.347999992,0.071235299,Mohamed Salah,a,OpenPlay,2018,RightFoot,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,Daniel Sturridge,Pass
+19,BlockedShot,0.868000031,0.545999985,0.138359994,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Wolverhampton Wanderers,2,0,2019-05-12 14:00:00,,TakeOn
+33,MissedShots,0.840999985,0.425,0.0486091,Mohamed Salah,h,FromCorner,2018,LeftFoot,Liverpool,Wolverhampton Wanderers,2,0,2019-05-12 14:00:00,,None
+72,BlockedShot,0.889000015,0.425,0.124904998,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Wolverhampton Wanderers,2,0,2019-05-12 14:00:00,Sadio Man√,Pass
+80,BlockedShot,0.829000015,0.435,0.071207099,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Wolverhampton Wanderers,2,0,2019-05-12 14:00:00,,None
+86,SavedShot,0.8,0.660999985,0.048610002,Mohamed Salah,h,OpenPlay,2018,LeftFoot,Liverpool,Wolverhampton Wanderers,2,0,2019-05-12 14:00:00,Sadio Man√,Pass
+18,Goal,0.933000031,0.367000008,0.366816998,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Roberto Firmino,Pass
+53,MissedShots,0.88,0.339000015,0.077992298,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Fabinho,BallRecovery
+32,MissedShots,0.939000015,0.720999985,0.041741699,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Southampton,Liverpool,1,2,2019-08-17 15:00:00,Alex Oxlade-Chamberlain,Chipped
+49,BlockedShot,0.800999985,0.31,0.071199797,Mohamed Salah,a,DirectFreekick,2019,LeftFoot,Southampton,Liverpool,1,2,2019-08-17 15:00:00,,Standard
+55,SavedShot,0.923000031,0.357000008,0.300783008,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Southampton,Liverpool,1,2,2019-08-17 15:00:00,Sadio Man√,Chipped
+38,MissedShots,0.875,0.292000008,0.045109902,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Arsenal,3,1,2019-08-24 17:30:00,Trent Alexander-Arnold,Pass
+48,Goal,0.885,0.5,0.761169016,Mohamed Salah,h,Penalty,2019,LeftFoot,Liverpool,Arsenal,3,1,2019-08-24 17:30:00,,Standard
+50,BlockedShot,0.806999969,0.257999992,0.032019299,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Arsenal,3,1,2019-08-24 17:30:00,Sadio Man√,Chipped
+55,MissedShots,0.946999969,0.525,0.542652011,Mohamed Salah,h,OpenPlay,2019,Head,Liverpool,Arsenal,3,1,2019-08-24 17:30:00,Andrew Robertson,Cross
+58,Goal,0.856999969,0.349000015,0.220723003,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Arsenal,3,1,2019-08-24 17:30:00,Fabinho,TakeOn
+4,SavedShot,0.87,0.327000008,0.0600182,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Burnley,Liverpool,0,3,2019-08-31 17:30:00,Sadio Man√,Pass
+59,BlockedShot,0.855999985,0.452000008,0.086563103,Mohamed Salah,a,SetPiece,2019,LeftFoot,Burnley,Liverpool,0,3,2019-08-31 17:30:00,Trent Alexander-Arnold,Pass
+60,SavedShot,0.810999985,0.507000008,0.104653999,Mohamed Salah,a,OpenPlay,2019,RightFoot,Burnley,Liverpool,0,3,2019-08-31 17:30:00,Fabinho,BallRecovery
+25,BlockedShot,0.88,0.688000031,0.0299215,Mohamed Salah,h,OpenPlay,2019,RightFoot,Liverpool,Newcastle United,3,1,2019-09-14 11:30:00,Trent Alexander-Arnold,Cross
+61,BlockedShot,0.89,0.562999992,0.128236994,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Newcastle United,3,1,2019-09-14 11:30:00,Roberto Firmino,Pass
+71,Goal,0.929000015,0.615,0.39557299,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Newcastle United,3,1,2019-09-14 11:30:00,Roberto Firmino,Pass
+38,BlockedShot,0.878000031,0.365,0.10244,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Chelsea,Liverpool,1,2,2019-09-22 15:30:00,Trent Alexander-Arnold,Chipped
+25,MissedShots,0.864000015,0.31,0.043358501,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Sheffield United,Liverpool,0,1,2019-09-28 11:30:00,,None
+71,SavedShot,0.85,0.415,0.117875002,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Sheffield United,Liverpool,0,1,2019-09-28 11:30:00,,TakeOn
+77,SavedShot,0.889000015,0.562999992,0.413520008,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Sheffield United,Liverpool,0,1,2019-09-28 11:30:00,,None
+89,BlockedShot,0.865999985,0.404000015,0.162102997,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Sheffield United,Liverpool,0,1,2019-09-28 11:30:00,Fabinho,TakeOn
+3,SavedShot,0.909000015,0.263999996,0.037874602,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Leicester,2,1,2019-10-05 15:00:00,,None
+45,BlockedShot,0.938000031,0.460999985,0.132696003,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Leicester,2,1,2019-10-05 15:00:00,Trent Alexander-Arnold,Foul
+45,SavedShot,0.956999969,0.465999985,0.635814011,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Leicester,2,1,2019-10-05 15:00:00,,None
+53,BlockedShot,0.808000031,0.261000004,0.059094202,Mohamed Salah,h,DirectFreekick,2019,LeftFoot,Liverpool,Leicester,2,1,2019-10-05 15:00:00,,Standard
+56,BlockedShot,0.825,0.509000015,0.085723601,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Leicester,2,1,2019-10-05 15:00:00,Sadio Man√,Pass
+20,SavedShot,0.790999985,0.405999985,0.0306927,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Tottenham,2,1,2019-10-27 16:30:00,Sadio Man√,HeadPass
+26,SavedShot,0.823000031,0.484000015,0.047991902,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Tottenham,2,1,2019-10-27 16:30:00,Roberto Firmino,Pass
+29,BlockedShot,0.883000031,0.397000008,0.063470602,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Tottenham,2,1,2019-10-27 16:30:00,Jordan Henderson,HeadPass
+53,SavedShot,0.868000031,0.584000015,0.075970396,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Tottenham,2,1,2019-10-27 16:30:00,Fabinho,Chipped
+65,SavedShot,0.890999985,0.3,0.051729701,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Tottenham,2,1,2019-10-27 16:30:00,Trent Alexander-Arnold,Pass
+69,MissedShots,0.856999969,0.325,0.032683499,Mohamed Salah,h,FromCorner,2019,LeftFoot,Liverpool,Tottenham,2,1,2019-10-27 16:30:00,Trent Alexander-Arnold,Cross
+74,Goal,0.885,0.5,0.761169016,Mohamed Salah,h,Penalty,2019,LeftFoot,Liverpool,Tottenham,2,1,2019-10-27 16:30:00,,Standard
+17,SavedShot,0.953000031,0.335999985,0.062012602,Mohamed Salah,a,OpenPlay,2019,RightFoot,Aston Villa,Liverpool,1,2,2019-11-02 15:00:00,Virgil van Dijk,Chipped
+42,MissedShots,0.881999969,0.527999992,0.140136003,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Aston Villa,Liverpool,1,2,2019-11-02 15:00:00,Sadio Man√,Pass
+55,MissedShots,0.795,0.306000004,0.022954401,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Aston Villa,Liverpool,1,2,2019-11-02 15:00:00,Adam Lallana,Pass
+64,MissedShots,0.968000031,0.437000008,0.075641103,Mohamed Salah,a,OpenPlay,2019,Head,Aston Villa,Liverpool,1,2,2019-11-02 15:00:00,,Aerial
+12,Goal,0.913000031,0.397999992,0.184656993,Mohamed Salah,h,OpenPlay,2019,Head,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Andrew Robertson,Cross
+44,SavedShot,0.778000031,0.535999985,0.039216202,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Roberto Firmino,Pass
+63,BlockedShot,0.921999969,0.347000008,0.107290998,Mohamed Salah,h,OpenPlay,2019,RightFoot,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Sadio Man√,Pass
+57,MissedShots,0.840999985,0.575999985,0.0974086,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Brighton,2,1,2019-11-30 15:00:00,Sadio Man√,Pass
+64,BlockedShot,0.906999969,0.512999992,0.126007006,Mohamed Salah,h,OpenPlay,2019,RightFoot,Liverpool,Brighton,2,1,2019-11-30 15:00:00,,None
+6,SavedShot,0.896999969,0.317999992,0.067372397,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Joseph Gomez,Pass
+26,SavedShot,0.963000031,0.322000008,0.00825742,Mohamed Salah,a,OpenPlay,2019,Head,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Joseph Gomez,Cross
+47,MissedShots,0.966999969,0.554000015,0.594309986,Mohamed Salah,a,FromCorner,2019,LeftFoot,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Roberto Firmino,Rebound
+53,Goal,0.9,0.587999992,0.482134998,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Naby Keita,Throughball
+68,SavedShot,0.865,0.347999992,0.098404899,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Jordan Henderson,Chipped
+24,MissedShots,0.885999985,0.301000004,0.049936902,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Watford,2,0,2019-12-14 12:30:00,Roberto Firmino,TakeOn
+37,Goal,0.849000015,0.59,0.099190198,Mohamed Salah,h,OpenPlay,2019,RightFoot,Liverpool,Watford,2,0,2019-12-14 12:30:00,Sadio Man√,Pass
+48,BlockedShot,0.846999969,0.490999985,0.0870682,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Watford,2,0,2019-12-14 12:30:00,,None
+63,MissedShots,0.858000031,0.267999992,0.044575401,Mohamed Salah,h,OpenPlay,2019,RightFoot,Liverpool,Watford,2,0,2019-12-14 12:30:00,Jordan Henderson,Chipped
+75,BlockedShot,0.876999969,0.427000008,0.120950997,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Watford,2,0,2019-12-14 12:30:00,James Milner,Pass
+83,SavedShot,0.904000015,0.490999985,0.130302995,Mohamed Salah,h,OpenPlay,2019,RightFoot,Liverpool,Watford,2,0,2019-12-14 12:30:00,,None
+89,Goal,0.963000031,0.579000015,0.456220001,Mohamed Salah,h,OpenPlay,2019,RightFoot,Liverpool,Watford,2,0,2019-12-14 12:30:00,Divock Origi,Rebound
+4,MissedShots,0.813000031,0.477999992,0.064322002,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Leicester,Liverpool,0,4,2019-12-26 20:00:00,Roberto Firmino,Pass
+10,MissedShots,0.963000031,0.754000015,0.147659004,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Leicester,Liverpool,0,4,2019-12-26 20:00:00,Naby Keita,TakeOn
+52,MissedShots,0.878000031,0.317999992,0.019073101,Mohamed Salah,a,FromCorner,2019,LeftFoot,Leicester,Liverpool,0,4,2019-12-26 20:00:00,Sadio Man√,HeadPass
+68,BlockedShot,0.815999985,0.434000015,0.085533798,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Leicester,Liverpool,0,4,2019-12-26 20:00:00,Sadio Man√,Pass
+3,MissedShots,0.915999985,0.424000015,0.423702002,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Wolverhampton Wanderers,1,0,2019-12-29 16:30:00,Trent Alexander-Arnold,Pass
+20,SavedShot,0.813000031,0.545,0.043091599,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Wolverhampton Wanderers,1,0,2019-12-29 16:30:00,Sadio Man√,HeadPass
+3,Goal,0.920999985,0.555,0.466818988,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Sheffield United,2,0,2020-01-02 20:00:00,Andrew Robertson,Pass
+10,SavedShot,0.879000015,0.482000008,0.114352003,Mohamed Salah,h,OpenPlay,2019,RightFoot,Liverpool,Sheffield United,2,0,2020-01-02 20:00:00,Jordan Henderson,Chipped
+29,SavedShot,0.865,0.587999992,0.0843217,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Sheffield United,2,0,2020-01-02 20:00:00,Trent Alexander-Arnold,Chipped
+32,BlockedShot,0.855,0.472000008,0.110812001,Mohamed Salah,h,OpenPlay,2019,RightFoot,Liverpool,Sheffield United,2,0,2020-01-02 20:00:00,Jordan Henderson,Pass
+68,SavedShot,0.851999969,0.31,0.0263918,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Sheffield United,2,0,2020-01-02 20:00:00,,Rebound
+42,MissedShots,0.875,0.405999985,0.096894898,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,,BallRecovery
+23,MissedShots,0.840999985,0.462999992,0.0242723,Mohamed Salah,h,FromCorner,2019,LeftFoot,Liverpool,Manchester United,2,0,2020-01-19 16:30:00,,Aerial
+46,MissedShots,0.925,0.527000008,0.402328014,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Manchester United,2,0,2020-01-19 16:30:00,Andrew Robertson,Cross
+48,BlockedShot,0.890999985,0.602000008,0.112494998,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Manchester United,2,0,2020-01-19 16:30:00,Sadio Man√,Pass
+92,Goal,0.893000031,0.649000015,0.262914985,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Manchester United,2,0,2020-01-19 16:30:00,Alisson,Pass
+17,BlockedShot,0.896999969,0.495,0.109651998,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Sadio Man√,Cross
+18,BlockedShot,0.780999985,0.335999985,0.035921,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Roberto Firmino,BallRecovery
+46,SavedShot,0.899000015,0.674000015,0.076396704,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,,BallRecovery
+46,BlockedShot,0.865,0.552999992,0.147274002,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Roberto Firmino,TakeOn
+50,SavedShot,0.881999969,0.67,0.068395101,Mohamed Salah,a,OpenPlay,2019,RightFoot,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,,None
+69,MissedShots,0.878000031,0.572999992,0.105504997,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Jordan Henderson,Pass
+34,Goal,0.885,0.5,0.761169016,Mohamed Salah,a,Penalty,2019,LeftFoot,West Ham,Liverpool,0,2,2020-01-29 19:45:00,,Standard
+43,BlockedShot,0.750999985,0.364000015,0.0134453,Mohamed Salah,a,SetPiece,2019,RightFoot,West Ham,Liverpool,0,2,2020-01-29 19:45:00,,Rebound
+43,BlockedShot,0.743000031,0.357000008,0.048429601,Mohamed Salah,a,DirectFreekick,2019,LeftFoot,West Ham,Liverpool,0,2,2020-01-29 19:45:00,,Standard
+72,MissedShots,0.908000031,0.495999985,0.114546999,Mohamed Salah,a,OpenPlay,2019,Head,West Ham,Liverpool,0,2,2020-01-29 19:45:00,Trent Alexander-Arnold,Cross
+77,ShotOnPost,0.815999985,0.517999992,0.087255999,Mohamed Salah,a,OpenPlay,2019,LeftFoot,West Ham,Liverpool,0,2,2020-01-29 19:45:00,Georginio Wijnaldum,Pass
+19,BlockedShot,0.860999985,0.592999992,0.030734699,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Southampton,4,0,2020-02-01 15:00:00,Alex Oxlade-Chamberlain,Aerial
+30,BlockedShot,0.875999985,0.39,0.0672502,Mohamed Salah,h,FromCorner,2019,LeftFoot,Liverpool,Southampton,4,0,2020-02-01 15:00:00,,TakeOn
+71,Goal,0.94,0.385,0.383955002,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Southampton,4,0,2020-02-01 15:00:00,Jordan Henderson,Pass
+89,Goal,0.961999969,0.499000015,0.934836984,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Southampton,4,0,2020-02-01 15:00:00,Roberto Firmino,Pass
+37,BlockedShot,0.875999985,0.385999985,0.093091697,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Norwich,Liverpool,0,1,2020-02-15 17:30:00,Naby Keita,Pass
+58,SavedShot,0.876999969,0.385999985,0.069345802,Mohamed Salah,a,OpenPlay,2019,RightFoot,Norwich,Liverpool,0,1,2020-02-15 17:30:00,,None
+64,BlockedShot,0.906999969,0.55,0.109149002,Mohamed Salah,a,OpenPlay,2019,RightFoot,Norwich,Liverpool,0,1,2020-02-15 17:30:00,Andrew Robertson,Cross
+64,MissedShots,0.925,0.569000015,0.133680999,Mohamed Salah,a,OpenPlay,2019,RightFoot,Norwich,Liverpool,0,1,2020-02-15 17:30:00,,Rebound
+15,SavedShot,0.858000031,0.288999996,0.032614902,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,West Ham,3,2,2020-02-24 20:00:00,Andrew Robertson,Pass
+34,MissedShots,0.973000031,0.629000015,0.022287499,Mohamed Salah,h,SetPiece,2019,Head,Liverpool,West Ham,3,2,2020-02-24 20:00:00,Trent Alexander-Arnold,Cross
+48,BlockedShot,0.855999985,0.312000008,0.043845698,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,West Ham,3,2,2020-02-24 20:00:00,Fabinho,TakeOn
+67,Goal,0.868000031,0.539000015,0.093696699,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,West Ham,3,2,2020-02-24 20:00:00,Andrew Robertson,Pass
+73,SavedShot,0.958000031,0.394000015,0.057700198,Mohamed Salah,h,FromCorner,2019,RightFoot,Liverpool,West Ham,3,2,2020-02-24 20:00:00,Andrew Robertson,Cross
+19,MissedShots,0.95,0.31,0.031897001,Mohamed Salah,a,FromCorner,2019,RightFoot,Watford,Liverpool,3,0,2020-02-29 17:30:00,Alex Oxlade-Chamberlain,Chipped
+48,BlockedShot,0.790999985,0.407999992,0.0270095,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Watford,Liverpool,3,0,2020-02-29 17:30:00,Alex Oxlade-Chamberlain,Pass
+24,Goal,0.859000015,0.419000015,0.081489302,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Bournemouth,2,1,2020-03-07 12:30:00,Sadio Man√,Pass
+76,SavedShot,0.866999969,0.297999992,0.0569112,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Bournemouth,2,1,2020-03-07 12:30:00,Alex Oxlade-Chamberlain,Pass
+7,BlockedShot,0.918000031,0.49,0.059421599,Mohamed Salah,h,OpenPlay,2019,Head,Liverpool,Crystal Palace,4,0,2020-06-24 19:15:00,,None
+39,MissedShots,0.63,0.337999992,0.00845988,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Crystal Palace,4,0,2020-06-24 19:15:00,,None
+43,Goal,0.908000031,0.460999985,0.330972999,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Crystal Palace,4,0,2020-06-24 19:15:00,Fabinho,Chipped
+62,MissedShots,0.808000031,0.330999985,0.044604901,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Crystal Palace,4,0,2020-06-24 19:15:00,Sadio Man√,Pass
+91,BlockedShot,0.943000031,0.337000008,0.076137498,Mohamed Salah,h,OpenPlay,2019,RightFoot,Liverpool,Crystal Palace,4,0,2020-06-24 19:15:00,,None
+3,SavedShot,0.780999985,0.567000008,0.038699899,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Virgil van Dijk,Chipped
+18,ShotOnPost,0.838000031,0.472999992,0.084806703,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Roberto Firmino,Pass
+75,SavedShot,0.895,0.302000008,0.020620599,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Neco Williams,Cross
+89,BlockedShot,0.848000031,0.529000015,0.0692003,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Divock Origi,BallTouch
+36,SavedShot,0.923000031,0.345,0.067565002,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Aston Villa,2,0,2020-07-05 15:30:00,Naby Keita,Chipped
+5,Goal,0.905999985,0.422000008,0.408811003,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Naby Keita,Pass
+13,SavedShot,0.941999969,0.327999992,0.135868996,Mohamed Salah,a,OpenPlay,2019,RightFoot,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Naby Keita,Throughball
+38,MissedShots,0.869000015,0.325,0.0704372,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Naby Keita,Pass
+53,SavedShot,0.926999969,0.384000015,0.428526014,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Naby Keita,Pass
+62,BlockedShot,0.950999985,0.640999985,0.189282,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Fabinho,TakeOn
+75,Goal,0.933000031,0.375,0.0237618,Mohamed Salah,a,FromCorner,2019,Head,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Andrew Robertson,Cross
+93,SavedShot,0.961999969,0.622000008,0.437846005,Mohamed Salah,a,OpenPlay,2019,RightFoot,Brighton,Liverpool,1,3,2020-07-08 19:15:00,,None
+95,MissedShots,0.93,0.410999985,0.178946003,Mohamed Salah,a,OpenPlay,2019,Head,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Andrew Robertson,Cross
+13,MissedShots,0.78,0.402999992,0.082395799,Mohamed Salah,h,DirectFreekick,2019,LeftFoot,Liverpool,Burnley,1,1,2020-07-11 14:00:00,,Standard
+17,SavedShot,0.905,0.445,0.132241994,Mohamed Salah,h,OpenPlay,2019,RightFoot,Liverpool,Burnley,1,1,2020-07-11 14:00:00,Roberto Firmino,Pass
+32,SavedShot,0.923000031,0.427000008,0.459583998,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Burnley,1,1,2020-07-11 14:00:00,Sadio Man√,None
+61,MissedShots,0.901999969,0.420999985,0.360498995,Mohamed Salah,h,FromCorner,2019,LeftFoot,Liverpool,Burnley,1,1,2020-07-11 14:00:00,,Rebound
+84,SavedShot,0.801999969,0.334000015,0.023272401,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Burnley,1,1,2020-07-11 14:00:00,Alex Oxlade-Chamberlain,Pass
+92,SavedShot,0.888000031,0.450999985,0.090939499,Mohamed Salah,h,OpenPlay,2019,RightFoot,Liverpool,Burnley,1,1,2020-07-11 14:00:00,Trent Alexander-Arnold,Cross
+41,BlockedShot,0.888000031,0.397999992,0.103940003,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Arsenal,Liverpool,2,1,2020-07-15 19:15:00,Roberto Firmino,Pass
+48,BlockedShot,0.913000031,0.454000015,0.115560003,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Arsenal,Liverpool,2,1,2020-07-15 19:15:00,,Rebound
+53,SavedShot,0.905,0.475999985,0.394883007,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Arsenal,Liverpool,2,1,2020-07-15 19:15:00,Trent Alexander-Arnold,TakeOn
+69,SavedShot,0.931999969,0.435999985,0.23804,Mohamed Salah,a,OpenPlay,2019,Head,Arsenal,Liverpool,2,1,2020-07-15 19:15:00,Sadio Man√,Cross
+49,MissedShots,0.86,0.449000015,0.098693497,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Chelsea,5,3,2020-07-22 19:15:00,Roberto Firmino,TakeOn
+52,SavedShot,0.898000031,0.560999985,0.074993603,Mohamed Salah,h,FromCorner,2019,LeftFoot,Liverpool,Chelsea,5,3,2020-07-22 19:15:00,Andrew Robertson,Pass
+56,BlockedShot,0.904000015,0.347000008,0.081449598,Mohamed Salah,h,OpenPlay,2019,LeftFoot,Liverpool,Chelsea,5,3,2020-07-22 19:15:00,,BallRecovery
+65,ShotOnPost,0.881999969,0.339000015,0.0515965,Mohamed Salah,a,SetPiece,2019,LeftFoot,Newcastle United,Liverpool,1,3,2020-07-26 15:00:00,,None
+71,BlockedShot,0.878000031,0.362999992,0.076767698,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Newcastle United,Liverpool,1,3,2020-07-26 15:00:00,Roberto Firmino,Chipped
+77,MissedShots,0.839000015,0.312000008,0.068595298,Mohamed Salah,a,OpenPlay,2019,LeftFoot,Newcastle United,Liverpool,1,3,2020-07-26 15:00:00,,TakeOn
+2,BlockedShot,0.875,0.347000008,0.068556197,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Leeds,4,3,2020-09-12 16:30:00,Sadio Man√,Pass
+3,Goal,0.885,0.5,0.761169016,Mohamed Salah,h,Penalty,2020,LeftFoot,Liverpool,Leeds,4,3,2020-09-12 16:30:00,,Standard
+6,BlockedShot,0.86,0.322000008,0.060801201,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Leeds,4,3,2020-09-12 16:30:00,Sadio Man√,Pass
+32,Goal,0.87,0.392000008,0.0624271,Mohamed Salah,h,SetPiece,2020,LeftFoot,Liverpool,Leeds,4,3,2020-09-12 16:30:00,,None
+52,BlockedShot,0.915,0.409000015,0.0580399,Mohamed Salah,h,FromCorner,2020,RightFoot,Liverpool,Leeds,4,3,2020-09-12 16:30:00,Trent Alexander-Arnold,Cross
+59,BlockedShot,0.866999969,0.679000015,0.071433298,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Leeds,4,3,2020-09-12 16:30:00,Georginio Wijnaldum,BallRecovery
+70,MissedShots,0.844000015,0.450999985,0.065573499,Mohamed Salah,h,OpenPlay,2020,RightFoot,Liverpool,Leeds,4,3,2020-09-12 16:30:00,,None
+79,BlockedShot,0.791999969,0.36,0.0306579,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Leeds,4,3,2020-09-12 16:30:00,Curtis Jones,Pass
+87,Goal,0.885,0.5,0.761169016,Mohamed Salah,h,Penalty,2020,LeftFoot,Liverpool,Leeds,4,3,2020-09-12 16:30:00,,Standard
+18,BlockedShot,0.823000031,0.435,0.061023802,Mohamed Salah,a,OpenPlay,2020,LeftFoot,Chelsea,Liverpool,0,2,2020-09-20 15:30:00,Roberto Firmino,Pass
+33,MissedShots,0.96,0.700999985,0.044140399,Mohamed Salah,a,OpenPlay,2020,LeftFoot,Chelsea,Liverpool,0,2,2020-09-20 15:30:00,Trent Alexander-Arnold,Chipped
+60,BlockedShot,0.809000015,0.472000008,0.050048798,Mohamed Salah,a,OpenPlay,2020,LeftFoot,Chelsea,Liverpool,0,2,2020-09-20 15:30:00,,None
+92,SavedShot,0.939000015,0.684000015,0.066109098,Mohamed Salah,a,OpenPlay,2020,LeftFoot,Chelsea,Liverpool,0,2,2020-09-20 15:30:00,,None
+12,MissedShots,0.880999985,0.594000015,0.0457552,Mohamed Salah,h,FromCorner,2020,LeftFoot,Liverpool,Arsenal,3,1,2020-09-28 19:15:00,Andrew Robertson,Cross
+20,MissedShots,0.8,0.395,0.024880299,Mohamed Salah,h,FromCorner,2020,LeftFoot,Liverpool,Arsenal,3,1,2020-09-28 19:15:00,,None
+27,SavedShot,0.904000015,0.327999992,0.082000896,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Arsenal,3,1,2020-09-28 19:15:00,Roberto Firmino,TakeOn
+60,BlockedShot,0.904000015,0.297000008,0.0654293,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Arsenal,3,1,2020-09-28 19:15:00,Joseph Gomez,Chipped
+32,Goal,0.883000031,0.424000015,0.308221996,Mohamed Salah,a,OpenPlay,2020,LeftFoot,Aston Villa,Liverpool,7,2,2020-10-04 18:15:00,,BallTouch
+59,Goal,0.854000015,0.449000015,0.274387985,Mohamed Salah,a,OpenPlay,2020,LeftFoot,Aston Villa,Liverpool,7,2,2020-10-04 18:15:00,Roberto Firmino,Pass
+20,SavedShot,0.845,0.392000008,0.070119701,Mohamed Salah,a,OpenPlay,2020,LeftFoot,Everton,Liverpool,2,2,2020-10-17 11:30:00,Roberto Firmino,Pass
+35,BlockedShot,0.914000015,0.617999992,0.079430997,Mohamed Salah,a,SetPiece,2020,LeftFoot,Everton,Liverpool,2,2,2020-10-17 11:30:00,,BallTouch
+38,SavedShot,0.875,0.38,0.091251001,Mohamed Salah,a,OpenPlay,2020,RightFoot,Everton,Liverpool,2,2,2020-10-17 11:30:00,Thiago Alc√°ntar,Pass
+41,BlockedShot,0.806999969,0.296000004,0.0252614,Mohamed Salah,a,OpenPlay,2020,LeftFoot,Everton,Liverpool,2,2,2020-10-17 11:30:00,Roberto Firmino,LayOff
+71,Goal,0.863000031,0.425,0.070694298,Mohamed Salah,a,OpenPlay,2020,LeftFoot,Everton,Liverpool,2,2,2020-10-17 11:30:00,,None
+78,SavedShot,0.779000015,0.515,0.044563901,Mohamed Salah,a,OpenPlay,2020,LeftFoot,Everton,Liverpool,2,2,2020-10-17 11:30:00,Thiago Alc√°ntar,Pass
+41,SavedShot,0.873000031,0.427999992,0.282377988,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Sheffield United,2,1,2020-10-24 19:00:00,Trent Alexander-Arnold,Pass
+52,MissedShots,0.811999969,0.387999992,0.0281009,Mohamed Salah,h,FromCorner,2020,LeftFoot,Liverpool,Sheffield United,2,1,2020-10-24 19:00:00,,None
+80,ShotOnPost,0.920999985,0.452000008,0.511546016,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Sheffield United,2,1,2020-10-24 19:00:00,Georginio Wijnaldum,Pass
+86,BlockedShot,0.858000031,0.349000015,0.070615299,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Sheffield United,2,1,2020-10-24 19:00:00,,Tackle
+41,Goal,0.885,0.5,0.761169016,Mohamed Salah,h,Penalty,2020,LeftFoot,Liverpool,West Ham,2,1,2020-10-31 17:30:00,,Standard
+49,SavedShot,0.895,0.527000008,0.0963661,Mohamed Salah,h,SetPiece,2020,OtherBodyPart,Liverpool,West Ham,2,1,2020-10-31 17:30:00,Trent Alexander-Arnold,Chipped
+73,MissedShots,0.925,0.297999992,0.0471876,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,West Ham,2,1,2020-10-31 17:30:00,Sadio Man√,Pass
+12,Goal,0.885,0.5,0.761169016,Mohamed Salah,a,Penalty,2020,LeftFoot,Manchester City,Liverpool,1,1,2020-11-08 16:30:00,,Standard
+49,BlockedShot,0.794000015,0.407000008,0.037840702,Mohamed Salah,a,OpenPlay,2020,LeftFoot,Manchester City,Liverpool,1,1,2020-11-08 16:30:00,Sadio Man√,Pass
+2,MissedShots,0.858000031,0.564000015,0.077437602,Mohamed Salah,a,OpenPlay,2020,LeftFoot,Brighton,Liverpool,1,1,2020-11-28 12:30:00,Fabinho,Chipped
+23,Goal,0.904000015,0.555,0.438614994,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Wolverhampton Wanderers,4,0,2020-12-06 19:15:00,,None
+34,SavedShot,0.729000015,0.550999985,0.049859099,Mohamed Salah,h,DirectFreekick,2020,LeftFoot,Liverpool,Wolverhampton Wanderers,4,0,2020-12-06 19:15:00,,Standard
+90,MissedShots,0.794000015,0.467000008,0.057340302,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Wolverhampton Wanderers,4,0,2020-12-06 19:15:00,Diogo Jota,Pass
+43,MissedShots,0.899000015,0.412000008,0.100417003,Mohamed Salah,a,OpenPlay,2020,LeftFoot,Fulham,Liverpool,1,1,2020-12-13 16:30:00,Trent Alexander-Arnold,Pass
+45,SavedShot,0.733000031,0.612999992,0.017048599,Mohamed Salah,a,OpenPlay,2020,LeftFoot,Fulham,Liverpool,1,1,2020-12-13 16:30:00,Curtis Jones,Pass
+78,Goal,0.885,0.5,0.761169016,Mohamed Salah,a,Penalty,2020,LeftFoot,Fulham,Liverpool,1,1,2020-12-13 16:30:00,,Standard
+20,SavedShot,0.854000015,0.505999985,0.095677704,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Tottenham,2,1,2020-12-16 20:00:00,Andrew Robertson,Pass
+25,Goal,0.845,0.545,0.0741065,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Tottenham,2,1,2020-12-16 20:00:00,,Dispossessed
+56,SavedShot,0.766999969,0.507000008,0.027924299,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Tottenham,2,1,2020-12-16 20:00:00,Roberto Firmino,Pass
+68,SavedShot,0.883000031,0.339000015,0.118845999,Mohamed Salah,h,OpenPlay,2020,RightFoot,Liverpool,Tottenham,2,1,2020-12-16 20:00:00,Rhys Williams,Throughball
+80,Goal,0.933000031,0.525,0.332637012,Mohamed Salah,a,FromCorner,2020,Head,Crystal Palace,Liverpool,0,7,2020-12-19 12:30:00,Joel Matip,Rebound
+83,Goal,0.785999985,0.298999996,0.0294428,Mohamed Salah,a,OpenPlay,2020,LeftFoot,Crystal Palace,Liverpool,0,7,2020-12-19 12:30:00,Alex Oxlade-Chamberlain,Pass
+33,MissedShots,0.819000015,0.370999985,0.033085302,Mohamed Salah,h,SetPiece,2020,LeftFoot,Liverpool,West Bromwich Albion,1,1,2020-12-27 16:30:00,,None
+42,MissedShots,0.885,0.435999985,0.065414101,Mohamed Salah,h,OpenPlay,2020,Head,Liverpool,West Bromwich Albion,1,1,2020-12-27 16:30:00,Trent Alexander-Arnold,Cross
+64,MissedShots,0.911999969,0.495999985,0.0922876,Mohamed Salah,h,FromCorner,2020,Head,Liverpool,West Bromwich Albion,1,1,2020-12-27 16:30:00,Georginio Wijnaldum,Cross
+33,SavedShot,0.871999969,0.454000015,0.297161996,Mohamed Salah,a,OpenPlay,2020,LeftFoot,Newcastle United,Liverpool,0,0,2020-12-30 20:00:00,Jordan Henderson,Chipped
+65,MissedShots,0.879000015,0.422000008,0.338279992,Mohamed Salah,a,OpenPlay,2020,LeftFoot,Newcastle United,Liverpool,0,0,2020-12-30 20:00:00,Roberto Firmino,TakeOn
+46,MissedShots,0.918000031,0.475,0.306612015,Mohamed Salah,a,OpenPlay,2020,Head,Southampton,Liverpool,1,0,2021-01-04 20:00:00,Sadio Man√,Aerial
+76,MissedShots,0.88,0.475999985,0.081715398,Mohamed Salah,a,OpenPlay,2020,RightFoot,Southampton,Liverpool,1,0,2021-01-04 20:00:00,Trent Alexander-Arnold,Rebound
+21,MissedShots,0.773000031,0.520999985,0.021957099,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Manchester United,0,0,2021-01-17 16:30:00,,Rebound
+61,BlockedShot,0.893000031,0.467999992,0.094665498,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Manchester United,0,0,2021-01-17 16:30:00,,None
+71,BlockedShot,0.805999985,0.479000015,0.0563085,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Manchester United,0,0,2021-01-17 16:30:00,Roberto Firmino,Pass
+59,SavedShot,0.873000031,0.402999992,0.099989697,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Burnley,0,1,2021-01-21 20:00:00,Georginio Wijnaldum,Pass
+86,BlockedShot,0.868000031,0.364000015,0.0621427,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Burnley,0,1,2021-01-21 20:00:00,Sadio Man√,Pass
+45,MissedShots,0.898000031,0.434000015,0.130377993,Mohamed Salah,a,OpenPlay,2020,LeftFoot,Tottenham,Liverpool,1,3,2021-01-28 20:00:00,Roberto Firmino,Pass
+22,MissedShots,0.915,0.38,0.0177733,Mohamed Salah,a,OpenPlay,2020,Head,West Ham,Liverpool,1,3,2021-01-31 16:30:00,Thiago Alc√°ntar,Aerial
+45,SavedShot,0.788000031,0.390999985,0.0243748,Mohamed Salah,a,OpenPlay,2020,LeftFoot,West Ham,Liverpool,1,3,2021-01-31 16:30:00,Xherdan Shaqiri,Pass
+48,BlockedShot,0.925999985,0.519000015,0.121705003,Mohamed Salah,a,OpenPlay,2020,LeftFoot,West Ham,Liverpool,1,3,2021-01-31 16:30:00,Divock Origi,Cross
+53,SavedShot,0.89,0.512999992,0.049548998,Mohamed Salah,a,OpenPlay,2020,Head,West Ham,Liverpool,1,3,2021-01-31 16:30:00,Jordan Henderson,Chipped
+56,Goal,0.905,0.342000008,0.088262402,Mohamed Salah,a,OpenPlay,2020,LeftFoot,West Ham,Liverpool,1,3,2021-01-31 16:30:00,Curtis Jones,TakeOn
+67,Goal,0.915999985,0.449000015,0.480724007,Mohamed Salah,a,OpenPlay,2020,LeftFoot,West Ham,Liverpool,1,3,2021-01-31 16:30:00,Xherdan Shaqiri,Cross
+74,MissedShots,0.764000015,0.377000008,0.030886101,Mohamed Salah,a,OpenPlay,2020,LeftFoot,West Ham,Liverpool,1,3,2021-01-31 16:30:00,Georginio Wijnaldum,Pass
+2,MissedShots,0.898000031,0.367999992,0.290448993,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Brighton,0,1,2021-02-03 20:15:00,Jordan Henderson,Chipped
+30,BlockedShot,0.803000031,0.517999992,0.054248799,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Brighton,0,1,2021-02-03 20:15:00,Xherdan Shaqiri,Pass
+69,MissedShots,0.894000015,0.427999992,0.39367801,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Brighton,0,1,2021-02-03 20:15:00,Trent Alexander-Arnold,Pass
+76,BlockedShot,0.871999969,0.417999992,0.063664399,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Brighton,0,1,2021-02-03 20:15:00,,None
+40,BlockedShot,0.815,0.357000008,0.036689799,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Manchester City,1,4,2021-02-07 16:30:00,Sadio Man√,Pass
+62,Goal,0.885,0.5,0.761169016,Mohamed Salah,h,Penalty,2020,LeftFoot,Liverpool,Manchester City,1,4,2021-02-07 16:30:00,,Standard
+16,MissedShots,0.874000015,0.587000008,0.0284719,Mohamed Salah,a,FromCorner,2020,LeftFoot,Leicester,Liverpool,3,1,2021-02-13 12:30:00,,Aerial
+19,SavedShot,0.921999969,0.350999985,0.330471009,Mohamed Salah,a,OpenPlay,2020,RightFoot,Leicester,Liverpool,3,1,2021-02-13 12:30:00,Trent Alexander-Arnold,Pass
+66,Goal,0.860999985,0.425,0.0788882,Mohamed Salah,a,OpenPlay,2020,LeftFoot,Leicester,Liverpool,3,1,2021-02-13 12:30:00,Roberto Firmino,Pass
+68,SavedShot,0.954000015,0.420999985,0.482450992,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Everton,0,2,2021-02-20 17:30:00,Xherdan Shaqiri,Pass
+29,SavedShot,0.971999969,0.357000008,0.114974,Mohamed Salah,a,OpenPlay,2020,RightFoot,Sheffield United,Liverpool,0,2,2021-02-28 19:15:00,Roberto Firmino,BallRecovery
+37,BlockedShot,0.879000015,0.472000008,0.119303003,Mohamed Salah,a,OpenPlay,2020,LeftFoot,Sheffield United,Liverpool,0,2,2021-02-28 19:15:00,Trent Alexander-Arnold,Pass
+79,MissedShots,0.965999985,0.425,0.557081997,Mohamed Salah,a,OpenPlay,2020,RightFoot,Sheffield United,Liverpool,0,2,2021-02-28 19:15:00,Andrew Robertson,Pass
+58,BlockedShot,0.751999969,0.397000008,0.019067099,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Chelsea,0,1,2021-03-04 20:15:00,,None
+14,SavedShot,0.945999985,0.405999985,0.092547499,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Fulham,0,1,2021-03-07 14:00:00,Xherdan Shaqiri,OffsidePass
+18,MissedShots,0.795,0.385,0.0338291,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Fulham,0,1,2021-03-07 14:00:00,Nathaniel Phillips,Chipped
+47,BlockedShot,0.865,0.69,0.041124798,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Fulham,0,1,2021-03-07 14:00:00,Diogo Jota,Pass
+50,MissedShots,0.759000015,0.293999996,0.013999,Mohamed Salah,a,OpenPlay,2020,LeftFoot,Wolverhampton Wanderers,Liverpool,0,1,2021-03-15 20:00:00,Sadio Man√,Chipped
+79,SavedShot,0.920999985,0.355,0.107468002,Mohamed Salah,a,OpenPlay,2020,RightFoot,Wolverhampton Wanderers,Liverpool,0,1,2021-03-15 20:00:00,Naby Keita,Pass
+103,MissedShots,0.868000031,0.395,0.105972998,Mohamed Salah,a,OpenPlay,2020,LeftFoot,Wolverhampton Wanderers,Liverpool,0,1,2021-03-15 20:00:00,Naby Keita,Pass
+51,BlockedShot,0.874000015,0.442000008,0.078398101,Mohamed Salah,a,OpenPlay,2020,RightFoot,Arsenal,Liverpool,0,3,2021-04-03 19:00:00,Trent Alexander-Arnold,Cross
+51,BlockedShot,0.735,0.412000008,0.014841,Mohamed Salah,a,OpenPlay,2020,LeftFoot,Arsenal,Liverpool,0,3,2021-04-03 19:00:00,,None
+67,Goal,0.955,0.372999992,0.354169011,Mohamed Salah,a,OpenPlay,2020,RightFoot,Arsenal,Liverpool,0,3,2021-04-03 19:00:00,,None
+70,MissedShots,0.810999985,0.288999996,0.023001,Mohamed Salah,a,OpenPlay,2020,LeftFoot,Arsenal,Liverpool,0,3,2021-04-03 19:00:00,,None
+72,SavedShot,0.864000015,0.575999985,0.321933001,Mohamed Salah,a,OpenPlay,2020,LeftFoot,Arsenal,Liverpool,0,3,2021-04-03 19:00:00,Roberto Firmino,Chipped
+4,BlockedShot,0.865,0.605999985,0.054293301,Mohamed Salah,h,FromCorner,2020,LeftFoot,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,Nathaniel Phillips,Pass
+4,SavedShot,0.878000031,0.705999985,0.043816201,Mohamed Salah,h,FromCorner,2020,LeftFoot,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,Andrew Robertson,Pass
+12,MissedShots,0.87,0.419000015,0.350605994,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,,None
+35,MissedShots,0.844000015,0.490999985,0.083822899,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,Roberto Firmino,Pass
+50,BlockedShot,0.878000031,0.627000008,0.061379999,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,Georginio Wijnaldum,Pass
+55,BlockedShot,0.801999969,0.515,0.0315216,Mohamed Salah,h,FromCorner,2020,LeftFoot,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,,None
+56,Goal,0.951999969,0.46,0.437467992,Mohamed Salah,h,OpenPlay,2020,Head,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,,Rebound
+78,BlockedShot,0.894000015,0.367000008,0.093501396,Mohamed Salah,a,OpenPlay,2020,LeftFoot,Leeds,Liverpool,1,1,2021-04-19 19:00:00,,BallRecovery
+84,MissedShots,0.85,0.632999992,0.068095401,Mohamed Salah,a,OpenPlay,2020,LeftFoot,Leeds,Liverpool,1,1,2021-04-19 19:00:00,Thiago Alc√°ntar,Chipped
+2,Goal,0.913000031,0.385999985,0.080063,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Newcastle United,1,1,2021-04-24 11:30:00,,None
+35,SavedShot,0.849000015,0.49,0.377204001,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Newcastle United,1,1,2021-04-24 11:30:00,Roberto Firmino,Chipped
+72,MissedShots,0.900999985,0.364000015,0.326687992,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Newcastle United,1,1,2021-04-24 11:30:00,Sadio Man√,Pass
+18,SavedShot,0.965999985,0.384000015,0.350926012,Mohamed Salah,h,OpenPlay,2020,RightFoot,Liverpool,Southampton,2,0,2021-05-08 19:15:00,Sadio Man√,Pass
+24,SavedShot,0.915999985,0.285,0.043992501,Mohamed Salah,h,FromCorner,2020,LeftFoot,Liverpool,Southampton,2,0,2021-05-08 19:15:00,Trent Alexander-Arnold,Pass
+35,BlockedShot,0.865,0.499000015,0.098521397,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Southampton,2,0,2021-05-08 19:15:00,,None
+68,BlockedShot,0.856999969,0.594000015,0.094986901,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Southampton,2,0,2021-05-08 19:15:00,Sadio Man√,Pass
+13,BlockedShot,0.896999969,0.345999985,0.0649198,Mohamed Salah,a,OpenPlay,2020,LeftFoot,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Trent Alexander-Arnold,Pass
+33,BlockedShot,0.819000015,0.545,0.0391865,Mohamed Salah,a,FromCorner,2020,LeftFoot,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,,None
+72,MissedShots,0.86,0.709000015,0.0424277,Mohamed Salah,a,OpenPlay,2020,LeftFoot,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Thiago Alc√°ntar,Pass
+89,Goal,0.899000015,0.427999992,0.468111008,Mohamed Salah,a,OpenPlay,2020,LeftFoot,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Curtis Jones,Pass
+27,SavedShot,0.941999969,0.360999985,0.068730898,Mohamed Salah,a,OpenPlay,2020,LeftFoot,West Bromwich Albion,Liverpool,1,2,2021-05-16 15:30:00,Trent Alexander-Arnold,Chipped
+32,Goal,0.813000031,0.35,0.037799899,Mohamed Salah,a,OpenPlay,2020,LeftFoot,West Bromwich Albion,Liverpool,1,2,2021-05-16 15:30:00,Sadio Man√,Pass
+49,BlockedShot,0.885999985,0.4,0.105066001,Mohamed Salah,a,OpenPlay,2020,LeftFoot,West Bromwich Albion,Liverpool,1,2,2021-05-16 15:30:00,Trent Alexander-Arnold,Pass
+56,SavedShot,0.901999969,0.673000031,0.089526601,Mohamed Salah,a,OpenPlay,2020,LeftFoot,West Bromwich Albion,Liverpool,1,2,2021-05-16 15:30:00,Trent Alexander-Arnold,Pass
+1,BlockedShot,0.859000015,0.641999969,0.144281998,Mohamed Salah,a,OpenPlay,2020,LeftFoot,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Andrew Robertson,Throughball
+29,MissedShots,0.909000015,0.577000008,0.299732,Mohamed Salah,a,OpenPlay,2020,LeftFoot,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Andrew Robertson,Chipped
+49,MissedShots,0.905,0.362999992,0.110212997,Mohamed Salah,a,OpenPlay,2020,LeftFoot,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Sadio Man√,Pass
+64,MissedShots,0.869000015,0.490999985,0.337256014,Mohamed Salah,a,OpenPlay,2020,LeftFoot,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Roberto Firmino,Pass
+18,BlockedShot,0.899000015,0.552999992,0.101196997,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Crystal Palace,2,0,2021-05-23 15:00:00,Sadio Man√,Cross
+20,MissedShots,0.869000015,0.273999996,0.031494699,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Crystal Palace,2,0,2021-05-23 15:00:00,Sadio Man√,Pass
+22,SavedShot,0.900999985,0.365999985,0.293000013,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Crystal Palace,2,0,2021-05-23 15:00:00,Thiago Alc√°ntar,Chipped
+49,BlockedShot,0.86,0.375,0.070254803,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Crystal Palace,2,0,2021-05-23 15:00:00,Sadio Man√,Chipped
+79,MissedShots,0.878000031,0.352999992,0.084431797,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Crystal Palace,2,0,2021-05-23 15:00:00,Roberto Firmino,Pass
+84,SavedShot,0.903000031,0.579000015,0.135130003,Mohamed Salah,h,OpenPlay,2020,LeftFoot,Liverpool,Crystal Palace,2,0,2021-05-23 15:00:00,Andrew Robertson,Pass
+17,SavedShot,0.900999985,0.318999996,0.063978098,Mohamed Salah,a,OpenPlay,2021,RightFoot,Norwich,Liverpool,0,3,2021-08-14 16:30:00,Trent Alexander-Arnold,Pass
+22,MissedShots,0.861999969,0.365,0.036924198,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Norwich,Liverpool,0,3,2021-08-14 16:30:00,Sadio Man√,Cross
+33,BlockedShot,0.810999985,0.435,0.033030499,Mohamed Salah,a,FromCorner,2021,LeftFoot,Norwich,Liverpool,0,3,2021-08-14 16:30:00,,None
+73,Goal,0.845,0.409000015,0.047832102,Mohamed Salah,a,FromCorner,2021,LeftFoot,Norwich,Liverpool,0,3,2021-08-14 16:30:00,,None
+79,MissedShots,0.855,0.53,0.057369199,Mohamed Salah,a,FromCorner,2021,LeftFoot,Norwich,Liverpool,0,3,2021-08-14 16:30:00,Virgil van Dijk,Pass
+21,SavedShot,0.844000015,0.650999985,0.085796401,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Burnley,2,0,2021-08-21 11:30:00,Harvey Elliott,Pass
+41,BlockedShot,0.853000031,0.384000015,0.073869698,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Burnley,2,0,2021-08-21 11:30:00,,None
+59,BlockedShot,0.9,0.467000008,0.115291998,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Burnley,2,0,2021-08-21 11:30:00,Harvey Elliott,Cross
+74,MissedShots,0.86,0.231000004,0.049385,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Burnley,2,0,2021-08-21 11:30:00,Harvey Elliott,TakeOn
+86,MissedShots,0.804000015,0.302999992,0.026315801,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Burnley,2,0,2021-08-21 11:30:00,Trent Alexander-Arnold,Pass
+49,Goal,0.885,0.5,0.761169016,Mohamed Salah,h,Penalty,2021,LeftFoot,Liverpool,Chelsea,1,1,2021-08-28 16:30:00,,Standard
+65,MissedShots,0.916999969,0.452000008,0.106220998,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Chelsea,1,1,2021-08-28 16:30:00,Andrew Robertson,Cross
+84,SavedShot,0.824000015,0.495999985,0.056610402,Mohamed Salah,h,OpenPlay,2021,RightFoot,Liverpool,Chelsea,1,1,2021-08-28 16:30:00,,None
+19,Goal,0.969000015,0.495999985,0.797240019,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Leeds,Liverpool,0,3,2021-09-12 15:30:00,Trent Alexander-Arnold,Pass
+48,BlockedShot,0.898000031,0.479000015,0.38824901,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Leeds,Liverpool,0,3,2021-09-12 15:30:00,Sadio Man√,Rebound
+75,BlockedShot,0.835999985,0.4,0.086678401,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Leeds,Liverpool,0,3,2021-09-12 15:30:00,Diogo Jota,Pass
+30,SavedShot,0.885999985,0.357000008,0.0461789,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Crystal Palace,3,0,2021-09-18 14:00:00,Konstantinos Tsimikas,Cross
+42,SavedShot,0.898000031,0.542000008,0.0515709,Mohamed Salah,h,FromCorner,2021,Head,Liverpool,Crystal Palace,3,0,2021-09-18 14:00:00,Konstantinos Tsimikas,Cross
+45,SavedShot,0.760999985,0.286000004,0.021628,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Crystal Palace,3,0,2021-09-18 14:00:00,Jordan Henderson,Pass
+58,BlockedShot,0.87,0.49,0.091146603,Mohamed Salah,h,SetPiece,2021,RightFoot,Liverpool,Crystal Palace,3,0,2021-09-18 14:00:00,,Rebound
+67,SavedShot,0.974000015,0.318999996,0.0585647,Mohamed Salah,h,OpenPlay,2021,RightFoot,Liverpool,Crystal Palace,3,0,2021-09-18 14:00:00,,Rebound
+77,Goal,0.980999985,0.450999985,0.481795013,Mohamed Salah,h,FromCorner,2021,LeftFoot,Liverpool,Crystal Palace,3,0,2021-09-18 14:00:00,Virgil van Dijk,BallTouch
+6,BlockedShot,0.891999969,0.437000008,0.383841008,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Brentford,Liverpool,3,3,2021-09-25 16:30:00,Diogo Jota,Throughball
+53,Goal,0.930999985,0.425,0.324198008,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Brentford,Liverpool,3,3,2021-09-25 16:30:00,Fabinho,Chipped
+76,MissedShots,0.879000015,0.437000008,0.361860991,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Brentford,Liverpool,3,3,2021-09-25 16:30:00,Sadio Man√,Throughball
+7,BlockedShot,0.859000015,0.731999969,0.0286045,Mohamed Salah,h,FromCorner,2021,LeftFoot,Liverpool,Manchester City,2,2,2021-10-03 15:30:00,James Milner,Cross
+62,BlockedShot,0.751999969,0.637999992,0.053706702,Mohamed Salah,h,DirectFreekick,2021,LeftFoot,Liverpool,Manchester City,2,2,2021-10-03 15:30:00,,Standard
+75,Goal,0.966999969,0.36,0.160995007,Mohamed Salah,h,OpenPlay,2021,RightFoot,Liverpool,Manchester City,2,2,2021-10-03 15:30:00,Curtis Jones,TakeOn
+2,BlockedShot,0.895999985,0.292000008,0.0440806,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Watford,Liverpool,0,5,2021-10-16 11:30:00,Virgil van Dijk,Chipped
+11,SavedShot,0.821999969,0.369000015,0.063308202,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Watford,Liverpool,0,5,2021-10-16 11:30:00,Andrew Robertson,Pass
+14,BlockedShot,0.905,0.485,0.125606,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Watford,Liverpool,0,5,2021-10-16 11:30:00,,None
+48,SavedShot,0.869000015,0.312000008,0.048820499,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Watford,Liverpool,0,5,2021-10-16 11:30:00,,None
+53,Goal,0.923000031,0.334000015,0.120200001,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Watford,Liverpool,0,5,2021-10-16 11:30:00,Roberto Firmino,TakeOn
+8,MissedShots,0.869000015,0.293999996,0.058045998,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Manchester United,Liverpool,0,5,2021-10-24 15:30:00,Roberto Firmino,Chipped
+31,SavedShot,0.953000031,0.324000015,0.360426992,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Manchester United,Liverpool,0,5,2021-10-24 15:30:00,,BallRecovery
+37,Goal,0.930999985,0.47,0.586480975,Mohamed Salah,a,OpenPlay,2021,RightFoot,Manchester United,Liverpool,0,5,2021-10-24 15:30:00,Naby Keita,Pass
+37,BlockedShot,0.808000031,0.462999992,0.072207503,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Manchester United,Liverpool,0,5,2021-10-24 15:30:00,Diogo Jota,Pass
+49,Goal,0.864000015,0.467999992,0.443677992,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Manchester United,Liverpool,0,5,2021-10-24 15:30:00,Diogo Jota,Pass
+49,Goal,0.92,0.437000008,0.679440975,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Manchester United,Liverpool,0,5,2021-10-24 15:30:00,Jordan Henderson,Throughball
+55,BlockedShot,0.81,0.515999985,0.045479901,Mohamed Salah,a,SetPiece,2021,LeftFoot,Manchester United,Liverpool,0,5,2021-10-24 15:30:00,Trent Alexander-Arnold,Pass
+60,SavedShot,0.86,0.293999996,0.049250901,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Brighton,2,2,2021-10-30 14:00:00,Roberto Firmino,Pass
+87,BlockedShot,0.87,0.567000008,0.104932003,Mohamed Salah,h,OpenPlay,2021,RightFoot,Liverpool,Brighton,2,2,2021-10-30 14:00:00,Diogo Jota,Pass
+54,BlockedShot,0.86,0.394000015,0.062428899,Mohamed Salah,a,OpenPlay,2021,LeftFoot,West Ham,Liverpool,3,2,2021-11-07 16:30:00,,None
+56,MissedShots,0.875,0.605999985,0.092819303,Mohamed Salah,a,OpenPlay,2021,LeftFoot,West Ham,Liverpool,3,2,2021-11-07 16:30:00,Sadio Man√,Pass
+3,MissedShots,0.795999985,0.29,0.023808099,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Arsenal,4,0,2021-11-20 17:30:00,Thiago Alc√°ntar,Pass
+34,SavedShot,0.918000031,0.552000008,0.139847994,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Arsenal,4,0,2021-11-20 17:30:00,Konstantinos Tsimikas,LayOff
+49,BlockedShot,0.895,0.316000004,0.0784088,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Arsenal,4,0,2021-11-20 17:30:00,Trent Alexander-Arnold,Pass
+72,Goal,0.965999985,0.485,0.877018988,Mohamed Salah,h,OpenPlay,2021,RightFoot,Liverpool,Arsenal,4,0,2021-11-20 17:30:00,Sadio Man√,Pass
+15,BlockedShot,0.908000031,0.303999996,0.069184199,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Southampton,4,0,2021-11-27 15:00:00,Jordan Henderson,Pass
+16,MissedShots,0.889000015,0.257999992,0.047767799,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Southampton,4,0,2021-11-27 15:00:00,,None
+76,BlockedShot,0.898000031,0.267999992,0.062413901,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Southampton,4,0,2021-11-27 15:00:00,Fabinho,Pass
+89,MissedShots,0.791999969,0.34,0.0394306,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Southampton,4,0,2021-11-27 15:00:00,Alex Oxlade-Chamberlain,Pass
+2,MissedShots,0.960999985,0.515,0.613785028,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Everton,Liverpool,1,4,2021-12-01 20:15:00,Diogo Jota,Cross
+7,SavedShot,0.899000015,0.545999985,0.131560996,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Everton,Liverpool,1,4,2021-12-01 20:15:00,Sadio Man√,Pass
+18,Goal,0.925,0.325999985,0.275099993,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Everton,Liverpool,1,4,2021-12-01 20:15:00,Jordan Henderson,Pass
+52,MissedShots,0.779000015,0.31,0.026180901,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Everton,Liverpool,1,4,2021-12-01 20:15:00,,None
+63,Goal,0.895,0.632999992,0.538275003,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Everton,Liverpool,1,4,2021-12-01 20:15:00,,BallRecovery
+49,MissedShots,0.883000031,0.671999969,0.035676699,Mohamed Salah,a,FromCorner,2021,LeftFoot,Wolverhampton Wanderers,Liverpool,0,1,2021-12-04 15:00:00,Trent Alexander-Arnold,Cross
+89,SavedShot,0.870999985,0.419000015,0.074764699,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Wolverhampton Wanderers,Liverpool,0,1,2021-12-04 15:00:00,,None
+43,SavedShot,0.925999985,0.262999992,0.036818199,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Aston Villa,1,0,2021-12-11 15:00:00,Fabinho,Pass
+50,MissedShots,0.909000015,0.292000008,0.047261499,Mohamed Salah,h,OpenPlay,2021,RightFoot,Liverpool,Aston Villa,1,0,2021-12-11 15:00:00,,None
+55,BlockedShot,0.919000015,0.454000015,0.103952996,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Aston Villa,1,0,2021-12-11 15:00:00,Trent Alexander-Arnold,None
+59,MissedShots,0.81,0.419000015,0.021534599,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Aston Villa,1,0,2021-12-11 15:00:00,Sadio Man√,Chipped
+66,Goal,0.885,0.5,0.761169016,Mohamed Salah,h,Penalty,2021,LeftFoot,Liverpool,Aston Villa,1,0,2021-12-11 15:00:00,,Standard
+71,BlockedShot,0.860999985,0.31,0.052654199,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Aston Villa,1,0,2021-12-11 15:00:00,Sadio Man√,Pass
+24,Goal,0.899000015,0.420999985,0.349601001,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Newcastle United,3,1,2021-12-16 20:00:00,,Rebound
+34,MissedShots,0.899000015,0.404000015,0.404296994,Mohamed Salah,h,OpenPlay,2021,RightFoot,Liverpool,Newcastle United,3,1,2021-12-16 20:00:00,Alex Oxlade-Chamberlain,Chipped
+58,MissedShots,0.799000015,0.464000015,0.0294606,Mohamed Salah,h,FromCorner,2021,LeftFoot,Liverpool,Newcastle United,3,1,2021-12-16 20:00:00,,None
+72,BlockedShot,0.89,0.33,0.081148297,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Newcastle United,3,1,2021-12-16 20:00:00,Joel Matip,Pass
+40,BlockedShot,0.878000031,0.297999992,0.0407096,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Tottenham,Liverpool,2,2,2021-12-19 16:30:00,Naby Keita,Pass
+58,BlockedShot,0.815,0.492999992,0.057693198,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Tottenham,Liverpool,2,2,2021-12-19 16:30:00,,BallTouch
+15,MissedShots,0.961999969,0.480999985,0.640766978,Mohamed Salah,a,SetPiece,2021,RightFoot,Leicester,Liverpool,1,0,2021-12-28 20:00:00,,None
+15,ShotOnPost,0.931999969,0.5,0.427210987,Mohamed Salah,a,SetPiece,2021,Head,Leicester,Liverpool,1,0,2021-12-28 20:00:00,,Rebound
+15,SavedShot,0.885,0.5,0.761169016,Mohamed Salah,a,Penalty,2021,LeftFoot,Leicester,Liverpool,1,0,2021-12-28 20:00:00,,Standard
+31,SavedShot,0.955999985,0.357000008,0.069778003,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Leicester,Liverpool,1,0,2021-12-28 20:00:00,,None
+80,MissedShots,0.866999969,0.650999985,0.024057601,Mohamed Salah,a,SetPiece,2021,LeftFoot,Leicester,Liverpool,1,0,2021-12-28 20:00:00,Trent Alexander-Arnold,Cross
+5,SavedShot,0.861999969,0.482000008,0.321806997,Mohamed Salah,a,OpenPlay,2021,RightFoot,Chelsea,Liverpool,2,2,2022-01-02 16:30:00,Sadio Man√,Pass
+25,Goal,0.961999969,0.357999992,0.297713012,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Chelsea,Liverpool,2,2,2022-01-02 16:30:00,Trent Alexander-Arnold,Chipped
+35,BlockedShot,0.861999969,0.434000015,0.213810995,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Chelsea,Liverpool,2,2,2022-01-02 16:30:00,,TakeOn
+56,SavedShot,0.730999985,0.615,0.0250808,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Chelsea,Liverpool,2,2,2022-01-02 16:30:00,,None
+73,SavedShot,0.981999969,0.394000015,0.125363007,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Leicester,2,0,2022-02-10 19:45:00,,TakeOn
+74,SavedShot,0.885,0.439000015,0.363074005,Mohamed Salah,h,OpenPlay,2021,RightFoot,Liverpool,Leicester,2,0,2022-02-10 19:45:00,,TakeOn
+77,ShotOnPost,0.858000031,0.33,0.067362502,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Leicester,2,0,2022-02-10 19:45:00,Harvey Elliott,Pass
+92,SavedShot,0.855,0.360999985,0.0587928,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Leicester,2,0,2022-02-10 19:45:00,,None
+4,MissedShots,0.950999985,0.362999992,0.071945697,Mohamed Salah,a,OpenPlay,2021,RightFoot,Burnley,Liverpool,0,1,2022-02-13 14:00:00,Andrew Robertson,Chipped
+1,MissedShots,0.865999985,0.382000008,0.082266003,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Norwich,3,1,2022-02-19 15:00:00,Jordan Henderson,Pass
+18,BlockedShot,0.913000031,0.248999996,0.0410771,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Norwich,3,1,2022-02-19 15:00:00,Joseph Gomez,TakeOn
+19,BlockedShot,0.959000015,0.515,0.561291993,Mohamed Salah,h,FromCorner,2021,Head,Liverpool,Norwich,3,1,2022-02-19 15:00:00,Virgil van Dijk,Aerial
+42,MissedShots,0.856999969,0.252000008,0.025664899,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Norwich,3,1,2022-02-19 15:00:00,,None
+66,Goal,0.81,0.509000015,0.128068,Mohamed Salah,h,OpenPlay,2021,RightFoot,Liverpool,Norwich,3,1,2022-02-19 15:00:00,Alisson,Pass
+71,MissedShots,0.904000015,0.327000008,0.067529596,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Norwich,3,1,2022-02-19 15:00:00,Thiago Alc√°ntar,Chipped
+78,SavedShot,0.75,0.557999992,0.029441601,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Norwich,3,1,2022-02-19 15:00:00,Luis D√≠a,BallRecovery
+85,MissedShots,0.805999985,0.392000008,0.057840999,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Norwich,3,1,2022-02-19 15:00:00,Luis D√≠a,Pass
+14,Goal,0.885,0.5,0.761169016,Mohamed Salah,h,Penalty,2021,LeftFoot,Liverpool,Leeds,6,0,2022-02-23 19:45:00,,Standard
+34,Goal,0.885,0.5,0.761169016,Mohamed Salah,h,Penalty,2021,LeftFoot,Liverpool,Leeds,6,0,2022-02-23 19:45:00,,Standard
+45,BlockedShot,0.813000031,0.477999992,0.068814099,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Leeds,6,0,2022-02-23 19:45:00,,Dispossessed
+46,BlockedShot,0.875,0.430999985,0.259793997,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Leeds,6,0,2022-02-23 19:45:00,Trent Alexander-Arnold,Pass
+59,SavedShot,0.851999969,0.384000015,0.078791298,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Leeds,6,0,2022-02-23 19:45:00,Trent Alexander-Arnold,Pass
+61,MissedShots,0.871999969,0.464000015,0.134028003,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Leeds,6,0,2022-02-23 19:45:00,Curtis Jones,Pass
+1,SavedShot,0.916999969,0.389000015,0.280544013,Mohamed Salah,h,SetPiece,2021,LeftFoot,Liverpool,West Ham,1,0,2022-03-05 17:30:00,Trent Alexander-Arnold,Chipped
+11,MissedShots,0.878000031,0.392000008,0.067142501,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,West Ham,1,0,2022-03-05 17:30:00,,Rebound
+43,MissedShots,0.85,0.67,0.0579933,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,West Ham,1,0,2022-03-05 17:30:00,,None
+65,SavedShot,0.789000015,0.419000015,0.034455799,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,West Ham,1,0,2022-03-05 17:30:00,Jordan Henderson,Pass
+66,SavedShot,0.815999985,0.509000015,0.077497996,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,West Ham,1,0,2022-03-05 17:30:00,Andrew Robertson,Pass
+73,BlockedShot,0.765,0.67,0.0219,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,West Ham,1,0,2022-03-05 17:30:00,Luis D√≠a,HeadPass
+29,MissedShots,0.83,0.457999992,0.046222098,Mohamed Salah,a,FromCorner,2021,LeftFoot,Brighton,Liverpool,0,2,2022-03-12 12:30:00,,None
+40,SavedShot,0.878000031,0.404000015,0.029506201,Mohamed Salah,a,OpenPlay,2021,Head,Brighton,Liverpool,0,2,2022-03-12 12:30:00,Trent Alexander-Arnold,Chipped
+42,SavedShot,0.963000031,0.639000015,0.177502006,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Brighton,Liverpool,0,2,2022-03-12 12:30:00,Andrew Robertson,TakeOn
+56,BlockedShot,0.878000031,0.415,0.142385006,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Brighton,Liverpool,0,2,2022-03-12 12:30:00,,TakeOn
+56,BlockedShot,0.856999969,0.367000008,0.072326802,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Brighton,Liverpool,0,2,2022-03-12 12:30:00,,None
+57,MissedShots,0.829000015,0.469000015,0.112156004,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Brighton,Liverpool,0,2,2022-03-12 12:30:00,Luis D√≠a,Pass
+60,Goal,0.885,0.5,0.761169016,Mohamed Salah,a,Penalty,2021,LeftFoot,Brighton,Liverpool,0,2,2022-03-12 12:30:00,,Standard
+58,MissedShots,0.805999985,0.412999992,0.0286496,Mohamed Salah,a,FromCorner,2021,LeftFoot,Arsenal,Liverpool,0,2,2022-03-16 20:15:00,,None
+61,BlockedShot,0.898000031,0.435999985,0.121662997,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Arsenal,Liverpool,0,2,2022-03-16 20:15:00,Thiago Alc√°ntar,BallTouch
+78,BlockedShot,0.901999969,0.34,0.092752002,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Arsenal,Liverpool,0,2,2022-03-16 20:15:00,Thiago Alc√°ntar,Pass
+0,MissedShots,0.826999969,0.37,0.0282645,Mohamed Salah,h,FromCorner,2021,LeftFoot,Liverpool,Watford,2,0,2022-04-02 11:30:00,Diogo Jota,Pass
+41,BlockedShot,0.796999969,0.268999996,0.0265538,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Watford,2,0,2022-04-02 11:30:00,Curtis Jones,Pass
+65,MissedShots,0.905,0.567000008,0.056689698,Mohamed Salah,h,SetPiece,2021,Head,Liverpool,Watford,2,0,2022-04-02 11:30:00,Fabinho,Chipped
+70,MissedShots,0.871999969,0.335999985,0.059948198,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Manchester City,Liverpool,2,2,2022-04-10 15:30:00,Sadio Man√,Pass
+21,Goal,0.890999985,0.447000008,0.317609012,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Manchester United,4,0,2022-04-19 19:00:00,Sadio Man√,Chipped
+29,BlockedShot,0.865999985,0.295,0.076067097,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Manchester United,4,0,2022-04-19 19:00:00,Thiago Alc√°ntar,Chipped
+34,MissedShots,0.895,0.457999992,0.410032988,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Manchester United,4,0,2022-04-19 19:00:00,Fabinho,OffsidePass
+84,Goal,0.896999969,0.534000015,0.139868006,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Manchester United,4,0,2022-04-19 19:00:00,Diogo Jota,Throughball
+42,MissedShots,0.848000031,0.285,0.0260543,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Everton,2,0,2022-04-24 15:30:00,Naby Keita,Pass
+65,MissedShots,0.915,0.430999985,0.114579998,Mohamed Salah,h,FromCorner,2021,LeftFoot,Liverpool,Everton,2,0,2022-04-24 15:30:00,,Rebound
+70,MissedShots,0.860999985,0.545999985,0.036487099,Mohamed Salah,a,OpenPlay,2021,Head,Newcastle United,Liverpool,0,1,2022-04-30 11:30:00,Andrew Robertson,Cross
+71,SavedShot,0.870999985,0.350999985,0.047628298,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Newcastle United,Liverpool,0,1,2022-04-30 11:30:00,Luis D√≠a,Cross
+10,BlockedShot,0.845999985,0.349000015,0.073854104,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Tottenham,1,1,2022-05-07 18:45:00,Sadio Man√,Pass
+72,BlockedShot,0.849000015,0.455,0.119600996,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Tottenham,1,1,2022-05-07 18:45:00,Thiago Alc√°ntar,Pass
+89,BlockedShot,0.814000015,0.479000015,0.060500301,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Tottenham,1,1,2022-05-07 18:45:00,Luis D√≠a,Pass
+76,BlockedShot,0.878000031,0.49,0.127544001,Mohamed Salah,a,OpenPlay,2021,LeftFoot,Aston Villa,Liverpool,1,2,2022-05-10 19:00:00,Diogo Jota,Pass
+63,MissedShots,0.923000031,0.278999996,0.034797199,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Wolverhampton Wanderers,3,1,2022-05-22 15:00:00,,Rebound
+67,BlockedShot,0.823000031,0.48,0.055869799,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Wolverhampton Wanderers,3,1,2022-05-22 15:00:00,,None
+77,SavedShot,0.878000031,0.317999992,0.051476602,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Wolverhampton Wanderers,3,1,2022-05-22 15:00:00,Roberto Firmino,Pass
+78,BlockedShot,0.841999969,0.360999985,0.058323201,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Wolverhampton Wanderers,3,1,2022-05-22 15:00:00,Sadio Man√,Pass
+83,Goal,0.978000031,0.542000008,0.691986978,Mohamed Salah,h,FromCorner,2021,LeftFoot,Liverpool,Wolverhampton Wanderers,3,1,2022-05-22 15:00:00,Joel Matip,HeadPass
+88,BlockedShot,0.900999985,0.475999985,0.142387003,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Wolverhampton Wanderers,3,1,2022-05-22 15:00:00,Trent Alexander-Arnold,Pass
+91,SavedShot,0.935,0.442999992,0.063157402,Mohamed Salah,h,OpenPlay,2021,Head,Liverpool,Wolverhampton Wanderers,3,1,2022-05-22 15:00:00,,None
+92,BlockedShot,0.844000015,0.415,0.069495499,Mohamed Salah,h,OpenPlay,2021,LeftFoot,Liverpool,Wolverhampton Wanderers,3,1,2022-05-22 15:00:00,Trent Alexander-Arnold,None
+21,MissedShots,0.929000015,0.359000015,0.0168778,Mohamed Salah,a,OpenPlay,2022,Head,Fulham,Liverpool,2,2,2022-08-06 11:30:00,Trent Alexander-Arnold,Cross
+79,Goal,0.920999985,0.48,0.374899,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Fulham,Liverpool,2,2,2022-08-06 11:30:00,Darwin N√∫√±,BallTouch
+22,MissedShots,0.890999985,0.437000008,0.091772497,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Crystal Palace,1,1,2022-08-15 19:00:00,Trent Alexander-Arnold,Cross
+29,SavedShot,0.920999985,0.462999992,0.399868995,Mohamed Salah,h,OpenPlay,2022,Head,Liverpool,Crystal Palace,1,1,2022-08-15 19:00:00,Trent Alexander-Arnold,Throughball
+86,MissedShots,0.818000031,0.519000015,0.044897899,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Crystal Palace,1,1,2022-08-15 19:00:00,,Rebound
+39,BlockedShot,0.865,0.419000015,0.070415303,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Manchester United,Liverpool,2,1,2022-08-22 19:00:00,Roberto Firmino,Pass
+48,MissedShots,0.85,0.612000008,0.037028201,Mohamed Salah,a,FromCorner,2022,LeftFoot,Manchester United,Liverpool,2,1,2022-08-22 19:00:00,Trent Alexander-Arnold,Cross
+80,Goal,0.956999969,0.41,0.043011699,Mohamed Salah,a,FromCorner,2022,Head,Manchester United,Liverpool,2,1,2022-08-22 19:00:00,,None
+15,MissedShots,0.983000031,0.480999985,0.969824016,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Bournemouth,9,0,2022-08-27 14:00:00,Harvey Elliott,Pass
+18,SavedShot,0.935999985,0.375,0.137584001,Mohamed Salah,h,OpenPlay,2022,RightFoot,Liverpool,Bournemouth,9,0,2022-08-27 14:00:00,Roberto Firmino,Throughball
+41,MissedShots,0.886999969,0.655999985,0.047598802,Mohamed Salah,h,FromCorner,2022,LeftFoot,Liverpool,Bournemouth,9,0,2022-08-27 14:00:00,,None
+74,MissedShots,0.918000031,0.484000015,0.586347997,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Bournemouth,9,0,2022-08-27 14:00:00,Fabinho,Throughball
+45,MissedShots,0.779000015,0.156999998,0.00850331,Mohamed Salah,h,OpenPlay,2022,RightFoot,Liverpool,Newcastle United,2,1,2022-08-31 19:00:00,Trent Alexander-Arnold,Chipped
+96,BlockedShot,0.935999985,0.311000004,0.0614895,Mohamed Salah,h,OpenPlay,2022,RightFoot,Liverpool,Newcastle United,2,1,2022-08-31 19:00:00,Roberto Firmino,Pass
+93,BlockedShot,0.828000031,0.34,0.040844701,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Everton,Liverpool,0,0,2022-09-03 11:30:00,Diogo Jota,Pass
+94,SavedShot,0.896999969,0.375,0.099544398,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Everton,Liverpool,0,0,2022-09-03 11:30:00,Luis D√≠a,Pass
+94,MissedShots,0.935,0.359000015,0.071592897,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Everton,Liverpool,0,0,2022-09-03 11:30:00,Diogo Jota,Rebound
+13,SavedShot,0.861999969,0.262000008,0.028914399,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Brighton,3,3,2022-10-01 14:00:00,Roberto Firmino,Pass
+25,BlockedShot,0.834000015,0.370999985,0.034053899,Mohamed Salah,h,FromCorner,2022,LeftFoot,Liverpool,Brighton,3,3,2022-10-01 14:00:00,,None
+30,SavedShot,0.93,0.404000015,0.323819995,Mohamed Salah,h,OpenPlay,2022,RightFoot,Liverpool,Brighton,3,3,2022-10-01 14:00:00,,None
+32,MissedShots,0.876999969,0.554000015,0.271032006,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Brighton,3,3,2022-10-01 14:00:00,Jordan Henderson,Chipped
+36,MissedShots,0.753000031,0.427000008,0.020442,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Brighton,3,3,2022-10-01 14:00:00,,None
+31,MissedShots,0.875999985,0.265,0.036747299,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Arsenal,Liverpool,3,2,2022-10-09 15:30:00,Jordan Henderson,Pass
+49,MissedShots,0.843000031,0.487000008,0.498376012,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Manchester City,1,0,2022-10-16 15:30:00,Roberto Firmino,Throughball
+68,MissedShots,0.854000015,0.360999985,0.058634199,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Manchester City,1,0,2022-10-16 15:30:00,Roberto Firmino,Pass
+75,Goal,0.821999969,0.515999985,0.168625996,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Manchester City,1,0,2022-10-16 15:30:00,Alisson,Pass
+31,BlockedShot,0.849000015,0.467000008,0.104627997,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,West Ham,1,0,2022-10-19 18:30:00,Fabio Carvalho,Pass
+34,MissedShots,0.859000015,0.435,0.108364001,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,West Ham,1,0,2022-10-19 18:30:00,Trent Alexander-Arnold,Pass
+35,MissedShots,0.769000015,0.247000008,0.0196549,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,West Ham,1,0,2022-10-19 18:30:00,Roberto Firmino,Pass
+37,SavedShot,0.825999985,0.360999985,0.046284098,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,West Ham,1,0,2022-10-19 18:30:00,Roberto Firmino,Pass
+83,SavedShot,0.868000031,0.327000008,0.168359995,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,West Ham,1,0,2022-10-19 18:30:00,Trent Alexander-Arnold,TakeOn
+92,BlockedShot,0.880999985,0.622999992,0.089467697,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,West Ham,1,0,2022-10-19 18:30:00,James Milner,Pass
+19,BlockedShot,0.9,0.597000008,0.106105,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Nottingham Forest,Liverpool,1,0,2022-10-22 11:30:00,Curtis Jones,Pass
+29,SavedShot,0.854000015,0.54,0.0969612,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Nottingham Forest,Liverpool,1,0,2022-10-22 11:30:00,Harvey Elliott,Pass
+84,MissedShots,0.935999985,0.298999996,0.047256701,Mohamed Salah,a,OpenPlay,2022,RightFoot,Nottingham Forest,Liverpool,1,0,2022-10-22 11:30:00,,Rebound
+94,SavedShot,0.931999969,0.534000015,0.057195298,Mohamed Salah,a,OpenPlay,2022,Head,Nottingham Forest,Liverpool,1,0,2022-10-22 11:30:00,Andrew Robertson,HeadPass
+0,MissedShots,0.975999985,0.728000031,0.040135499,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Leeds,1,2,2022-10-29 18:45:00,,None
+13,Goal,0.950999985,0.450999985,0.446826994,Mohamed Salah,h,FromCorner,2022,LeftFoot,Liverpool,Leeds,1,2,2022-10-29 18:45:00,Andrew Robertson,Cross
+38,SavedShot,0.810999985,0.534000015,0.0546018,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Leeds,1,2,2022-10-29 18:45:00,Darwin N√∫√±,BallTouch
+57,MissedShots,0.793000031,0.395,0.031044099,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Leeds,1,2,2022-10-29 18:45:00,Thiago Alc√°ntar,TakeOn
+67,BlockedShot,0.829000015,0.316000004,0.0338149,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Leeds,1,2,2022-10-29 18:45:00,Trent Alexander-Arnold,Pass
+70,BlockedShot,0.888000031,0.467999992,0.126679003,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Leeds,1,2,2022-10-29 18:45:00,Curtis Jones,Pass
+85,SavedShot,0.89,0.731999969,0.0351578,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Leeds,1,2,2022-10-29 18:45:00,Roberto Firmino,Pass
+10,Goal,0.874000015,0.46,0.114802003,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Tottenham,Liverpool,1,2,2022-11-06 16:30:00,Darwin N√∫√±,Pass
+39,Goal,0.899000015,0.552999992,0.46054101,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Tottenham,Liverpool,1,2,2022-11-06 16:30:00,,None
+53,SavedShot,0.868000031,0.462000008,0.423927993,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Tottenham,Liverpool,1,2,2022-11-06 16:30:00,Darwin N√∫√±,Pass
+15,SavedShot,0.918000031,0.432999992,0.322966009,Mohamed Salah,h,OpenPlay,2022,RightFoot,Liverpool,Southampton,3,1,2022-11-12 15:00:00,Darwin N√∫√±,Cross
+31,SavedShot,0.874000015,0.567000008,0.113845997,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Southampton,3,1,2022-11-12 15:00:00,Andrew Robertson,Pass
+54,MissedShots,0.920999985,0.502999992,0.403564006,Mohamed Salah,h,OpenPlay,2022,Head,Liverpool,Southampton,3,1,2022-11-12 15:00:00,Trent Alexander-Arnold,Cross
+91,BlockedShot,0.805999985,0.427000008,0.069114603,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Southampton,3,1,2022-11-12 15:00:00,Alex Oxlade-Chamberlain,Pass
+4,Goal,0.93,0.524000015,0.492700994,Mohamed Salah,a,FromCorner,2022,LeftFoot,Aston Villa,Liverpool,1,3,2022-12-26 17:30:00,Andrew Robertson,Pass
+30,MissedShots,0.914000015,0.329000015,0.077181898,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Aston Villa,Liverpool,1,3,2022-12-26 17:30:00,Jordan Henderson,Chipped
+50,SavedShot,0.930999985,0.600999985,0.535507023,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Aston Villa,Liverpool,1,3,2022-12-26 17:30:00,Thiago Alc√°ntar,BallRecovery
+22,MissedShots,0.906999969,0.602999992,0.135279,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Leicester,2,1,2022-12-30 20:00:00,Darwin N√∫√±,Pass
+52,MissedShots,0.894000015,0.397999992,0.418633997,Mohamed Salah,h,OpenPlay,2022,RightFoot,Liverpool,Leicester,2,1,2022-12-30 20:00:00,Darwin N√∫√±,Pass
+71,SavedShot,0.895999985,0.375,0.098198302,Mohamed Salah,h,OpenPlay,2022,RightFoot,Liverpool,Leicester,2,1,2022-12-30 20:00:00,Virgil van Dijk,HeadPass
+81,SavedShot,0.856999969,0.512000008,0.094297998,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Leicester,2,1,2022-12-30 20:00:00,,None
+79,BlockedShot,0.885,0.342999992,0.057170101,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Brentford,Liverpool,3,1,2023-01-02 17:30:00,Naby Keita,Pass
+25,MissedShots,0.879000015,0.263999996,0.034962401,Mohamed Salah,a,OpenPlay,2022,RightFoot,Brighton,Liverpool,3,0,2023-01-14 15:00:00,Fabinho,Chipped
+45,MissedShots,0.893000031,0.345999985,0.056375898,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Chelsea,0,0,2023-01-21 12:30:00,Naby Keita,Chipped
+19,MissedShots,0.865999985,0.375999985,0.0843364,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Wolverhampton Wanderers,Liverpool,3,0,2023-02-04 15:00:00,Naby Keita,Pass
+61,MissedShots,0.861999969,0.405999985,0.0875251,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Wolverhampton Wanderers,Liverpool,3,0,2023-02-04 15:00:00,Cody Gakpo,Pass
+10,BlockedShot,0.804000015,0.422000008,0.120545,Mohamed Salah,h,DirectFreekick,2022,LeftFoot,Liverpool,Everton,2,0,2023-02-13 20:00:00,,Standard
+35,Goal,0.838000031,0.504000015,0.362684011,Mohamed Salah,h,OpenPlay,2022,RightFoot,Liverpool,Everton,2,0,2023-02-13 20:00:00,Darwin N√∫√±,Chipped
+62,SavedShot,0.868000031,0.349000015,0.088155702,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Everton,2,0,2023-02-13 20:00:00,Cody Gakpo,Pass
+81,BlockedShot,0.869000015,0.372999992,0.119727001,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Everton,2,0,2023-02-13 20:00:00,Stefan Bajcetic,Pass
+87,SavedShot,0.893000031,0.349000015,0.210385993,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Everton,2,0,2023-02-13 20:00:00,Roberto Firmino,TakeOn
+88,BlockedShot,0.905999985,0.370999985,0.058346201,Mohamed Salah,h,FromCorner,2022,RightFoot,Liverpool,Everton,2,0,2023-02-13 20:00:00,Trent Alexander-Arnold,Pass
+38,BlockedShot,0.803000031,0.349000015,0.087702699,Mohamed Salah,a,DirectFreekick,2022,LeftFoot,Newcastle United,Liverpool,0,2,2023-02-18 17:30:00,,Standard
+80,SavedShot,0.825999985,0.509000015,0.080047302,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Newcastle United,Liverpool,0,2,2023-02-18 17:30:00,Harvey Elliott,BallRecovery
+9,MissedShots,0.861999969,0.301000004,0.071926802,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Crystal Palace,Liverpool,0,0,2023-02-25 19:45:00,Cody Gakpo,Pass
+40,SavedShot,0.865,0.355,0.148736998,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Crystal Palace,Liverpool,0,0,2023-02-25 19:45:00,Naby Keita,TakeOn
+48,ShotOnPost,0.875,0.332000008,0.044724502,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Crystal Palace,Liverpool,0,0,2023-02-25 19:45:00,,Rebound
+76,Goal,0.941999969,0.505,0.623502016,Mohamed Salah,h,OpenPlay,2022,RightFoot,Liverpool,Wolverhampton Wanderers,2,0,2023-03-01 20:00:00,Konstantinos Tsimikas,Pass
+82,MissedShots,0.9,0.370999985,0.089094803,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Wolverhampton Wanderers,2,0,2023-03-01 20:00:00,,BallRecovery
+13,MissedShots,0.820999985,0.345,0.039260902,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Manchester United,7,0,2023-03-05 16:30:00,Fabinho,Pass
+65,Goal,0.869000015,0.537999992,0.134463996,Mohamed Salah,h,OpenPlay,2022,RightFoot,Liverpool,Manchester United,7,0,2023-03-05 16:30:00,,None
+82,Goal,0.93,0.464000015,0.448763996,Mohamed Salah,h,OpenPlay,2022,RightFoot,Liverpool,Manchester United,7,0,2023-03-05 16:30:00,Roberto Firmino,BallTouch
+4,SavedShot,0.824000015,0.454000015,0.068140499,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Bournemouth,Liverpool,1,0,2023-03-11 12:30:00,Cody Gakpo,Pass
+68,MissedShots,0.885,0.5,0.761169016,Mohamed Salah,a,Penalty,2022,LeftFoot,Bournemouth,Liverpool,1,0,2023-03-11 12:30:00,,Standard
+14,BlockedShot,0.855,0.357999992,0.089364603,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Manchester City,Liverpool,4,1,2023-04-01 11:30:00,Harvey Elliott,Pass
+16,Goal,0.855999985,0.415,0.085689202,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Manchester City,Liverpool,4,1,2023-04-01 11:30:00,Diogo Jota,Pass
+33,MissedShots,0.923000031,0.332000008,0.285153002,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Arsenal,2,2,2023-04-09 15:30:00,Jordan Henderson,Throughball
+41,Goal,0.978000031,0.464000015,0.720856011,Mohamed Salah,h,OpenPlay,2022,RightFoot,Liverpool,Arsenal,2,2,2023-04-09 15:30:00,,Rebound
+47,BlockedShot,0.830999985,0.345,0.0462749,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Arsenal,2,2,2023-04-09 15:30:00,Cody Gakpo,Pass
+48,MissedShots,0.984000015,0.334000015,0.056109101,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Arsenal,2,2,2023-04-09 15:30:00,Cody Gakpo,Pass
+49,BlockedShot,0.900999985,0.301000004,0.0419778,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Arsenal,2,2,2023-04-09 15:30:00,Trent Alexander-Arnold,Chipped
+53,MissedShots,0.885,0.5,0.761169016,Mohamed Salah,h,Penalty,2022,LeftFoot,Liverpool,Arsenal,2,2,2023-04-09 15:30:00,,Standard
+56,SavedShot,0.919000015,0.342000008,0.0566529,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Arsenal,2,2,2023-04-09 15:30:00,,None
+80,MissedShots,0.936999969,0.302999992,0.046372999,Mohamed Salah,h,OpenPlay,2022,RightFoot,Liverpool,Arsenal,2,2,2023-04-09 15:30:00,,None
+93,MissedShots,0.973000031,0.447999992,0.592516005,Mohamed Salah,h,OpenPlay,2022,RightFoot,Liverpool,Arsenal,2,2,2023-04-09 15:30:00,Andrew Robertson,Chipped
+94,SavedShot,0.874000015,0.312000008,0.0489529,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Arsenal,2,2,2023-04-09 15:30:00,Trent Alexander-Arnold,Pass
+24,MissedShots,0.905,0.432999992,0.066926003,Mohamed Salah,a,OpenPlay,2022,Head,Leeds,Liverpool,1,6,2023-04-17 19:00:00,Jordan Henderson,Cross
+38,Goal,0.883000031,0.65,0.113665998,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Leeds,Liverpool,1,6,2023-04-17 19:00:00,Diogo Jota,Pass
+63,Goal,0.898000031,0.397999992,0.345569015,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Leeds,Liverpool,1,6,2023-04-17 19:00:00,Cody Gakpo,Pass
+9,BlockedShot,0.865,0.527999992,0.0716708,Mohamed Salah,h,FromCorner,2022,LeftFoot,Liverpool,Nottingham Forest,3,2,2023-04-22 14:00:00,,None
+34,MissedShots,0.869000015,0.312000008,0.045438822,Mohamed Salah,h,FromCorner,2022,LeftFoot,Liverpool,Nottingham Forest,3,2,2023-04-22 14:00:00,Jordan Henderson,Pass
+69,Goal,0.934000015,0.5,0.519711375,Mohamed Salah,h,SetPiece,2022,LeftFoot,Liverpool,Nottingham Forest,3,2,2023-04-22 14:00:00,Trent Alexander-Arnold,Cross
+6,BlockedShot,0.853000031,0.236000004,0.023896145,Mohamed Salah,a,OpenPlay,2022,LeftFoot,West Ham,Liverpool,1,2,2023-04-26 18:45:00,Cody Gakpo,Pass
+22,BlockedShot,0.849000015,0.242000008,0.018401787,Mohamed Salah,a,OpenPlay,2022,LeftFoot,West Ham,Liverpool,1,2,2023-04-26 18:45:00,Curtis Jones,Chipped
+57,BlockedShot,0.815999985,0.439000015,0.058033083,Mohamed Salah,a,OpenPlay,2022,LeftFoot,West Ham,Liverpool,1,2,2023-04-26 18:45:00,Cody Gakpo,HeadPass
+14,Goal,0.885,0.5,0.761168838,Mohamed Salah,h,Penalty,2022,LeftFoot,Liverpool,Tottenham,4,3,2023-04-30 15:30:00,,Standard
+21,MissedShots,0.84,0.464000015,0.090576097,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Tottenham,4,3,2023-04-30 15:30:00,Luis D√≠a,Pass
+54,BlockedShot,0.883000031,0.28,0.064550012,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Tottenham,4,3,2023-04-30 15:30:00,Harvey Elliott,Pass
+16,MissedShots,0.971999969,0.372999992,0.311779112,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Fulham,1,0,2023-05-03 19:00:00,Trent Alexander-Arnold,TakeOn
+38,Goal,0.885,0.5,0.761168838,Mohamed Salah,h,Penalty,2022,LeftFoot,Liverpool,Fulham,1,0,2023-05-03 19:00:00,,Standard
+49,MissedShots,0.904000015,0.354000015,0.10435845,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Fulham,1,0,2023-05-03 19:00:00,Luis D√≠a,Pass
+7,SavedShot,0.788000031,0.330999985,0.017835405,Mohamed Salah,h,FromCorner,2022,LeftFoot,Liverpool,Brentford,1,0,2023-05-06 16:30:00,,None
+12,Goal,0.989000015,0.495,0.939291239,Mohamed Salah,h,FromCorner,2022,LeftFoot,Liverpool,Brentford,1,0,2023-05-06 16:30:00,Virgil van Dijk,HeadPass
+57,MissedShots,0.87,0.317999992,0.06752836,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Brentford,1,0,2023-05-06 16:30:00,Diogo Jota,Pass
+42,BlockedShot,0.87,0.570999985,0.122753039,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Leicester,Liverpool,0,3,2023-05-15 19:00:00,Luis D√≠a,Pass
+52,MissedShots,0.810999985,0.322999992,0.045936577,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Leicester,Liverpool,0,3,2023-05-15 19:00:00,Jordan Henderson,Pass
+67,SavedShot,0.845999985,0.367000008,0.079892121,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Leicester,Liverpool,0,3,2023-05-15 19:00:00,Cody Gakpo,Pass
+75,BlockedShot,0.905999985,0.625,0.138534054,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Leicester,Liverpool,0,3,2023-05-15 19:00:00,Curtis Jones,Throughball
+78,MissedShots,0.858000031,0.545,0.43927756,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Leicester,Liverpool,0,3,2023-05-15 19:00:00,Cody Gakpo,Throughball
+50,SavedShot,0.861999969,0.303999996,0.036453381,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Aston Villa,1,1,2023-05-20 14:00:00,Fabinho,Pass
+50,BlockedShot,0.896999969,0.327999992,0.052850403,Mohamed Salah,h,OpenPlay,2022,LeftFoot,Liverpool,Aston Villa,1,1,2023-05-20 14:00:00,Trent Alexander-Arnold,TakeOn
+48,BlockedShot,0.933000031,0.472000008,0.137141883,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Southampton,Liverpool,4,4,2023-05-28 15:30:00,Roberto Firmino,Pass
+53,MissedShots,0.823000031,0.492999992,0.049050778,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Southampton,Liverpool,4,4,2023-05-28 15:30:00,Trent Alexander-Arnold,TakeOn
+59,BlockedShot,0.888000031,0.417000008,0.080346555,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Southampton,Liverpool,4,4,2023-05-28 15:30:00,Cody Gakpo,Pass
+78,ShotOnPost,0.774000015,0.497000008,0.278578401,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Southampton,Liverpool,4,4,2023-05-28 15:30:00,Jordan Henderson,Chipped
+81,MissedShots,0.909000015,0.316000004,0.053076282,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Southampton,Liverpool,4,4,2023-05-28 15:30:00,,None
+89,SavedShot,0.885999985,0.542000008,0.390415609,Mohamed Salah,a,OpenPlay,2022,RightFoot,Southampton,Liverpool,4,4,2023-05-28 15:30:00,Cody Gakpo,Pass
+91,MissedShots,0.865999985,0.355,0.092593938,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Southampton,Liverpool,4,4,2023-05-28 15:30:00,Harvey Elliott,Pass
+96,MissedShots,0.951999969,0.47,0.336924165,Mohamed Salah,a,OpenPlay,2022,LeftFoot,Southampton,Liverpool,4,4,2023-05-28 15:30:00,Trent Alexander-Arnold,TakeOn
+11,ShotOnPost,0.819000015,0.527999992,0.06408041,Mohamed Salah,a,OpenPlay,2023,RightFoot,Chelsea,Liverpool,1,1,2023-08-13 15:30:00,Cody Gakpo,Pass
+25,BlockedShot,0.850999985,0.445,0.100870714,Mohamed Salah,a,OpenPlay,2023,LeftFoot,Chelsea,Liverpool,1,1,2023-08-13 15:30:00,Luis D√≠a,Pass
+40,MissedShots,0.859000015,0.315,0.042925488,Mohamed Salah,a,OpenPlay,2023,LeftFoot,Chelsea,Liverpool,1,1,2023-08-13 15:30:00,,None
+33,MissedShots,0.819000015,0.572000008,0.055149455,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Bournemouth,3,1,2023-08-19 14:00:00,Diogo Jota,Pass
+35,Goal,0.956999969,0.525999985,0.66680944,Mohamed Salah,h,SetPiece,2023,LeftFoot,Liverpool,Bournemouth,3,1,2023-08-19 14:00:00,,Rebound
+35,SavedShot,0.885,0.5,0.761168838,Mohamed Salah,h,Penalty,2023,LeftFoot,Liverpool,Bournemouth,3,1,2023-08-19 14:00:00,,Standard
+52,SavedShot,0.965,0.345999985,0.314730406,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Bournemouth,3,1,2023-08-19 14:00:00,,None
+82,MissedShots,0.805,0.62,0.101156719,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Bournemouth,3,1,2023-08-19 14:00:00,Virgil van Dijk,Pass
+23,SavedShot,0.818000031,0.295,0.049155623,Mohamed Salah,a,OpenPlay,2023,LeftFoot,Newcastle United,Liverpool,1,2,2023-08-27 15:30:00,Cody Gakpo,Pass
+66,BlockedShot,0.919000015,0.597999992,0.108675905,Mohamed Salah,a,OpenPlay,2023,LeftFoot,Newcastle United,Liverpool,1,2,2023-08-27 15:30:00,Diogo Jota,Throughball
+46,MissedShots,0.800999985,0.52,0.046256099,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Aston Villa,3,0,2023-09-03 13:00:00,,None
+47,SavedShot,0.883000031,0.28,0.082355037,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Aston Villa,3,0,2023-09-03 13:00:00,Trent Alexander-Arnold,Chipped
+54,Goal,0.965,0.555,0.584939063,Mohamed Salah,h,FromCorner,2023,LeftFoot,Liverpool,Aston Villa,3,0,2023-09-03 13:00:00,Darwin N√∫√±,Rebound
+73,SavedShot,0.935999985,0.330999985,0.072737224,Mohamed Salah,h,OpenPlay,2023,RightFoot,Liverpool,Aston Villa,3,0,2023-09-03 13:00:00,,None
+45,BlockedShot,0.873000031,0.454000015,0.069669619,Mohamed Salah,a,OpenPlay,2023,RightFoot,Wolverhampton Wanderers,Liverpool,1,3,2023-09-16 11:30:00,,None
+15,Goal,0.885,0.5,0.761168838,Mohamed Salah,h,Penalty,2023,LeftFoot,Liverpool,West Ham,3,1,2023-09-24 13:00:00,,Standard
+31,MissedShots,0.869000015,0.316000004,0.065117806,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,West Ham,3,1,2023-09-24 13:00:00,Joseph Gomez,Pass
+34,BlockedShot,0.845,0.3,0.042776901,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,West Ham,3,1,2023-09-24 13:00:00,Dominik Szoboszlai,Pass
+37,MissedShots,0.850999985,0.415999985,0.102024175,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,West Ham,3,1,2023-09-24 13:00:00,Luis D√≠a,Pass
+69,SavedShot,0.805999985,0.288999996,0.031101722,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,West Ham,3,1,2023-09-24 13:00:00,Luis D√≠a,Pass
+21,MissedShots,0.771999969,0.567000008,0.02260302,Mohamed Salah,a,OpenPlay,2023,LeftFoot,Tottenham,Liverpool,2,1,2023-09-30 16:30:00,Cody Gakpo,Pass
+23,MissedShots,0.889000015,0.27,0.036720242,Mohamed Salah,a,OpenPlay,2023,LeftFoot,Brighton,Liverpool,2,2,2023-10-08 13:00:00,Harvey Elliott,Pass
+24,BlockedShot,0.879000015,0.437000008,0.073748045,Mohamed Salah,a,OpenPlay,2023,LeftFoot,Brighton,Liverpool,2,2,2023-10-08 13:00:00,Darwin N√∫√±,HeadPass
+39,Goal,0.895,0.429000015,0.56991905,Mohamed Salah,a,OpenPlay,2023,LeftFoot,Brighton,Liverpool,2,2,2023-10-08 13:00:00,Darwin N√∫√±,Pass
+45,Goal,0.885,0.5,0.761168838,Mohamed Salah,a,Penalty,2023,LeftFoot,Brighton,Liverpool,2,2,2023-10-08 13:00:00,,Standard
+88,BlockedShot,0.848000031,0.422999992,0.076167405,Mohamed Salah,a,OpenPlay,2023,LeftFoot,Brighton,Liverpool,2,2,2023-10-08 13:00:00,Dominik Szoboszlai,Pass
+26,MissedShots,0.856999969,0.243999996,0.022678971,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Everton,2,0,2023-10-21 11:30:00,,None
+51,BlockedShot,0.885999985,0.54,0.091503799,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Everton,2,0,2023-10-21 11:30:00,,None
+74,Goal,0.885,0.5,0.76109463,Mohamed Salah,h,Penalty,2023,LeftFoot,Liverpool,Everton,2,0,2023-10-21 11:30:00,,Standard
+96,Goal,0.875999985,0.420999985,0.439317226,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Everton,2,0,2023-10-21 11:30:00,Darwin N√∫√±,Pass
+47,MissedShots,0.860999985,0.253999996,0.047453709,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Nottingham Forest,3,0,2023-10-29 14:00:00,Darwin N√∫√±,Pass
+63,MissedShots,0.776999969,0.367999992,0.071132958,Mohamed Salah,h,DirectFreekick,2023,LeftFoot,Liverpool,Nottingham Forest,3,0,2023-10-29 14:00:00,,Standard
+76,Goal,0.795,0.297000008,0.067225806,Mohamed Salah,h,OpenPlay,2023,RightFoot,Liverpool,Nottingham Forest,3,0,2023-10-29 14:00:00,Dominik Szoboszlai,Pass
+20,MissedShots,0.855999985,0.454000015,0.066464335,Mohamed Salah,a,SetPiece,2023,LeftFoot,Luton,Liverpool,1,1,2023-11-05 16:30:00,,None
+69,MissedShots,0.961999969,0.445,0.497291684,Mohamed Salah,a,OpenPlay,2023,Head,Luton,Liverpool,1,1,2023-11-05 16:30:00,Trent Alexander-Arnold,Throughball
+38,Goal,0.915999985,0.390999985,0.360132396,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Brentford,3,0,2023-11-12 14:00:00,Darwin N√∫√±,Pass
+49,MissedShots,0.958000031,0.464000015,0.57745409,Mohamed Salah,h,OpenPlay,2023,RightFoot,Liverpool,Brentford,3,0,2023-11-12 14:00:00,Trent Alexander-Arnold,Chipped
+61,Goal,0.92,0.425,0.041738216,Mohamed Salah,h,OpenPlay,2023,Head,Liverpool,Brentford,3,0,2023-11-12 14:00:00,Konstantinos Tsimikas,Chipped
+54,SavedShot,0.936999969,0.330999985,0.290576518,Mohamed Salah,h,OpenPlay,2023,RightFoot,Liverpool,Fulham,4,3,2023-12-03 14:00:00,Darwin N√∫√±,Chipped
+83,MissedShots,0.969000015,0.534000015,0.69546777,Mohamed Salah,h,FromCorner,2023,LeftFoot,Liverpool,Fulham,4,3,2023-12-03 14:00:00,,Rebound
+9,MissedShots,0.879000015,0.442000008,0.075742111,Mohamed Salah,a,OpenPlay,2023,LeftFoot,Sheffield United,Liverpool,0,2,2023-12-06 19:30:00,Luis D√≠a,Cross
+10,BlockedShot,0.734000015,0.5,0.015576601,Mohamed Salah,a,OpenPlay,2023,LeftFoot,Sheffield United,Liverpool,0,2,2023-12-06 19:30:00,,None
+44,SavedShot,0.860999985,0.367000008,0.086108863,Mohamed Salah,a,OpenPlay,2023,LeftFoot,Sheffield United,Liverpool,0,2,2023-12-06 19:30:00,Dominik Szoboszlai,Pass
+55,SavedShot,0.911999969,0.522000008,0.295773745,Mohamed Salah,a,FromCorner,2023,RightFoot,Sheffield United,Liverpool,0,2,2023-12-06 19:30:00,Trent Alexander-Arnold,Cross
+46,BlockedShot,0.89,0.365999985,0.085354723,Mohamed Salah,a,OpenPlay,2023,RightFoot,Crystal Palace,Liverpool,1,2,2023-12-09 12:30:00,Trent Alexander-Arnold,Pass
+61,BlockedShot,0.875,0.479000015,0.072602466,Mohamed Salah,a,OpenPlay,2023,RightFoot,Crystal Palace,Liverpool,1,2,2023-12-09 12:30:00,Joseph Gomez,Cross
+75,Goal,0.875,0.477999992,0.101995312,Mohamed Salah,a,OpenPlay,2023,LeftFoot,Crystal Palace,Liverpool,1,2,2023-12-09 12:30:00,Curtis Jones,Pass
+15,SavedShot,0.958000031,0.425999985,0.112334535,Mohamed Salah,h,OpenPlay,2023,RightFoot,Liverpool,Manchester United,0,0,2023-12-17 16:30:00,,None
+17,BlockedShot,0.883000031,0.347999992,0.076520421,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Manchester United,0,0,2023-12-17 16:30:00,Luis D√≠a,Pass
+41,SavedShot,0.805999985,0.537999992,0.052644312,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Manchester United,0,0,2023-12-17 16:30:00,Ryan Gravenberch,Pass
+45,BlockedShot,0.805,0.35,0.025356814,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Manchester United,0,0,2023-12-17 16:30:00,Darwin N√∫√±,Pass
+63,SavedShot,0.794000015,0.374000015,0.027142935,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Manchester United,0,0,2023-12-17 16:30:00,Joseph Gomez,Pass
+69,SavedShot,0.870999985,0.339000015,0.052414879,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Manchester United,0,0,2023-12-17 16:30:00,Trent Alexander-Arnold,Pass
+13,MissedShots,0.951999969,0.357999992,0.063484639,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Arsenal,1,1,2023-12-23 17:30:00,Cody Gakpo,HeadPass
+28,Goal,0.905999985,0.34,0.052760314,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Arsenal,1,1,2023-12-23 17:30:00,Trent Alexander-Arnold,TakeOn
+49,SavedShot,0.850999985,0.394000015,0.079543576,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Arsenal,1,1,2023-12-23 17:30:00,Curtis Jones,Pass
+7,SavedShot,0.855999985,0.485,0.11597953,Mohamed Salah,a,OpenPlay,2023,RightFoot,Burnley,Liverpool,0,2,2023-12-26 17:30:00,Darwin N√∫√±,Pass
+33,ShotOnPost,0.84,0.39,0.064228676,Mohamed Salah,a,OpenPlay,2023,LeftFoot,Burnley,Liverpool,0,2,2023-12-26 17:30:00,Cody Gakpo,Chipped
+41,SavedShot,0.916999969,0.347999992,0.105501264,Mohamed Salah,a,OpenPlay,2023,LeftFoot,Burnley,Liverpool,0,2,2023-12-26 17:30:00,Harvey Elliott,Pass
+21,SavedShot,0.885,0.5,0.761168838,Mohamed Salah,h,Penalty,2023,LeftFoot,Liverpool,Newcastle United,4,2,2024-01-01 19:00:00,,Standard
+48,Goal,0.944000015,0.51,0.629923105,Mohamed Salah,h,OpenPlay,2023,RightFoot,Liverpool,Newcastle United,4,2,2024-01-01 19:00:00,Darwin N√∫√±,Pass
+64,SavedShot,0.851999969,0.243999996,0.026406307,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Newcastle United,4,2,2024-01-01 19:00:00,Diogo Jota,Pass
+85,Goal,0.885,0.5,0.761168838,Mohamed Salah,h,Penalty,2023,LeftFoot,Liverpool,Newcastle United,4,2,2024-01-01 19:00:00,,Standard
+87,BlockedShot,0.855,0.291000004,0.056377571,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Newcastle United,4,2,2024-01-01 19:00:00,Curtis Jones,Pass
+94,BlockedShot,0.881999969,0.45,0.121487387,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Newcastle United,4,2,2024-01-01 19:00:00,Ryan Gravenberch,Chipped
+50,MissedShots,0.915,0.390999985,0.32068935,Mohamed Salah,a,OpenPlay,2023,LeftFoot,Brentford,Liverpool,1,4,2024-02-17 12:30:00,Virgil van Dijk,HeadPass
+67,Goal,0.873000031,0.579000015,0.420335442,Mohamed Salah,a,OpenPlay,2023,LeftFoot,Brentford,Liverpool,1,4,2024-02-17 12:30:00,Cody Gakpo,TakeOn
+64,MissedShots,0.871999969,0.419000015,0.071363993,Mohamed Salah,h,FromCorner,2023,RightFoot,Liverpool,Manchester City,1,1,2024-03-10 15:45:00,,Rebound
+64,MissedShots,0.864000015,0.382999992,0.038580831,Mohamed Salah,h,FromCorner,2023,LeftFoot,Liverpool,Manchester City,1,1,2024-03-10 15:45:00,Andrew Robertson,Cross
+88,SavedShot,0.935999985,0.315,0.048031349,Mohamed Salah,h,OpenPlay,2023,RightFoot,Liverpool,Manchester City,1,1,2024-03-10 15:45:00,Luis D√≠a,Chipped
+7,BlockedShot,0.809000015,0.291000004,0.023542382,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Brighton,2,1,2024-03-31 14:00:00,Alexis Mac Allister,Pass
+8,MissedShots,0.888000031,0.318999996,0.059019238,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Brighton,2,1,2024-03-31 14:00:00,Conor Bradley,Pass
+16,BlockedShot,0.806999969,0.454000015,0.054827005,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Brighton,2,1,2024-03-31 14:00:00,,TakeOn
+16,BlockedShot,0.893000031,0.352000008,0.05563036,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Brighton,2,1,2024-03-31 14:00:00,,None
+17,MissedShots,0.93,0.322000008,0.057989191,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Brighton,2,1,2024-03-31 14:00:00,Alexis Mac Allister,Chipped
+18,MissedShots,0.891999969,0.402999992,0.093270741,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Brighton,2,1,2024-03-31 14:00:00,Conor Bradley,Pass
+31,SavedShot,0.801999969,0.397000008,0.036778655,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Brighton,2,1,2024-03-31 14:00:00,Dominik Szoboszlai,Pass
+54,MissedShots,0.983000031,0.43,0.376936555,Mohamed Salah,h,OpenPlay,2023,Head,Liverpool,Brighton,2,1,2024-03-31 14:00:00,Luis D√≠a,Chipped
+64,Goal,0.913000031,0.44,0.459691823,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Brighton,2,1,2024-03-31 14:00:00,Alexis Mac Allister,Throughball
+74,SavedShot,0.885999985,0.622999992,0.402068079,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Brighton,2,1,2024-03-31 14:00:00,Luis D√≠a,Pass
+89,SavedShot,0.883000031,0.532000008,0.113647841,Mohamed Salah,h,OpenPlay,2023,RightFoot,Liverpool,Brighton,2,1,2024-03-31 14:00:00,,None
+95,MissedShots,0.895999985,0.306000004,0.068486124,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Brighton,2,1,2024-03-31 14:00:00,Alexis Mac Allister,Pass
+5,SavedShot,0.866999969,0.34,0.020664155,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Sheffield United,3,1,2024-04-04 18:30:00,,Aerial
+13,MissedShots,0.810999985,0.322000008,0.020562662,Mohamed Salah,h,SetPiece,2023,LeftFoot,Liverpool,Sheffield United,3,1,2024-04-04 18:30:00,,None
+49,SavedShot,0.815,0.522000008,0.07193397,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Sheffield United,3,1,2024-04-04 18:30:00,Luis D√≠a,Pass
+9,BlockedShot,0.875999985,0.678000031,0.032188512,Mohamed Salah,a,OpenPlay,2023,LeftFoot,Manchester United,Liverpool,2,2,2024-04-07 14:30:00,Darwin N√∫√±,Cross
+32,SavedShot,0.825,0.387000008,0.088271677,Mohamed Salah,a,OpenPlay,2023,LeftFoot,Manchester United,Liverpool,2,2,2024-04-07 14:30:00,Luis D√≠a,Pass
+33,SavedShot,0.786999969,0.329000015,0.025914572,Mohamed Salah,a,FromCorner,2023,LeftFoot,Manchester United,Liverpool,2,2,2024-04-07 14:30:00,Andrew Robertson,Cross
+35,MissedShots,0.878000031,0.424000015,0.11572551,Mohamed Salah,a,OpenPlay,2023,LeftFoot,Manchester United,Liverpool,2,2,2024-04-07 14:30:00,Dominik Szoboszlai,Pass
+78,MissedShots,0.950999985,0.36,0.308179855,Mohamed Salah,a,OpenPlay,2023,RightFoot,Manchester United,Liverpool,2,2,2024-04-07 14:30:00,,Rebound
+83,Goal,0.885,0.5,0.761168838,Mohamed Salah,a,Penalty,2023,LeftFoot,Manchester United,Liverpool,2,2,2024-04-07 14:30:00,,Standard
+33,SavedShot,0.874000015,0.312999992,0.096617237,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Crystal Palace,0,1,2024-04-14 13:00:00,Alexis Mac Allister,Chipped
+90,BlockedShot,0.968000031,0.497000008,0.532167792,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Crystal Palace,0,1,2024-04-14 13:00:00,Diogo Jota,BallTouch
+44,MissedShots,0.816999969,0.515,0.045159589,Mohamed Salah,a,OpenPlay,2023,LeftFoot,Everton,Liverpool,2,0,2024-04-24 19:00:00,Darwin N√∫√±,Pass
+44,MissedShots,0.855,0.545999985,0.061522659,Mohamed Salah,a,OpenPlay,2023,LeftFoot,Everton,Liverpool,2,0,2024-04-24 19:00:00,,Rebound
+49,BlockedShot,0.841999969,0.502999992,0.076709859,Mohamed Salah,a,OpenPlay,2023,LeftFoot,Everton,Liverpool,2,0,2024-04-24 19:00:00,Dominik Szoboszlai,Pass
+54,SavedShot,0.893000031,0.562000008,0.108014129,Mohamed Salah,a,OpenPlay,2023,RightFoot,Everton,Liverpool,2,0,2024-04-24 19:00:00,Luis D√≠a,Pass
+69,BlockedShot,0.883000031,0.342000008,0.021905417,Mohamed Salah,a,FromCorner,2023,LeftFoot,Everton,Liverpool,2,0,2024-04-24 19:00:00,,Aerial
+78,MissedShots,0.895999985,0.472999992,0.079138346,Mohamed Salah,a,OpenPlay,2023,RightFoot,Everton,Liverpool,2,0,2024-04-24 19:00:00,,None
+94,SavedShot,0.855999985,0.442000008,0.046395265,Mohamed Salah,a,OpenPlay,2023,LeftFoot,Everton,Liverpool,2,0,2024-04-24 19:00:00,Luis D√≠a,HeadPass
+8,SavedShot,0.925,0.339000015,0.083548546,Mohamed Salah,h,OpenPlay,2023,RightFoot,Liverpool,Tottenham,4,2,2024-05-05 15:30:00,Harvey Elliott,Pass
+15,Goal,0.974000015,0.445,0.579414129,Mohamed Salah,h,OpenPlay,2023,Head,Liverpool,Tottenham,4,2,2024-05-05 15:30:00,Cody Gakpo,Cross
+33,MissedShots,0.856999969,0.434000015,0.135128692,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Tottenham,4,2,2024-05-05 15:30:00,,Dispossessed
+44,SavedShot,0.915999985,0.475999985,0.516139507,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Tottenham,4,2,2024-05-05 15:30:00,Andrew Robertson,Pass
+46,SavedShot,0.909000015,0.395,0.13349624,Mohamed Salah,h,OpenPlay,2023,RightFoot,Liverpool,Tottenham,4,2,2024-05-05 15:30:00,Harvey Elliott,Pass
+51,BlockedShot,0.873000031,0.320999985,0.072353765,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Tottenham,4,2,2024-05-05 15:30:00,Harvey Elliott,Pass
+3,BlockedShot,0.881999969,0.32,0.062498156,Mohamed Salah,a,OpenPlay,2023,LeftFoot,Aston Villa,Liverpool,3,3,2024-05-13 19:00:00,Harvey Elliott,TakeOn
+18,BlockedShot,0.914000015,0.542000008,0.137759566,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Wolverhampton Wanderers,2,0,2024-05-19 15:00:00,Luis D√≠a,Pass
+39,BlockedShot,0.964000015,0.592999992,0.117202476,Mohamed Salah,h,FromCorner,2023,RightFoot,Liverpool,Wolverhampton Wanderers,2,0,2024-05-19 15:00:00,,Rebound
+48,SavedShot,0.871999969,0.400999985,0.111758851,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Wolverhampton Wanderers,2,0,2024-05-19 15:00:00,Alexis Mac Allister,Pass
+49,SavedShot,0.973000031,0.43,0.490121543,Mohamed Salah,h,OpenPlay,2023,RightFoot,Liverpool,Wolverhampton Wanderers,2,0,2024-05-19 15:00:00,Andrew Robertson,Chipped
+50,BlockedShot,0.815,0.524000015,0.068694524,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Wolverhampton Wanderers,2,0,2024-05-19 15:00:00,,Dispossessed
+68,SavedShot,0.865999985,0.494000015,0.135777965,Mohamed Salah,h,OpenPlay,2023,LeftFoot,Liverpool,Wolverhampton Wanderers,2,0,2024-05-19 15:00:00,Luis D√≠a,None
+92,SavedShot,0.934000015,0.417000008,0.473925501,Mohamed Salah,h,OpenPlay,2023,RightFoot,Liverpool,Wolverhampton Wanderers,2,0,2024-05-19 15:00:00,Dominik Szoboszlai,Pass
+46,BlockedShot,0.874000015,0.337999992,0.040267952,Mohamed Salah,a,FromCorner,2024,LeftFoot,Ipswich,Liverpool,0,2,2024-08-17 11:30:00,Luis D√≠a,Pass
+64,Goal,0.936999969,0.449000015,0.571324468,Mohamed Salah,a,OpenPlay,2024,LeftFoot,Ipswich,Liverpool,0,2,2024-08-17 11:30:00,,None
+70,SavedShot,0.836999969,0.562999992,0.403199852,Mohamed Salah,a,OpenPlay,2024,LeftFoot,Ipswich,Liverpool,0,2,2024-08-17 11:30:00,Dominik Szoboszlai,Throughball
+93,SavedShot,0.930999985,0.347000008,0.081942737,Mohamed Salah,a,OpenPlay,2024,LeftFoot,Ipswich,Liverpool,0,2,2024-08-17 11:30:00,,None
+20,MissedShots,0.881999969,0.313999996,0.064413816,Mohamed Salah,h,OpenPlay,2024,LeftFoot,Liverpool,Brentford,2,0,2024-08-25 15:30:00,Trent Alexander-Arnold,Pass
+67,SavedShot,0.864000015,0.27,0.043790348,Mohamed Salah,h,OpenPlay,2024,LeftFoot,Liverpool,Brentford,2,0,2024-08-25 15:30:00,Dominik Szoboszlai,Pass
+69,Goal,0.894000015,0.379000015,0.325046331,Mohamed Salah,h,OpenPlay,2024,LeftFoot,Liverpool,Brentford,2,0,2024-08-25 15:30:00,Luis D√≠a,Pass
+55,Goal,0.856999969,0.42,0.295435548,Mohamed Salah,a,OpenPlay,2024,LeftFoot,Manchester United,Liverpool,0,3,2024-09-01 15:00:00,Dominik Szoboszlai,Pass
+56,MissedShots,0.860999985,0.490999985,0.173722252,Mohamed Salah,a,OpenPlay,2024,LeftFoot,Manchester United,Liverpool,0,3,2024-09-01 15:00:00,,TakeOn
+57,BlockedShot,0.865,0.292999992,0.053936388,Mohamed Salah,a,OpenPlay,2024,LeftFoot,Manchester United,Liverpool,0,3,2024-09-01 15:00:00,Alexis Mac Allister,Pass
+51,SavedShot,0.965,0.322000008,0.08929038,Mohamed Salah,h,OpenPlay,2024,RightFoot,Liverpool,Nottingham Forest,0,1,2024-09-14 14:00:00,Trent Alexander-Arnold,TakeOn
+65,MissedShots,0.768000031,0.34,0.0203392,Mohamed Salah,h,OpenPlay,2024,LeftFoot,Liverpool,Nottingham Forest,0,1,2024-09-14 14:00:00,Ibrahima Konat√,Chipped
+75,SavedShot,0.906999969,0.242999992,0.03092753,Mohamed Salah,h,OpenPlay,2024,LeftFoot,Liverpool,Nottingham Forest,0,1,2024-09-14 14:00:00,Dominik Szoboszlai,Pass
+12,SavedShot,0.856999969,0.364000015,0.083946623,Mohamed Salah,h,OpenPlay,2024,LeftFoot,Liverpool,Bournemouth,3,0,2024-09-21 14:00:00,Alexis Mac Allister,Pass
+39,SavedShot,0.870999985,0.324000015,0.077777222,Mohamed Salah,h,OpenPlay,2024,LeftFoot,Liverpool,Bournemouth,3,0,2024-09-21 14:00:00,Ryan Gravenberch,Pass
+58,BlockedShot,0.911999969,0.617999992,0.167152792,Mohamed Salah,h,OpenPlay,2024,RightFoot,Liverpool,Bournemouth,3,0,2024-09-21 14:00:00,,TakeOn
+58,SavedShot,0.950999985,0.602999992,0.126699716,Mohamed Salah,h,OpenPlay,2024,LeftFoot,Liverpool,Bournemouth,3,0,2024-09-21 14:00:00,Alexis Mac Allister,Chipped
+49,MissedShots,0.86,0.367999992,0.328348696,Mohamed Salah,a,OpenPlay,2024,RightFoot,Wolverhampton Wanderers,Liverpool,1,2,2024-09-28 16:30:00,,None
+60,Goal,0.885,0.5,0.761168838,Mohamed Salah,a,Penalty,2024,LeftFoot,Wolverhampton Wanderers,Liverpool,1,2,2024-09-28 16:30:00,,Standard
+64,SavedShot,0.841999969,0.303999996,0.065382421,Mohamed Salah,a,OpenPlay,2024,LeftFoot,Wolverhampton Wanderers,Liverpool,1,2,2024-09-28 16:30:00,Trent Alexander-Arnold,Pass
+47,BlockedShot,0.865,0.327000008,0.070971504,Mohamed Salah,a,OpenPlay,2024,LeftFoot,Crystal Palace,Liverpool,0,1,2024-10-05 11:30:00,Curtis Jones,Pass
+55,SavedShot,0.901999969,0.409000015,0.308331013,Mohamed Salah,a,OpenPlay,2024,LeftFoot,Crystal Palace,Liverpool,0,1,2024-10-05 11:30:00,Virgil van Dijk,Chipped
+25,BlockedShot,0.849000015,0.28,0.031621892,Mohamed Salah,h,OpenPlay,2024,LeftFoot,Liverpool,Chelsea,2,1,2024-10-20 15:30:00,Curtis Jones,Pass
+28,Goal,0.885,0.5,0.761168838,Mohamed Salah,h,Penalty,2024,LeftFoot,Liverpool,Chelsea,2,1,2024-10-20 15:30:00,,Standard
+13,MissedShots,0.76,0.385,0.018175457,Mohamed Salah,a,OpenPlay,2024,LeftFoot,Arsenal,Liverpool,2,2,2024-10-27 16:30:00,,BallRecovery
+51,SavedShot,0.966999969,0.349000015,0.062728263,Mohamed Salah,a,OpenPlay,2024,RightFoot,Arsenal,Liverpool,2,2,2024-10-27 16:30:00,Alexis Mac Allister,Pass
+80,Goal,0.893000031,0.46,0.590013504,Mohamed Salah,a,OpenPlay,2024,LeftFoot,Arsenal,Liverpool,2,2,2024-10-27 16:30:00,Darwin N√∫√±,Pass
+25,MissedShots,0.981999969,0.392000008,0.058201268,Mohamed Salah,h,OpenPlay,2024,RightFoot,Liverpool,Brighton,2,1,2024-11-02 15:00:00,Trent Alexander-Arnold,Foul
+55,SavedShot,0.905,0.350999985,0.273479313,Mohamed Salah,h,OpenPlay,2024,LeftFoot,Liverpool,Brighton,2,1,2024-11-02 15:00:00,Darwin N√∫√±,Chipped
+71,Goal,0.851999969,0.317999992,0.06631127,Mohamed Salah,h,OpenPlay,2024,LeftFoot,Liverpool,Brighton,2,1,2024-11-02 15:00:00,Curtis Jones,Pass
+4,BlockedShot,0.871999969,0.357999992,0.096575528,Mohamed Salah,h,OpenPlay,2024,LeftFoot,Liverpool,Aston Villa,2,0,2024-11-09 20:00:00,Trent Alexander-Arnold,Pass
+60,BlockedShot,0.805999985,0.500999985,0.058869667,Mohamed Salah,h,OpenPlay,2024,LeftFoot,Liverpool,Aston Villa,2,0,2024-11-09 20:00:00,Luis D√≠a,Pass
+83,Goal,0.950999985,0.445999985,0.620209277,Mohamed Salah,h,OpenPlay,2024,LeftFoot,Liverpool,Aston Villa,2,0,2024-11-09 20:00:00,,Interception
+5,SavedShot,0.87,0.318999996,0.07900741,Mohamed Salah,a,OpenPlay,2024,LeftFoot,Southampton,Liverpool,2,3,2024-11-24 14:00:00,Dominik Szoboszlai,Pass
+8,MissedShots,0.958000031,0.349000015,0.04843333,Mohamed Salah,a,OpenPlay,2024,LeftFoot,Southampton,Liverpool,2,3,2024-11-24 14:00:00,Andrew Robertson,Cross
+20,SavedShot,0.95,0.345999985,0.265088707,Mohamed Salah,a,OpenPlay,2024,LeftFoot,Southampton,Liverpool,2,3,2024-11-24 14:00:00,Cody Gakpo,Cross
+64,Goal,0.875,0.296000004,0.249732867,Mohamed Salah,a,OpenPlay,2024,LeftFoot,Southampton,Liverpool,2,3,2024-11-24 14:00:00,Ryan Gravenberch,Chipped
+82,Goal,0.885,0.5,0.761168838,Mohamed Salah,a,Penalty,2024,LeftFoot,Southampton,Liverpool,2,3,2024-11-24 14:00:00,,Standard
+84,MissedShots,0.855,0.375,0.122967087,Mohamed Salah,a,OpenPlay,2024,LeftFoot,Southampton,Liverpool,2,3,2024-11-24 14:00:00,Dominik Szoboszlai,Chipped
+87,ShotOnPost,0.949000015,0.407000008,0.140659869,Mohamed Salah,a,OpenPlay,2024,LeftFoot,Southampton,Liverpool,2,3,2024-11-24 14:00:00,,None
+55,MissedShots,0.848000031,0.445999985,0.350916833,Mohamed Salah,h,OpenPlay,2024,LeftFoot,Liverpool,Manchester City,2,0,2024-12-01 16:00:00,,BallRecovery
+62,MissedShots,0.843000031,0.641999969,0.066375993,Mohamed Salah,h,OpenPlay,2024,LeftFoot,Liverpool,Manchester City,2,0,2024-12-01 16:00:00,Luis D√≠a,BallRecovery
+77,Goal,0.885,0.5,0.761168838,Mohamed Salah,h,Penalty,2024,LeftFoot,Liverpool,Manchester City,2,0,2024-12-01 16:00:00,,Standard
+13,BlockedShot,0.92,0.352000008,0.092056975,Mohamed Salah,a,OpenPlay,2024,LeftFoot,Newcastle United,Liverpool,3,3,2024-12-04 19:30:00,Curtis Jones,Pass
+67,Goal,0.956999969,0.415,0.456596464,Mohamed Salah,a,OpenPlay,2024,RightFoot,Newcastle United,Liverpool,3,3,2024-12-04 19:30:00,Trent Alexander-Arnold,Pass
+81,ShotOnPost,0.959000015,0.332000008,0.080293812,Mohamed Salah,a,OpenPlay,2024,RightFoot,Newcastle United,Liverpool,3,3,2024-12-04 19:30:00,Trent Alexander-Arnold,TakeOn
+82,Goal,0.905,0.465999985,0.134546682,Mohamed Salah,a,OpenPlay,2024,LeftFoot,Newcastle United,Liverpool,3,3,2024-12-04 19:30:00,Trent Alexander-Arnold,Pass
+46,MissedShots,0.889000015,0.377999992,0.06115206,Mohamed Salah,h,OpenPlay,2024,LeftFoot,Liverpool,Fulham,2,2,2024-12-14 15:00:00,,None
+65,MissedShots,0.878000031,0.666999969,0.0845211,Mohamed Salah,h,OpenPlay,2024,LeftFoot,Liverpool,Fulham,2,2,2024-12-14 15:00:00,Dominik Szoboszlai,Pass
+70,MissedShots,0.845999985,0.515,0.053954422,Mohamed Salah,h,OpenPlay,2024,LeftFoot,Liverpool,Fulham,2,2,2024-12-14 15:00:00,Luis D√≠a,Cross
+90,BlockedShot,0.89,0.325,0.035053939,Mohamed Salah,h,FromCorner,2024,LeftFoot,Liverpool,Fulham,2,2,2024-12-14 15:00:00,Harvey Elliott,Cross
+2,MissedShots,0.878000031,0.28,0.042481054,Mohamed Salah,a,OpenPlay,2024,LeftFoot,Tottenham,Liverpool,3,6,2024-12-22 16:30:00,,BallRecovery
+9,SavedShot,0.956999969,0.43,0.411254019,Mohamed Salah,a,OpenPlay,2024,LeftFoot,Tottenham,Liverpool,3,6,2024-12-22 16:30:00,Trent Alexander-Arnold,Cross
+16,BlockedShot,0.88,0.419000015,0.071998157,Mohamed Salah,a,OpenPlay,2024,LeftFoot,Tottenham,Liverpool,3,6,2024-12-22 16:30:00,Cody Gakpo,Cross
+16,BlockedShot,0.880999985,0.415999985,0.079820432,Mohamed Salah,a,OpenPlay,2024,LeftFoot,Tottenham,Liverpool,3,6,2024-12-22 16:30:00,,Rebound
+17,ShotOnPost,0.899000015,0.360999985,0.131266326,Mohamed Salah,a,OpenPlay,2024,RightFoot,Tottenham,Liverpool,3,6,2024-12-22 16:30:00,Luis D√≠a,TakeOn
+53,Goal,0.966999969,0.490999985,0.953040242,Mohamed Salah,a,OpenPlay,2024,LeftFoot,Tottenham,Liverpool,3,6,2024-12-22 16:30:00,,Rebound
+60,Goal,0.900999985,0.517999992,0.513583243,Mohamed Salah,a,OpenPlay,2024,RightFoot,Tottenham,Liverpool,3,6,2024-12-22 16:30:00,Dominik Szoboszlai,Pass
+3,SavedShot,0.970999985,0.43,0.119118728,Mohamed Salah,h,OpenPlay,2024,RightFoot,Liverpool,Leicester,3,1,2024-12-26 20:00:00,Cody Gakpo,Cross
+23,BlockedShot,0.868000031,0.375999985,0.054748159,Mohamed Salah,h,OpenPlay,2024,RightFoot,Liverpool,Leicester,3,1,2024-12-26 20:00:00,,None
+44,ShotOnPost,0.870999985,0.35,0.08661598,Mohamed Salah,h,OpenPlay,2024,LeftFoot,Liverpool,Leicester,3,1,2024-12-26 20:00:00,,None
+78,SavedShot,0.886999969,0.311000004,0.154440865,Mohamed Salah,h,OpenPlay,2024,LeftFoot,Liverpool,Leicester,3,1,2024-12-26 20:00:00,Trent Alexander-Arnold,Throughball
+81,Goal,0.893000031,0.296000004,0.117102146,Mohamed Salah,h,OpenPlay,2024,LeftFoot,Liverpool,Leicester,3,1,2024-12-26 20:00:00,Cody Gakpo,Chipped
+5,SavedShot,0.945,0.445,0.536981046,Mohamed Salah,a,OpenPlay,2024,LeftFoot,West Ham,Liverpool,0,5,2024-12-29 17:15:00,Cody Gakpo,Throughball
+43,Goal,0.85,0.377000008,0.089560755,Mohamed Salah,a,OpenPlay,2024,LeftFoot,West Ham,Liverpool,0,5,2024-12-29 17:15:00,Curtis Jones,Pass
+46,SavedShot,0.870999985,0.389000015,0.401928544,Mohamed Salah,a,OpenPlay,2024,LeftFoot,West Ham,Liverpool,0,5,2024-12-29 17:15:00,Alexis Mac Allister,Throughball
+46,SavedShot,0.965,0.355999985,0.197262019,Mohamed Salah,a,OpenPlay,2024,LeftFoot,West Ham,Liverpool,0,5,2024-12-29 17:15:00,Trent Alexander-Arnold,TakeOn
+48,MissedShots,0.894000015,0.297000008,0.062276099,Mohamed Salah,a,OpenPlay,2024,RightFoot,West Ham,Liverpool,0,5,2024-12-29 17:15:00,Cody Gakpo,Pass
+65,MissedShots,0.878000031,0.344000015,0.112124637,Mohamed Salah,a,OpenPlay,2024,LeftFoot,West Ham,Liverpool,0,5,2024-12-29 17:15:00,Trent Alexander-Arnold,Pass
+75,MissedShots,0.863000031,0.459000015,0.281994134,Mohamed Salah,a,OpenPlay,2024,LeftFoot,West Ham,Liverpool,0,5,2024-12-29 17:15:00,Trent Alexander-Arnold,Cross
+42,MissedShots,0.875999985,0.33,0.108414426,Mohamed Salah,h,OpenPlay,2024,LeftFoot,Liverpool,Manchester United,2,2,2025-01-05 16:30:00,Luis D√≠a,Chipped
+69,Goal,0.885,0.5,0.761168838,Mohamed Salah,h,Penalty,2024,LeftFoot,Liverpool,Manchester United,2,2,2025-01-05 16:30:00,,Standard
+74,MissedShots,0.785999985,0.432999992,0.096482933,Mohamed Salah,h,DirectFreekick,2024,LeftFoot,Liverpool,Manchester United,2,2,2025-01-05 16:30:00,,Standard
+93,BlockedShot,0.923000031,0.298999996,0.048315212,Mohamed Salah,h,OpenPlay,2024,LeftFoot,Liverpool,Manchester United,2,2,2025-01-05 16:30:00,Harvey Elliott,Chipped
+58,MissedShots,0.864000015,0.357999992,0.051180203,Mohamed Salah,a,OpenPlay,2024,LeftFoot,Nottingham Forest,Liverpool,1,1,2025-01-14 20:00:00,Luis D√≠a,BallTouch
+78,BlockedShot,0.899000015,0.645999985,0.117692061,Mohamed Salah,a,OpenPlay,2024,LeftFoot,Nottingham Forest,Liverpool,1,1,2025-01-14 20:00:00,Cody Gakpo,Pass
+82,MissedShots,0.924000015,0.307000008,0.063289233,Mohamed Salah,a,OpenPlay,2024,LeftFoot,Nottingham Forest,Liverpool,1,1,2025-01-14 20:00:00,Dominik Szoboszlai,Pass
+87,BlockedShot,0.891999969,0.412000008,0.032699127,Mohamed Salah,a,FromCorner,2024,LeftFoot,Nottingham Forest,Liverpool,1,1,2025-01-14 20:00:00,,Aerial
+87,SavedShot,0.890999985,0.357000008,0.053113353,Mohamed Salah,a,FromCorner,2024,LeftFoot,Nottingham Forest,Liverpool,1,1,2025-01-14 20:00:00,Alexis Mac Allister,Pass
+88,MissedShots,0.936999969,0.362000008,0.072757199,Mohamed Salah,a,OpenPlay,2024,LeftFoot,Nottingham Forest,Liverpool,1,1,2025-01-14 20:00:00,,None
+36,SavedShot,0.908000031,0.327000008,0.068197124,Mohamed Salah,a,OpenPlay,2024,RightFoot,Brentford,Liverpool,0,2,2025-01-18 15:00:00,Ibrahima Konat√,Pass
+52,BlockedShot,0.891999969,0.379000015,0.123206638,Mohamed Salah,a,OpenPlay,2024,LeftFoot,Brentford,Liverpool,0,2,2025-01-18 15:00:00,Cody Gakpo,Pass
+88,MissedShots,0.813000031,0.477999992,0.076576054,Mohamed Salah,a,OpenPlay,2024,LeftFoot,Brentford,Liverpool,0,2,2025-01-18 15:00:00,,TakeOn
+7,BlockedShot,0.885,0.302999992,0.047623191,Mohamed Salah,h,OpenPlay,2024,LeftFoot,Liverpool,Ipswich,4,1,2025-01-25 15:00:00,,TakeOn
+32,BlockedShot,0.870999985,0.295,0.056775372,Mohamed Salah,h,OpenPlay,2024,LeftFoot,Liverpool,Ipswich,4,1,2025-01-25 15:00:00,Ibrahima Konat√,Pass
+34,Goal,0.971999969,0.400999985,0.30512175,Mohamed Salah,h,OpenPlay,2024,LeftFoot,Liverpool,Ipswich,4,1,2025-01-25 15:00:00,Cody Gakpo,Cross
+24,SavedShot,0.745999985,0.465999985,0.022815108,Mohamed Salah,a,OpenPlay,2024,LeftFoot,Bournemouth,Liverpool,0,2,2025-02-01 15:00:00,Dominik Szoboszlai,Pass
+29,Goal,0.885,0.5,0.761168838,Mohamed Salah,a,Penalty,2024,LeftFoot,Bournemouth,Liverpool,0,2,2025-02-01 15:00:00,,Standard
+59,MissedShots,0.76,0.339000015,0.023485621,Mohamed Salah,a,OpenPlay,2024,LeftFoot,Bournemouth,Liverpool,0,2,2025-02-01 15:00:00,,None
+74,Goal,0.894000015,0.29,0.060366038,Mohamed Salah,a,OpenPlay,2024,LeftFoot,Bournemouth,Liverpool,0,2,2025-02-01 15:00:00,Curtis Jones,Pass
